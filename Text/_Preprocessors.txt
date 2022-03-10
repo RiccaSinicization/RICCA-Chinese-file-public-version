@@ -290,7 +290,7 @@ bugs=虫
 Angle:=角度：
 Camera:=镜头：
 Default camera=默认镜头
-Focal point: 焦点：
+Focal point:=焦点：
 Remove focus=移除焦点
 Roll: =滚动：
 degrees=度
