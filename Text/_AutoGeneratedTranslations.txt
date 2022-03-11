@@ -12942,7 +12942,4 @@ Cleared to Epilogue 1 "Ricca Thereafter"=通关尾声 1“Ricca 其后“
 
 
 
-File 1 Difficulty: Normal=文件 1.难度：正常
-File 2 Difficulty: Normal=文件 2.难度：正常
-Cleared to Chapter 20 "The Lord of Statues (Part 2)"=已完成第 2.章0 "雕像之王（下）"
-File 3 Difficulty: Normal=文件 3.难度：正常
+
