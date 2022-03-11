@@ -305,15 +305,26 @@ BGM:=BGM：
 Auto rotating camera=自动旋转镜头
 Fixed dominant partner=固定攻方
 POV shot camera=视点镜头
-POV shot camera\r\n（Look at gaze）=视点镜头\n（凝视）
+Look at gaze=凝视
 Fixed face camera=固定面容镜头
 Fixed breast camera=固定乳房镜头
 Fixed crotch camera=固定胯部镜头
 Fixed backside camera=固定背部镜头
 Face=面容
+Hip=臀部
+Crotch=胯部
+Breast=乳房
+torso/=躯干
+torso=躯干
+Slime=史莱姆
+Goblin=哥布林
+&=和
 
-
-
+Auto distancing=自动距离
+area=区域
+Auto zoom=自动缩放
+camera{{A}}=镜头{{A}}
+No.=其
 Z Key / 1 Button=Z键/1按钮
 X Key=X键
 2 Button=2 按钮
