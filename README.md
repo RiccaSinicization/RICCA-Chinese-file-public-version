@@ -1,4 +1,4 @@
-# 圣骑士莉卡游戏 英文版 翻译插件文本公测版仓库 #
+![cover](https://s2.loli.net/2022/03/11/uO758MTQxmFiVSW.jpg)
 
 ## 项目简介 ##
 本汉化文本文件适用于安装了XUnity.AutoTranslator的英文版圣骑士莉卡游戏。
