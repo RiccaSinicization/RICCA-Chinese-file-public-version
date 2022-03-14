@@ -319,6 +319,8 @@ torso=躯干
 Slime=史莱姆
 Goblin=哥布林
 &=和
+Stone Golem=石像鬼
+
 
 Auto distancing=自动距离
 area=区域
