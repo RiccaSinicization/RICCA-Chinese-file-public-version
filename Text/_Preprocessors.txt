@@ -1,9 +1,5 @@
 ﻿
-Lv. 3=Lv. 3
-Lv. 2=Lv. 2
-Lv. 1=Lv. 1
-Lv. 5=Lv. 5
-Lv. 4=Lv. 4
+
 
 ——头饰
 None=无
@@ -206,40 +202,14 @@ The Lord of Statues (Part 2)=雕像之王（下）
 The Lord of Statues (Part 1)=雕像之王（上）
 Birth of a Succubus=魅魔的诞生
 The Dwellers of the Dark Forest=黑暗森林的居民
-The Revived Stone Giant=复活的石头巨人
+The Revived Stone Giant=复活的石像鬼
 Red Stone=红魔法石
 The Kidnapped Maiden=被绑架的少女
 The Brooch of Sunlight=阳光胸针
 Emissary of Sunlight=阳光的使者
-————————副词
-Highest=极高
-Quite High=略高
-High=高
-Medium=中
-Low=低
-Quite Low=略低
-——————穷举
-File 1=文件 1
-File 2=文件 2
-File 3=文件 3
-File 4=文件 4
-File 5=文件 5
-File 6=文件 6
-File 7=文件 7
-File 8=文件 8
-File 9=文件 9
-File 10=文件 10
-Chapter 1=第 1 章
-Chapter 2=第 2 章
-Chapter 3=第 3 章
-Chapter 4=第 4 章
-Chapter 5=第 5 章
-Chapter 6=第 6 章
-Chapter 7=第 7 章
-Chapter 8=第 8 章
-Chapter 9=第 9 章
-Chapter 10=第 10 章
-Chapter 11=第 11 章
+
+
+
 ————————界面部分
 Difficulty: Normal=难度：正常
 Difficulty: Hard=难度：困难
@@ -257,12 +227,8 @@ Proceed to stage=游玩关卡
 Olivia=奥利维亚
 
 Localized version=本地化版本
-build=开发号
-Weight=体重
-Speed=速度
-Save Date=保存日期
-seconds=秒
-times=次
+
+-----------
 cowgirl=骑乘体位
 Tittyfuck=乳交
 Missionary=龙翻体位
@@ -286,8 +252,14 @@ Urk=呜
 *Munch*=*咀嚼*
 *Chew*=*嚼*
 bugs=虫
+N-No=不，不要
 *Gulp*=*啜饮*
+*Gasp*=*喘*
+*Smooch*=*接吻*
 Angle:=角度：
+*Sniff*=抽泣
+Stop=停下
+Shluck=抽插
 Camera:=镜头：
 Default camera=默认镜头
 Focal point:=焦点：
@@ -301,6 +273,10 @@ No.2=2号
 No.3=3号
 No.4=4号
 No.5=5号
+Copy this file from=将此文件自
+</b>\r\n to \r\n<b>=</b>\r\n 到 \r\n<b>
+File {{A}} Difficulty: Casual=文件{{A}} 难度：休闲
+Start a new game?=开始新游戏吗？
 BGM:=BGM：
 Auto rotating camera=自动旋转镜头
 Fixed dominant partner=固定攻方
@@ -320,13 +296,26 @@ Slime=史莱姆
 Goblin=哥布林
 &=和
 Stone Golem=石像鬼
-
-
 Auto distancing=自动距离
 area=区域
 Auto zoom=自动缩放
-camera{{A}}=镜头{{A}}
 No.=其
+=========副词========
+Low=低
+Fire/Heat=火/热
+Ltng./Acid=雷/酸
+Ice/Water=冰/水
+Medium=中等
+High=高
+Absorb=吸收
+Quite High=稍高
+Quite high=稍高
+Deadly=致命
+Ineffective=无效
+Quite Low=稍低
+Quite low=稍低
+
+
 Z Key / 1 Button=Z键/1按钮
 X Key=X键
 2 Button=2 按钮
