@@ -97,7 +97,7 @@ Blue Scarf=蓝色围巾
 Red Scarf=红色围巾
 Decorative Round Shield=装饰圆盾
 Holy Knight Wings=神圣骑士之翼
-Fairy Wings=仙女之翼
+Fairy Wings=妖精之翼
 Succubus Wings=魅翼
 
 ——胸罩
@@ -142,7 +142,7 @@ Succubus Earrings=魔女耳环
 ——颈部和胸部
 None=无
 Holy Knight Brooch=神圣骑士胸针
-Fairy Choker=仙女项链
+Fairy Choker=妖精项链
 Succubus Crystal=魅魔水晶
 Mage Pendant=魔法师吊坠
 Succubus Choker=魅魔颈圈
@@ -230,6 +230,7 @@ Localized version=本地化版本
 
 -----------
 cowgirl=骑乘体位
+Cowgirl=骑乘体位
 Tittyfuck=乳交
 Missionary=龙翻体位
 doggystyle=狗趴体位
@@ -260,7 +261,8 @@ Angle:=角度：
 *Sniff*=抽泣
 Stop=停下
 Shluck=抽插
-Camera:=镜头：
+Camera=镜头
+camera=镜头
 Default camera=默认镜头
 Focal point:=焦点：
 Remove focus=移除焦点
