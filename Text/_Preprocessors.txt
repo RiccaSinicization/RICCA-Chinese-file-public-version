@@ -208,7 +208,8 @@ The Kidnapped Maiden=被绑架的少女
 The Brooch of Sunlight=阳光胸针
 Emissary of Sunlight=阳光的使者
 
-
+has been unlocked=已解锁
+has been removed=已被移除
 
 ————————界面部分
 Difficulty: Normal=难度：正常
@@ -239,7 +240,7 @@ orgasm=性高潮
 Masturbation=手淫
 Squat of humiliation:=屈辱的深蹲:
 Entry number=录入数目
-Drain Crystal=黑暗水晶
+Drain Crystal=导能水晶
 Miria=米莉娅
 slimes=史莱姆
 slime=史莱姆
@@ -248,6 +249,10 @@ Archlich-大尸巫
 Hmm=嗯
 Urk=呜
 ...=...
+Sizzle=嘶嘶
+pop=啪
+*Slurp*=*啜食*
+*Slurp*=*咕嘟咕嘟*
 *Sigh*=*唉*
 *Pant*=*喘息*
 *Munch*=*咀嚼*
