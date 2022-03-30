@@ -181,7 +181,7 @@ Necromancer Staff／A staff once used by a necromancer as a catalyst for casting
 
 
 ————————章节标题翻译【前置】
-Writhing Sludge=扭动的污泥
+Writhing Sludge=蠕动污泥
 Town of Undead=不死之城
 In the Name of God's Knight=以上帝骑士的名义
 The Depths of Darkness=黑暗的深处
@@ -207,7 +207,7 @@ Red Stone=红魔法石
 The Kidnapped Maiden=被绑架的少女
 The Brooch of Sunlight=阳光胸针
 Emissary of Sunlight=阳光的使者
-
+Escape=逃跑
 has been unlocked=已解锁
 has been removed=已被移除
 
@@ -351,7 +351,8 @@ Controls=控制
 Elapsed time=经过的时间
 R-15モード=R-15模式
 Hシーン=H场景
-
+X Key / 1 Button=X键 / 1按钮
+<b>Jump</b>\r\n Keyboard:Z Key\r\n Controller:3 Button=<b>跳跃</b>\r\n 键盘：Z键\n手柄：3按钮
 <b>Jump</b>\r\n Keyboard:X Key\r\n Controller:3 Button<line-height%3D150%>\r\nHolding the jump button for longer while jumping will raise the height of your jump.<line-height%3D100%>=<b>跳跃</b>\r\n 键盘：X键\n手柄：3按钮<line-height%3D150%>\r\n在跳跃时按住跳跃按钮将提高跳跃高度。<line-height%3D100%>
 ↑ Key\r\n↓ Key\r\n← Key\r\n→ Key\r\nX Key\r\nZ Key\r\nC Key\r\nV Key\r\nEscape Key\r\nLeftControl Key=↑ 键\n↓ 键\n← 键\n→ 键\nX键\nZ键\nC键\nV键\nEsc键\n左Ctrl键
 2- Axis\r\n2+ Axis\r\n1- Axis\r\n1+ Axis\r\n1 Button\r\n3 Button\r\n2 Button\r\n4 Button\r\n12 Button\r\n11 Button=2- 轴\n2+ 轴\n1.轴\n1+ 轴\n1.按钮\n3按钮\n2.按钮\n4按钮\n12按钮\n11按钮
@@ -359,6 +360,8 @@ Ladder/Grab chains/Ascend ladder\r\nCrouch/Descend ladder\r\nMove left\r\nMove r
 ↑ Key\r\n↓ Key\r\n← Key\r\n→ Key\r\nX Key\r\nZ Key\r\nC Key\r\nV Key\r\nEscape Key\r\nLeftControl Key=↑ 键\n↓ 键\n← 键\n→ 键\nX键\nZ键\nC键\nV键\nEsc键\n左Ctrl键
 2- Axis\r\n2+ Axis\r\n1- Axis\r\n1+ Axis\r\n1 Button\r\n3 Button\r\n2 Button\r\n4 Button\r\n12 Button\r\n11 Button=2- 轴\n2+ 轴\n1-轴\n1+ 轴\n1按钮\n3按钮\n2.按钮\n4按钮\n12按钮\n11按钮
 Ladder/Grab chains/Ascend ladder\r\nCrouch/Descend ladder\r\nMove left\r\nMove right\r\nAttack\r\nJump\r\nSpecial attack\r\nWalk/Guard\r\nOpen/close pause menu\r\nFree camera mode=梯子/抓链/爬梯\n蹲下/下梯子\n向左移动\n向右移动\n袭击\n跳\n特殊攻击\n移动/防御\n打开/关闭暂停菜单\n自由镜头模式
-
-
+↑ Key\r\n↓ Key\r\n← Key\r\n→ Key\r\nX Key\r\nZ Key\r\nC Key\r\nV Key\r\nEscape Key\r\nLeftControl Key=↑ 键\n↓ 键\n← 键\n→ 键\nX键\nZ键\nC键\nV键\nEsc键\n左Ctrl键
+2- Axis\r\n2+ Axis\r\n1- Axis\r\n1+ Axis\r\n1 Button\r\n3 Button\r\n2 Button\r\n4 Button\r\n12 Button\r\n11 Button=2- 轴\r\n2+ 轴\r\n1-轴\r\n1+ 轴\r\n1 按钮\r\n3 按钮\r\n2 按钮\r\n4 按钮\r\n12 按钮\r\n11 按钮
+Ladder/Grab chains/Ascend ladder\r\nCrouch/Descend ladder\r\nMove left\r\nMove right\r\nAttack\r\nJump\r\nSpecial attack\r\nWalk/Guard\r\nOpen/close pause menu\r\nFree camera mode=爬梯/抓链\n蹲下/下梯子\n向左移动\n向右移动\n攻击\n跳跃\n特殊攻击\n行走/防御\n打开/关闭暂停菜单\n自由镜头模式
+<b>Move left</b>\r\n Keyboard: ← Key\r\n Controller: 1- Axis <line-height%3D150%>\r\n<b>Move right</b><line-height%3D100%>\r\n Keyboard: → Key\r\n Controller: 1+ Axis<line-height%3D150%>\r\n<b>Attack</b><line-height%3D100%>\r\n Keyboard: X Key\r\n Controller: 1 Button=<b>向左移动</b>\r\n 键盘： ← 键\r\n 手柄：1-轴 <line-height%3D150%>\r\n<b>向右移动</b><line-height%3D100%>\r\n 键盘：→ 键\n手柄：1+轴<line-height%3D150%>\r\n<b>攻击</b><line-height%3D100%>\r\n 键盘：X键\n手柄：1按钮
 
