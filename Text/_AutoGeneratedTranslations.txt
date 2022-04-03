@@ -2,226 +2,226 @@
 ——————————————————————————【主线】第十一话开始————————————————————————————
 
 Quarry=采石场
-Iris... U-Um... Is there...a Drain Crystal around here?=Iris... 嗯。。。有。。。A.导能水晶 在这里？
-There is. I can sense its wavelength from under this cliff. Let's go.=有。我能从悬崖下感觉到它的波长。走吧。
-(<indent%3D0.4em>She was scary even after we left the ruined town, but it looks like Iris is in a better mood today.)=(<indent%3D0.4em>即使在我们离开这座废墟小镇后，她也很害怕，但看起来Iris （今天心情好多了。）
-(<indent%3D0.4em>I did it mostly because I was scared of her, but maybe destroying lots of Drain Crystals like she told me to fixed her mood... Heehee...)=(<indent%3D0.4em>我这么做主要是因为我害怕她，但也许会毁掉很多东西导能水晶就像她告诉我要改变她的情绪。。。嘿嘿……）
-(<indent%3D0.4em>Iris isn't just a smart fairy, she's God's messenger. I should probably just do what she says. I'm only a simple village girl, after all...)=(<indent%3D0.4em>Iris 她不仅是个聪明的妖精，还是上帝的使者。我应该照她说的做。毕竟，我只是一个单纯的乡村女孩……）
-(<indent%3D0.4em>My time of the month still hasn't come...but this nice sunny weather brightened up my mood a little, too...)=(<indent%3D0.4em>我这个月的时间还没到。。。但这种阳光明媚的天气也让我的心情变得愉快了一点……）
-What's wrong?=发生了什么？
-Oh, nothing... Heehee. Let's go!=哦，没什么。。。嘿嘿。走吧！
-x8=x8
-I'm fine with high places when I'm transformed, but...this height is still a little scary.=当我被改变的时候，我对高位没什么意见，但是。。。这个高度还是有点吓人。
-Even with your holy knight strength, you won't survive a fall from this height. Be careful not to lose your footing on the suspension bridge.=即使你拥有神圣骑士的力量，你也无法从这个高度坠落下来。小心别在吊桥上失足。
-What strange bugs... They look like they're carrying rocks.=多么奇怪的虫子。。。他们看起来像在搬石头。
-Those are rock eaters. They ingest rocks and use their components to create conglomerates on their backs. That's what they use to attack and defend themselves.=那些是吃石头的。它们吞食岩石并利用其成分在背部形成砾岩。这就是他们用来攻击和保护自己的东西。
-They're very strong, so I don't think they'll notice if you hop on their backs.=他们非常强壮，所以我认为如果你跳到他们的背上，他们不会注意到。
-Eep...! Falling rocks...!? That's so dangerous...=哦。。。！落石。。。！？那太危险了。。。
-I hope you don't mind me riding your back, mister rock eater. I shouldn't be too heavy for you...=我希望你不介意我骑在你背上，吃石头的先生。我对你来说不应该太重。。。
-(<indent%3D0.4em>Even if I am, it's because of the holy knight armor and weapon! Heehee...)=(<indent%3D0.4em>即使我是，那也是因为神圣骑士的盔甲和武器！嘿嘿……）
-Eek! More rocks...? Ugh, I have to watch out...=哎呀！还有石头吗。。。？我得小心。。。
-Why are there so many falling rocks? Could it be...?=为什么会有这么多落石？可能是。。。？
-This feeling... It's a human...=这种感觉。。。它是人类。。。
-I can sense human life. Three wavelengths, to be exact...=我能感觉到人类的生活。确切地说，三个波长。。。
-What? There are people here? They might be getting attacked by monsters again... Which direction are they in!?=什么这里有人吗？他们可能又被怪物袭击了。。。他们在哪个方向！？
-No... We don't have to go to them... They're coming to us...=不我们不必去找他们。。。他们要来找我们。。。
+Iris... U-Um... Is there...a Drain Crystal around here?=Iris... 嗯...这里...有...导能...水晶吗？
+There is. I can sense its wavelength from under this cliff. Let's go.=有。我从悬崖下感觉到其波长了。走吧。
+(<indent%3D0.4em>She was scary even after we left the ruined town, but it looks like Iris is in a better mood today.)=(<indent%3D0.4em>即使我们离开了废墟小镇，她还是很吓人，但看起来Iris今天心情好多了。）
+(<indent%3D0.4em>I did it mostly because I was scared of her, but maybe destroying lots of Drain Crystals like she told me to fixed her mood... Heehee...)=(<indent%3D0.4em>我这么做主要是因为我害怕她，但就像她告诉我的，也许毁掉大量导能水晶可以改善她的情绪...嘿嘿...）
+(<indent%3D0.4em>Iris isn't just a smart fairy, she's God's messenger. I should probably just do what she says. I'm only a simple village girl, after all...)=(<indent%3D0.4em>Iris 她不仅是个聪明的妖精，还是阳神的使者。我应该照她说的做。毕竟，我只是个单纯的乡村女孩...）
+(<indent%3D0.4em>My time of the month still hasn't come...but this nice sunny weather brightened up my mood a little, too...)=(<indent%3D0.4em>我的月经还没到...但这种阳光明媚的天气也让我的心情好了一些...）
+What's wrong?=发生什么事了？
+Oh, nothing... Heehee. Let's go!=哦，没什么...嘿嘿。走吧！
+I'm fine with high places when I'm transformed, but...this height is still a little scary.=我变身的时候，能适应高处，但是...这个高度还是有点吓人。
+Even with your holy knight strength, you won't survive a fall from this height. Be careful not to lose your footing on the suspension bridge.=即使你有圣骑士的力量，也无法从这个高度落下。小心别在吊桥上失足。
+What strange bugs... They look like they're carrying rocks.=好奇怪的虫子...它们看起来在搬石头。
+Those are rock eaters. They ingest rocks and use their components to create conglomerates on their backs. That's what they use to attack and defend themselves.=那些是嗜石虫。它们吞食岩石并利用其成分在背部形成砾岩。用来攻击和保护自己的东西。
+They're very strong, so I don't think they'll notice if you hop on their backs.=它们非常强壮，所以我认为如果你跳到他们的背上，他们不会注意到。
+Eep...! Falling rocks...!? That's so dangerous...=噫...！落石...！？太危险了...
+I hope you don't mind me riding your back, mister rock eater. I shouldn't be too heavy for you...=我希望你不介意我骑在你背上，嗜石虫先生。我对你来说应该不太重...
+(<indent%3D0.4em>Even if I am, it's because of the holy knight armor and weapon! Heehee...)=(<indent%3D0.4em>就算是很重，那也是因为圣骑士的盔甲和武器！嘿嘿...）
+Eek! More rocks...? Ugh, I have to watch out...=哎呀！还有石头吗...？我得小心...
+Why are there so many falling rocks? Could it be...?=为什么会有这么多落石？可能是...？
+This feeling... It's a human...=这种感觉...是人类...
+I can sense human life. Three wavelengths, to be exact...=我能感觉到活体人类。确切地说，三个波长...
+What? There are people here? They might be getting attacked by monsters again... Which direction are they in!?=什么？这里有人吗？他们可能又被怪物袭击了...在哪个方向！？
+No... We don't have to go to them... They're coming to us...=哎...我们不必去找他们...他们会来找我们...
 It'll only be trouble if they see me, so I'm going to watch from inside you.=只有他们看到我才会有麻烦，所以我会从你的内心观察。
-Heh heh heh... Hey, young lady... What are you doing here alone? You know there are dangerous monsters around...=嘿嘿嘿嘿。。。嘿，年轻女士。。。你一个人在这里干什么？你知道周围有危险的怪物。。。
-Hyahahahaha! You're practically asking to get assaulted!=哈哈哈！你简直是在要求被袭击！
+Heh heh heh... Hey, young lady... What are you doing here alone? You know there are dangerous monsters around...=嘿嘿嘿...哎，年轻女子...你一个人在这里干什么？周围有危险的怪物啊...
+Hyahahahaha! You're practically asking to get assaulted!=嗨哈哈哈！你简直是在要求被侵犯呐！
 Highwayman C=强盗C
-What's with that weapon and outfit? Are you some nobleman's brat? I don't appreciate kids playing at soldier...=那武器和装备是怎么回事？你是贵族的孩子吗？我不喜欢孩子们玩士兵游戏。。。
-U-Umm... Who are you people...?=嗯。。。你们这些人是谁。。。？
-Us...? We're just a group of guys who want to get friendly with cute girls like you...!=我们我们只是一群想和你这样的可爱女孩交朋友的人。。。！
-We don't want to scratch your face, so you better not struggle. We can't sell damaged goods at a good price, after all.=我们不想抓你的脸，所以你最好不要挣扎。毕竟，我们不能以好的价格出售损坏的货物。
-S-Sell...? Damaged goods...? Wha... What are you talking about...?=S-Sell。。。？受损货物。。。？什么。。。你在说什么。。。？
-This kid... She really has no idea, huh?=这孩子。。。她真的不知道，嗯？
-Ghahah! What do you expect from a girl who's out here all alone? Of course she'd have a few loose screws... Her body's got it all, though. We'll get a lot of money for her.=哈哈！你对一个独自在这里的女孩有什么期待？当然她会有一些松动的螺丝钉。。。但她的身体拥有一切。我们会为她赚很多钱。
+What's with that weapon and outfit? Are you some nobleman's brat? I don't appreciate kids playing at soldier...=那武器和装备是怎么回事？你是贵族之子吗？我不喜欢孩子们玩士兵游戏...
+U-Umm... Who are you people...?=嗯，呃...你们这些人是谁...？
+Us...? We're just a group of guys who want to get friendly with cute girls like you...!=我们...？我们只是一群想和你这样的可爱女孩交朋友的人...！
+We don't want to scratch your face, so you better not struggle. We can't sell damaged goods at a good price, after all.=我们不想抓破你的脸，所以你最好不要挣扎。毕竟，受损的货物不能卖个好价钱。
+S-Sell...? Damaged goods...? Wha... What are you talking about...?=卖，卖..？受损货物...？你...你在说什么...？
+This kid... She really has no idea, huh?=这孩子...她真的不知道，嗯？
+Ghahah! What do you expect from a girl who's out here all alone? Of course she'd have a few loose screws... Her body's got it all, though. We'll get a lot of money for her.=哈哈！你对一个独自在这里游荡的女孩有什么期待？她当然会有一些问题...但她的身体可弥补一切。我们会靠她赚很多钱啊。
 You said it. Unlike most women from this area, she looks plump and nice to hold. Heehee! I'd say we hit the jackpot.=你说对了。与这个地区的大多数女性不同，她看起来丰满，手感很好。嘿嘿！我想我们中大奖了。
-Nice to hold!? A-Are you...=很高兴拿着！？你是。。。
-*Sigh* Looks like we ran into a group of highwaymen. They kidnap people. I'm a fairy, but I still realized it at first glance.=*唉，看来我们遇到了一群强盗。他们绑架人。我是个妖精，但我还是第一眼就意识到了这一点。
-What...? Highwaymen...? Kidnap...!?=什么强盗。。。？劫持
-That's right! Thanks to you, we'll be able to afford a decent meal for ourselves. So no hard feelings, alright? Just blame it on bad luck and give up.=这是正确的！多亏了你，我们才能吃得起一顿像样的饭。所以不要难过，好吗？把它归咎于运气不好，然后放弃。
-This girl's so naive, she must be a virgin! Heh heh heh... And her face and body... If we sell her to our usual slaver, we won't have to worry about money for the next three months!=这个女孩太天真了，她一定是处女！嘿嘿嘿嘿。。。她的脸和身体。。。如果我们把她卖给我们惯常的奴隶主，我们在接下来的三个月里就不用担心钱了！
-(<indent%3D0.4em>V-Virgin... No... Ugh... These men are after me... They're after my body...)=(<indent%3D0.4em>V-Virgin。。。不呃。。。这些人在追我。。。他们在追求我的身体……）
+Nice to hold!? A-Are you...=手感很好！？你，你是要...
+*Sigh* Looks like we ran into a group of highwaymen. They kidnap people. I'm a fairy, but I still realized it at first glance.=*唉*，看来我们遇到了一群强盗。会绑架人们的强盗。我是个妖精，但我还是第一眼就意识到了这一点。
+What...? Highwaymen...? Kidnap...!?=什么...？强盗...？绑架...！？
+That's right! Thanks to you, we'll be able to afford a decent meal for ourselves. So no hard feelings, alright? Just blame it on bad luck and give up.=对喽！多亏了你，我们才能吃得起一顿像样的饭。所以不要难过，好吗？归咎于运气不好，然后放弃罢。
+This girl's so naive, she must be a virgin! Heh heh heh... And her face and body... If we sell her to our usual slaver, we won't have to worry about money for the next three months!=这个女孩太天真了，一定是处女啊！嘿嘿嘿...脸蛋儿和身体...如果我们把她卖给惯常的奴隶主，我们在接下来的三个月里就不用担心钱了！
+(<indent%3D0.4em>V-Virgin... No... Ugh... These men are after me... They're after my body...)=(<indent%3D0.4em>处，处女...不...呃...这些人在追我...他们在追求我的身体...）
 That guy does back alley business at the royal capital, right?=那家伙在皇家首都做秘密生意，对吧？
-Most of the women sold off to him spend their days getting fucked as slaves at the brothels. Some of them get sold off to pervert aristocrats and treated as their toys till they break. I know a woman who was sacrificed to an orc, too! Ghahaha!=大多数被他出卖的女人都在妓院当奴隶。他们中的一些人被卖给变态贵族，并被当作玩具对待，直到他们崩溃。我也认识一个被兽人牺牲的女人！哈哈哈！
-That sounds awful... No... Don't come near me...! I-If you do... I'll have to...k-kill you...!=听起来很糟糕。。。不别靠近我。。。！如果你真的。。。我得。。。杀了你。。。！
-Did you hear that, guys? She's gonna kill us! Ghahaha! Aren't you a brave little girl!?=你们听到了吗，伙计们？她会杀了我们！哈哈哈！你不是一个勇敢的小女孩吗！？
-I-I'm serious... I'll do it! I-I'm God's servant... I might not look like it...but I'm strong!=我是认真的。。。我会的！我是上帝的仆人。。。我可能看起来不像。。。但我很坚强！
-Ghahahahah! God's servant!? This girl is crazy after all!=哈哈哈！上帝的仆人！？这女孩真是疯了！
+Most of the women sold off to him spend their days getting fucked as slaves at the brothels. Some of them get sold off to pervert aristocrats and treated as their toys till they break. I know a woman who was sacrificed to an orc, too! Ghahaha!=大多数被他出卖的女人都在妓院当奴隶。其中的一些人被卖给变态贵族，并被当作性玩具对待，直到她们崩溃。我也认识一个被牺牲给兽人的女人！噶哈哈哈！
+That sounds awful... No... Don't come near me...! I-If you do... I'll have to...k-kill you...!=听起来真糟糕...不...别靠近我...！如，如果你真的搞...我得...杀，杀了你们...！
+Did you hear that, guys? She's gonna kill us! Ghahaha! Aren't you a brave little girl!?=你们听到了吗，伙计们？她会杀了我们！噶哈哈哈！你真是一个勇敢的小女孩哈！？
+I-I'm serious... I'll do it! I-I'm God's servant... I might not look like it...but I'm strong!=我，我是认真的...我会的！我，我是阳神的仆人...我可能看起来不像...但我很强壮！
+Ghahahahah! God's servant!? This girl is crazy after all!=噶哈哈哈！阳神的仆人！？这女孩真是疯了！
 Well, if you're gonna put up a fight, be prepared to lose an arm or a leg, maybe even two! It'll bring down your price, but they'll still take ya.=如果你要打架，准备好失去一只胳膊或一条腿，甚至两条腿！这会降低你的价格，但他们仍然会接受你。
-Bitch... You think you can fight us? I know that giant weapon in your slender arms is just for show! Come at me! Try to cut us down if you can!=婊子。。。你觉得你能打败我们吗？我知道你纤细手臂上的巨大武器只是为了炫耀！冲我来！如果可以的话，试着砍掉我们！
-Look - you're our merchandise, so we won't kill you. Don't move, alright? Be a good girl and let us capture you!=听着，你是我们的商品，所以我们不会杀了你。别动，好吗？做个好女孩，让我们抓住你！
-Huh...? Stop! Don't come near me! I-I don't... I don't want to hurt people...!=呵呵。。。？停止别靠近我！我不。。。我不想伤害别人。。。！
+Bitch... You think you can fight us? I know that giant weapon in your slender arms is just for show! Come at me! Try to cut us down if you can!=婊子...你觉得你能打败我们吗？我知道你纤细手臂上的巨大武器只是为了炫耀！冲我来！试着砍死我们啊！
+Look - you're our merchandise, so we won't kill you. Don't move, alright? Be a good girl and let us capture you!=嗨，你是我们的商品，所以我们不会杀了你。别动，好吗？做个好女孩，让我们抓住你就好！
+Huh...? Stop! Don't come near me! I-I don't... I don't want to hurt people...!=呵...？停下！别靠近我！我，我不...我不想伤害人...！
 Upon grapple defeat by Highwayman\r\n"The hypnotized prostitute in the capital" \r\nH scene (Already seen)=在与强盗搏斗失败后\n“首都被催眠的妓女”\nH场景（已经看过）
-(<indent%3D0.4em>What do I do!? They're humans... They're not the same as the monsters I fought before!)=(<indent%3D0.4em>我该怎么办！？他们是人类。。。他们和我以前打过的怪物不一样！）
-(<indent%3D0.4em>If I hit them with my weapon, they're going to die... I can't attack them...)=(<indent%3D0.4em>如果我用我的武器打他们，他们会死的。。。我不能攻击他们……）
-(<indent%3D0.4em>M-Maybe I can run from them and convince them to let me go... They're not monsters; I can talk to them. Surely they'll understand...)=(<indent%3D0.4em>也许我可以逃离他们，说服他们放我走。。。他们不是怪物；我可以和他们谈谈。他们肯定会理解……）
-Please, stop this...! Ugh... You shouldn't capture girls and sell them to other people...!=求你了，别这样。。。！呃。。。你不应该抓住女孩然后卖给别人。。。！
-H-Have you... Have you done terrible things to other women before, too? You mustn't... Please... Don't do this anymore!=你有没有。。。你以前也对其他女人做过可怕的事吗？你不能。。。请别再这样了！
-I don't have parents myself...but those girls have mothers and fathers who will mourn for them! Don't take away their daughters!=我自己也没有父母。。。但那些女孩的父母会为她们哀悼！不要带走他们的女儿！
-Mothers? Fathers? Quit talking and attack them already! You could easily take down these guys with your powers!=母亲？父亲？别说话了，攻击他们！你可以轻而易举地用你的力量干掉这些家伙！
-Huh...? But...they're humans... If I attack them, they'll get hurt and a load of blood will come out...! I can't hold back my strength when I use this weapon!=呵呵。。。？但是他们是人类。。。如果我攻击他们，他们会受伤，会流很多血。。。！当我使用这种武器时，我无法抑制我的力量！
-What...? Are you serious...!?=什么你是认真的吗。。。！？
+(<indent%3D0.4em>What do I do!? They're humans... They're not the same as the monsters I fought before!)=(<indent%3D0.4em>我该怎么办！？他们是人类...和我以前打过的怪物不一样！）
+(<indent%3D0.4em>If I hit them with my weapon, they're going to die... I can't attack them...)=(<indent%3D0.4em>如果我用武器打他们，他们会死的...我不能攻击他们...）
+(<indent%3D0.4em>M-Maybe I can run from them and convince them to let me go... They're not monsters; I can talk to them. Surely they'll understand...)=(<indent%3D0.4em>也，也许我可以逃离他们，说服他们放我走...他们不是怪物；我可以和他们谈谈。他们肯定会理解...）
+Please, stop this...! Ugh... You shouldn't capture girls and sell them to other people...!=求你了，别这样...！呃...你不应该抓住女孩然后卖给别人...！
+H-Have you... Have you done terrible things to other women before, too? You mustn't... Please... Don't do this anymore!=你...你以前也对其他女子做过可怕的事吗？你不能...请别再这样了！
+I don't have parents myself...but those girls have mothers and fathers who will mourn for them! Don't take away their daughters!=我自己没有父母...但那些女孩的父母会为她们哀悼！不要带走他们的女儿！
+Mothers? Fathers? Quit talking and attack them already! You could easily take down these guys with your powers!=母亲？父亲？别哔哔了，攻击他们！你可以轻而易举地用你的力量干掉这些家伙！
+Huh...? But...they're humans... If I attack them, they'll get hurt and a load of blood will come out...! I can't hold back my strength when I use this weapon!=呵...？但是他们是人类...如果我攻击他们，他们会受伤，会流很多血...！我使用这种武器时，无法抑制力量！
+What...? Are you serious...!?=什么...？你是认真的吗...！？
 Whoops! We won't let you go that easy, Missy!=哎呀！我们不会让你那么容易就走的，小姐！
-No... Haa, haa... But I'm supposed to be faster than them... I can't get away from these men no matter what...=不哈哈哈。。。但我应该比他们快。。。不管发生什么，我都离不开这些人。。。
-Hehehe, this is our territory. We know all the shortcuts around this place!=呵呵，这是我们的地盘。我们知道这个地方所有的捷径！
+No... Haa, haa... But I'm supposed to be faster than them... I can't get away from these men no matter what...=不...哈，哈...但我应该比他们快...而我无论如何都摆脱不了这些人...
+Hehehe, this is our territory. We know all the shortcuts around this place!=呵呵，这是我们的地盘。我们知道所有的捷径！
 What are you doing!? Hurry up and kill these damn humans!=你在做什么？快点杀了这些该死的人类！
-I-I can't! They're humans... They're not monsters...=我不能！他们是人类。。。他们不是怪物。。。
-Heh heh heh... Like I thought! That sword is just for show!=嘿嘿嘿嘿。。。就像我想的！那把剑只是为了炫耀！
-Ngh... At this rate, you're going to get captured by them! You're going to save humanity from monsters, right!? Then hurry up and...!=嗯。。。照这个速度，你会被他们抓住的！你要从怪物那里拯救人类，对吧！？那就快点。。。！
-You're right... I'm the holy knight who's going to save humanity... That's why I can't kill people!=你说得对。。。我是拯救人类的神圣骑士。。。这就是为什么我不能杀人！
-I don't know what she's going on about...but if we keep cornering her like this...!=我不知道她在说什么。。。但如果我们继续这样逼她。。。！
-These humans capture people like you and put them through hell! You don't have to hesitate! And if you get captured here, you won't be able to fulfill your mission from God!=这些人抓住像你这样的人，让他们下地狱！你不必犹豫！如果你在这里被俘，你将无法完成上帝赋予你的使命！
-B-But... I can't...=但是。。。我不能。。。
-Hmph... Then what about your sister? Are you going to let her stay a monster?=嗯。。。那你妹妹呢？你会让她继续当怪物吗？
-My...sister...?=我的姐妹
-Yes, her! You don't care about saving her anymore!? You don't want to avenge your human friends? Wasn't that why you were fighting all this time!?=是的，她！你不再关心救她了！？你不想为你的人类朋友报仇吗？这不是你一直在打架的原因吗！？
-Hey, hey! What's wrong!? You still wanna play tag? It isn't nice to tease your elders!=嘿，嘿！怎么了！？你还想玩tag吗？取笑长辈可不好！
-(<indent%3D0.4em>I've been fighting till now to defeat the monsters who destroyed my village... To save Miria... But...the enemies in front of me now...are humans...)=(<indent%3D0.4em>我一直战斗到现在，为了打败摧毁我村庄的怪物。。。为了救米莉亚。。。但是现在我面前的敌人。。。人类……）
-That demon woman had incredibly strong magic. She must have absorbed the magic of dozens of humans with her succubus abilities to get that strong.=那个魔女有着难以置信的强大魔法。她一定是吸收了几十个人的魔法，用她的魅魔能力变得如此强大。
-If we let her be, she's going to continue killing more humans... You saw those corpses rolled on the floor of the goblin fortress yourself, right?=如果我们让她去，她会继续杀更多的人。。。你亲眼看到那些尸体滚在哥布林要塞的地板上，对吧？
-(<indent%3D0.4em>Miria... Kill people...!?)=(<indent%3D0.4em>米莉亚。。。杀人…！？）
-(<indent%3D0.4em>No... I can't let that happen... Miria isn't like that... I don't want to see my gentle sister hurt people... That's not the Miria I know...)=(<indent%3D0.4em>不我不能让这种事发生。。。米莉亚不是那样的。。。我不想看到我温柔的妹妹伤害别人。。。那不是我认识的米里亚……）
-(<indent%3D0.4em>But then...I have to...kill...people...myself...)=(<indent%3D0.4em>但是。。。我必须。。。杀死人我自己……）
-Haha, finally, you're slowing down. You wouldn't sell for much if we had to kill you... Damn, catching live pray ain't easy, huh?=哈哈，你终于慢下来了。如果我们杀了你，你也卖不了多少钱。。。该死，现场祈祷可不容易啊？
+I-I can't! They're humans... They're not monsters...=我，我不能！他们是人类...不是怪物...
+Heh heh heh... Like I thought! That sword is just for show!=嘿嘿嘿...我猜对喽！那把剑只是为了炫耀！
+Ngh... At this rate, you're going to get captured by them! You're going to save humanity from monsters, right!? Then hurry up and...!=嗯...照这个速度，你会被他们抓住的！你要从怪物那里拯救人类，对吧！？那就快点...！
+You're right... I'm the holy knight who's going to save humanity... That's why I can't kill people!=你说得对...我是拯救人类的圣骑士...故而我不能杀人！
+I don't know what she's going on about...but if we keep cornering her like this...!=我不知道她在说什么...但如果我们继续这样逼她...！
+These humans capture people like you and put them through hell! You don't have to hesitate! And if you get captured here, you won't be able to fulfill your mission from God!=这些人抓你这样的良家女子，让他们下狱！你不必犹豫！如果你在这里被俘，何以完成阳神赋予你的使命！
+B-But... I can't...=但，但是...我不能...
+Hmph... Then what about your sister? Are you going to let her stay a monster?=嗯...那你姐姐呢？你继续让她当怪物吗？
+My...sister...?=我的...姐姐...？
+Yes, her! You don't care about saving her anymore!? You don't want to avenge your human friends? Wasn't that why you were fighting all this time!?=是啊，她！你不关心怎么救她了！？你不想为你的人类朋友报仇吗？这不是你一直战斗的原因吗！？
+Hey, hey! What's wrong!? You still wanna play tag? It isn't nice to tease your elders!=喂，喂！怎么了！？你还想玩捉迷藏吗？戏弄长辈可不好！
+(<indent%3D0.4em>I've been fighting till now to defeat the monsters who destroyed my village... To save Miria... But...the enemies in front of me now...are humans...)=(<indent%3D0.4em>我一直战斗到现在，为了打败摧毁我村庄的怪物...为了救Miria...但是现在我面前的敌人...是人类...）
+That demon woman had incredibly strong magic. She must have absorbed the magic of dozens of humans with her succubus abilities to get that strong.=那个魔女有着难以置信的强大魔法。她一定是吸收了几十个人的魔力，她的魅魔技能才变得如此强大。
+If we let her be, she's going to continue killing more humans... You saw those corpses rolled on the floor of the goblin fortress yourself, right?=如果我们随她去，她会继续杀更多的人...你亲眼看到那些尸体滚在哥布林要塞的地板上，对吧？
+(<indent%3D0.4em>Miria... Kill people...!?)=(<indent%3D0.4em>Miria...杀人...！？）
+(<indent%3D0.4em>No... I can't let that happen... Miria isn't like that... I don't want to see my gentle sister hurt people... That's not the Miria I know...)=(<indent%3D0.4em>我...我不能让这种事发生...Miria不是那样的...我不想看到温柔的姐姐伤害别人...那不是我认识的Miria...）
+(<indent%3D0.4em>But then...I have to...kill...people...myself...)=(<indent%3D0.4em>但是...我必须...自己...杀掉...这些人...）
+Haha, finally, you're slowing down. You wouldn't sell for much if we had to kill you... Damn, catching live pray ain't easy, huh?=哈哈，你终于慢下来了。如果我们杀了你，也卖不了多少钱...草了，活捉可不容易啊？
 (<indent%3D0.4em>Iris...)=(<indent%3D0.4em>Iris...)
-You're the person God chose to be her holy knight! You can't lose to these guys! These humans would be better off dead, so kill them already!=你是上帝选择的神圣骑士！你不能输给这些家伙！这些人死了会更好，所以杀了他们吧！
-(<indent%3D0.4em>These men... They've done horrible things to lots of other people, right? Just like the humans that did horrible things to your fairy friends...)=(<indent%3D0.4em>这些人。。。他们对很多人做了可怕的事，对吧？就像人类对你的妖精朋友做了可怕的事情一样……）
-(<indent%3D0.4em>Does that mean the holy knight has the right to punish them on behalf of God...?)=(<indent%3D0.4em>这是否意味着神圣骑士有权代表上帝惩罚他们……？）
-(<indent%3D0.4em>If Iris says I should kill them, that means God wants me to kill them too, right...?)=(<indent%3D0.4em>如果Iris 说我应该杀了他们，这意味着上帝也要我杀了他们，对吧…？）
-...She stopped moving...?=...她不动了。。。？
-(<indent%3D0.4em>I don't want to attack and kill people... I don't... It's not what the knight of justice who appears in fairy tales would do...)=(<indent%3D0.4em>我不想攻击和杀人。。。我不。。。这不是出现在童话中的正义骑士会做的……）
-(<indent%3D0.4em>Still... I have to... If I want to save Miria from her demon self, I have to...)=(<indent%3D0.4em>还我必须。。。如果我想把米莉亚从恶魔的自我中拯救出来，我必须……）
-You may be faster than I thought...but there's no reason to be scared of you if you won't attack us!=你可能比我想象的要快。。。但是如果你不攻击我们，就没有理由害怕你！
-Please stop this... Please go away... I-If you don't...I'll definitely kill you this time... So please...=请停止。。。请走开。。。如果你不。。。这次我一定杀了你。。。所以请。。。
-Huh? This crap again...? I'm tired of playing games. Just give it up already!=嗯？这又是废话。。。？我厌倦了玩游戏。快放弃吧！
-Hah, this little girl gave us quite the hard time. We better teach her a lesson when we capture her. We'll cut the tendons of her hands and feet so she'll never try to fight back again!=哈，这个小女孩让我们很难过。我们抓到她时最好教训她一顿。我们会割断她手脚的肌腱，这样她就再也不会反抗了！
-I...=我
-Huh...? Something's up with her...=呵呵。。。？她有点不对劲。。。
-I...want to save...Miria...! I want to get my...old sister back...!=我想要拯救。。。米莉亚。。。！我想得到我的。。。姐姐回来了。。。！
-Sister...? What's she going about?=姐妹她在干什么？
-(<indent%3D0.4em>If it means I can have her back... My dearest treasure... To save Miria... I'll do anything...)=(<indent%3D0.4em>如果这意味着我可以让她回来。。。我最亲爱的宝贝。。。为了救米莉亚。。。我会做任何事……）
-(<indent%3D0.4em>I can do...anything for her...)=(<indent%3D0.4em>我可以。。。为她做任何事……）
-Upon grapple defeat by Highwayman\r\n"Slave maid Olivia" \r\nH scene (Already seen)=在与强盗搏斗失败后\n“女仆Olivia" H场景（已经看过）
-Wha... Ugh... Eeek...! Sh-She's a demon...!=什么。。。呃。。。哎呀。。。！嘘，她是个恶魔。。。！
-Agh... S-Save...me...! I-I'm sorry... I'll do anything...!=啊。。。S-Save。。。我对不起。。。我会做任何事。。。！
-...ngh...!=...嗯。。。！
-Ah... Blood... So sticky and dirty...=啊。。。血又粘又脏。。。
+You're the person God chose to be her holy knight! You can't lose to these guys! These humans would be better off dead, so kill them already!=你是阳神选择的圣骑士！你不能输给这些家伙！这些人死了会更好，所以杀了他们吧！
+(<indent%3D0.4em>These men... They've done horrible things to lots of other people, right? Just like the humans that did horrible things to your fairy friends...)=(<indent%3D0.4em>这些人...对很多人做了可怕的事，对吧？就像人类对你的妖精朋友做了可怕的事情一样...）
+(<indent%3D0.4em>Does that mean the holy knight has the right to punish them on behalf of God...?)=(<indent%3D0.4em>这是否意味着圣骑士有权代表阳神惩罚他们...？）
+(<indent%3D0.4em>If Iris says I should kill them, that means God wants me to kill them too, right...?)=(<indent%3D0.4em>如果Iris说我应该杀了他们，意味着阳神也要我杀了他们，对吧...？）
+...She stopped moving...?=...她不动了...？
+(<indent%3D0.4em>I don't want to attack and kill people... I don't... It's not what the knight of justice who appears in fairy tales would do...)=(<indent%3D0.4em>我不想出击或杀人...我不想...这不是在童话中的正义骑士会做的...）
+(<indent%3D0.4em>Still... I have to... If I want to save Miria from her demon self, I have to...)=(<indent%3D0.4em>但是...我必须如此...如果我想把Miria从自我的恶魔中拯救出来，我必须如此...）
+You may be faster than I thought...but there's no reason to be scared of you if you won't attack us!=你可能比我想象的要快...但是如果你不出击，我们才不怕呢！
+Please stop this... Please go away... I-If you don't...I'll definitely kill you this time... So please...=请停下...请走开...如果你不从...这，这次我一定杀了你们...所以愿你们快溜罢...
+Huh? This crap again...? I'm tired of playing games. Just give it up already!=嗯？又是废话...？我厌倦玩游戏了。快放弃吧！
+Hah, this little girl gave us quite the hard time. We better teach her a lesson when we capture her. We'll cut the tendons of her hands and feet so she'll never try to fight back again!=哈，这个小女孩让我很难过。我们抓到她后最好教训她一顿。割断她手脚的肌腱，这样她就再也不会反抗了！
+I...=我...
+Huh...? Something's up with her...=呵...？她有点不对劲...
+I...want to save...Miria...! I want to get my...old sister back...!=我想要拯救...Miria...！我想让我的...老姐回来...！
+Sister...? What's she going about?=老姐...？她在干什么？
+(<indent%3D0.4em>If it means I can have her back... My dearest treasure... To save Miria... I'll do anything...)=(<indent%3D0.4em>如果这意味着我可以让她回来...最亲爱的宝藏...为了救Miria...我会做任何事...）
+(<indent%3D0.4em>I can do...anything for her...)=(<indent%3D0.4em>我可以...为她做任何事...）
+Upon grapple defeat by Highwayman\r\n"Slave maid Olivia" \r\nH scene (Already seen)=在与强盗搏斗失败后\n“奴隶女仆Olivia" H场景（已经看过）
+=================以上完毕==============
+Wha... Ugh... Eeek...! Sh-She's a demon...!=什么...呃...哎呀...！嘘，她是个恶魔...！
+Agh... S-Save...me...! I-I'm sorry... I'll do anything...!=啊...S-Save...我对不起...我会做任何事...！
+...ngh...!=...嗯...！
+Ah... Blood... So sticky and dirty...=啊...血又粘又脏...
 H... Help...=H帮助
-Ack...!=啊。。。！
-Eeek...ah...=哎呀。。。啊。。。
-Aah... Aaagh...=啊。。。啊。。。
-...Uh...umm... Is...there...=...UH嗯。。。是那里
-Is there...a monster's den...or a big red crystal...around here...?=有。。。一个怪物的巢穴。。。或者是一个大的红色水晶。。。在这里。。。？
-Huh... A m-monster's den...? Crystal...?=呵呵。。。怪物的巢穴。。。？结晶
-Yes... I'm looking for...a red crystal, like the one that was at the bottom of this quarry... That's what's attracting the monsters...=对我在找。。。一块红色水晶，就像这个采石场底部的那个。。。这就是吸引怪物的原因。。。
-I've never seen... Oh... I know... The mines...!=我从没见过。。。哦我知道。。。地雷。。。！
-The mountain on the other side... The mining caves there... That place suddenly became a haven for monsters!=另一边的山。。。那里的采矿洞穴。。。那个地方突然变成了怪物的天堂！
-The mining caves...?=采矿洞穴。。。？
-Yeah... I used to work there...but a few months ago, the mines were swarmed by monsters...=是 啊我以前在那里工作。。。但几个月前，矿井里到处都是怪物。。。
+Ack...!=啊...！
+Eeek...ah...=哎呀...啊...
+Aah... Aaagh...=啊...啊...
+...Uh...umm... Is...there...=...UH嗯...是那里
+Is there...a monster's den...or a big red crystal...around here...?=有...一个怪物的巢穴...或者是一个大的红色水晶...在这里...？
+Huh... A m-monster's den...? Crystal...?=呵呵...怪物的巢穴...？结晶
+Yes... I'm looking for...a red crystal, like the one that was at the bottom of this quarry... That's what's attracting the monsters...=对我在找...一块红色水晶，就像这个采石场底部的那个...这就是吸引怪物的原因...
+I've never seen... Oh... I know... The mines...!=我从没见过...哦我知道...地雷...！
+The mountain on the other side... The mining caves there... That place suddenly became a haven for monsters!=另一边的山...那里的采矿洞穴...那个地方突然变成了怪物的天堂！
+The mining caves...?=采矿洞穴...？
+Yeah... I used to work there...but a few months ago, the mines were swarmed by monsters...=是 啊我以前在那里工作...但几个月前，矿井里到处都是怪物...
 I...see...=我看见
-Y-Yeah...=是的。。。
-H-Hey, are you... Are you with that...demon woman...?=嘿，你是。。。你同意。。。恶魔女人。。。？
+Y-Yeah...=是的...
+H-Hey, are you... Are you with that...demon woman...?=嘿，你是...你同意...恶魔女人...？
 Demon...woman...!? You've seen her!? Where!?=魔鬼成年女子你见过她！？哪里
-Eeek... A-At the mining caves I mentioned! I went back to see if the monsters were still there a week ago...=哎呀。。。我提到的采矿洞穴！我回去看看怪物一周前是否还在那里。。。
-That's when I saw a woman with bat wings who looked a lot like you. I saw a spider monster woman there, too...=就在那时，我看到一个长着蝙蝠翅膀的女人，她长得很像你。我在那里也看到了一个蜘蛛女怪物。。。
-You're one of them, aren't you...!? That bat woman had a bunch of men lying around her... Eek...! I'm going to end up like those men, aren't I...!?=你是他们中的一员，不是吗。。。！？那个蝙蝠女人身边有一群男人。。。哎呀。。。！我最终会像那些人一样，不是吗。。。！？
+Eeek... A-At the mining caves I mentioned! I went back to see if the monsters were still there a week ago...=哎呀...我提到的采矿洞穴！我回去看看怪物一周前是否还在那里...
+That's when I saw a woman with bat wings who looked a lot like you. I saw a spider monster woman there, too...=就在那时，我看到一个长着蝙蝠翅膀的女人，她长得很像你。我在那里也看到了一个蜘蛛女怪物...
+You're one of them, aren't you...!? That bat woman had a bunch of men lying around her... Eek...! I'm going to end up like those men, aren't I...!?=你是他们中的一员，不是吗...！？那个蝙蝠女人身边有一群男人...哎呀...！我最终会像那些人一样，不是吗...！？
 I'm...=我是
-(<indent%3D0.4em>I'm...a holy knight... God's servant... I was chosen by God to help people victimized by monsters...but... I'm foolish, and sullied...and I've killed people...)=(<indent%3D0.4em>我是一位神圣的骑士。。。上帝的仆人。。。我被上帝选中来帮助被怪物伤害的人。。。但是我很愚蠢，而且被玷污了。。。我杀了人……）
-(<indent%3D0.4em>When I fought these men... When I wielded my weapon, I was only thinking about saving Miria...)=(<indent%3D0.4em>当我和这些人战斗时。。。当我挥舞我的武器时，我只想着救米莉亚……）
-(<indent%3D0.4em>It wasn't because Iris told me to fight... It wasn't to avenge the people who died... It wasn't because of the duty God bestowed on me... I wasn't thinking about that at all...)=(<indent%3D0.4em>不是因为Iris 让我去战斗。。。这不是为了报复那些死去的人。。。这不是因为上帝赋予我的责任。。。我根本没想过……）
-(<indent%3D0.4em>All I wanted...was to see my human sister again... I swung the holy knight's weapon at these people...all because of a selfish desire...)=(<indent%3D0.4em>我只想。。。就是再次见到我的人类妹妹。。。我向这些人挥舞神圣骑士的武器。。。都是因为自私的欲望……）
-(<indent%3D0.4em>These people...are the victims of my selfish actions... How is what I did to them...any different from what they did to others...?)=(<indent%3D0.4em>这些人。。。是我自私行为的受害者。。。我对他们做了什么。。。与他们对其他人所做的有什么不同吗…？）
-(<indent%3D0.4em>Wait... Huh...? I don't get it... If Iris ordered me to kill them, isn't it the same as God ordering me to kill them? Should I even be feeling bad about it...? Huh...?)=(<indent%3D0.4em>等待呵呵。。。？我不明白。。。如果Iris 命令我杀了他们，这和上帝命令我杀他们不一样吗？我应该为此感到难过吗。。。？嗯……？）
-(<indent%3D0.4em>But If I killed them out of selfishness, that would make me a bad guy just like them... Will God kill me too...?)=(<indent%3D0.4em>但如果我出于自私而杀了他们，那会让我变成和他们一样的坏人。。。上帝也会杀了我吗…？）
-S-So... Are you...a demon...?=S-So。。。你是吗。。。恶魔。。。？
-(<indent%3D0.4em>A demon...)=(<indent%3D0.4em>恶魔……）
-(<indent%3D0.4em>If God's going to kill me...I might be a demon... That makes sense. My sister turned into a demon, so it's only natural that I've become a demon, too.)=(<indent%3D0.4em>如果上帝要杀了我。。。我可能是个恶魔。。。这是有道理的。我姐姐变成了恶魔，所以我也变成了恶魔是很自然的。）
-(<indent%3D0.4em>I see...)=(<indent%3D0.4em>我明白了……）
-(<indent%3D0.4em>Heehee... I'm...just like Miria... That makes me happy...)=(<indent%3D0.4em>嘿嘿。。。我是就像Miria一样。。。这让我很高兴……）
-(<indent%3D0.4em>I save humans...and kill them... I'm God's corrupted knight...and a demon, just like Miria...)=(<indent%3D0.4em>我拯救人类。。。然后杀了他们。。。我是上帝堕落的骑士。。。还有一个恶魔，就像米莉亚……）
-H-Hey...=嘿嘿。。。
-(<indent%3D0.4em>Ngh... No...)=(<indent%3D0.4em>嗯。。。不……）
-(<indent%3D0.4em>I'm...Ricca...from the west mountain... I'm just a normal girl...who grew up in a small village...raised by my gentle human sister...)=(<indent%3D0.4em>我是Ricca...从西山。。。我只是一个普通的女孩。。。他在一个小村庄长大。。。由我温柔的人类妹妹抚养……）
-C-Can I...leave...? Please...?=我能。。。离开请
+(<indent%3D0.4em>I'm...a holy knight... God's servant... I was chosen by God to help people victimized by monsters...but... I'm foolish, and sullied...and I've killed people...)=(<indent%3D0.4em>我是一位神圣的骑士...阳神的仆人...我被阳神选中来帮助被怪物伤害的人...但是我很愚蠢，而且被玷污了...我杀了人...）
+(<indent%3D0.4em>When I fought these men... When I wielded my weapon, I was only thinking about saving Miria...)=(<indent%3D0.4em>当我和这些人战斗时...当我挥舞我的武器时，我只想着救Miria...）
+(<indent%3D0.4em>It wasn't because Iris told me to fight... It wasn't to avenge the people who died... It wasn't because of the duty God bestowed on me... I wasn't thinking about that at all...)=(<indent%3D0.4em>不是因为Iris 让我去战斗...这不是为了报复那些死去的人...这不是因为阳神赋予我的责任...我根本没想过...）
+(<indent%3D0.4em>All I wanted...was to see my human sister again... I swung the holy knight's weapon at these people...all because of a selfish desire...)=(<indent%3D0.4em>我只想...就是再次见到我的人类妹妹...我向这些人挥舞圣骑士的武器...都是因为自私的欲望...）
+(<indent%3D0.4em>These people...are the victims of my selfish actions... How is what I did to them...any different from what they did to others...?)=(<indent%3D0.4em>这些人...是我自私行为的受害者...我对他们做了什么...与他们对其他人所做的有什么不同吗...？）
+(<indent%3D0.4em>Wait... Huh...? I don't get it... If Iris ordered me to kill them, isn't it the same as God ordering me to kill them? Should I even be feeling bad about it...? Huh...?)=(<indent%3D0.4em>等待呵呵...？我不明白...如果Iris 命令我杀了他们，这和阳神命令我杀他们不一样吗？我应该为此感到难过吗...？嗯...？）
+(<indent%3D0.4em>But If I killed them out of selfishness, that would make me a bad guy just like them... Will God kill me too...?)=(<indent%3D0.4em>但如果我出于自私而杀了他们，那会让我变成和他们一样的坏人...阳神也会杀了我吗...？）
+S-So... Are you...a demon...?=S-So...你是吗...恶魔...？
+(<indent%3D0.4em>A demon...)=(<indent%3D0.4em>恶魔...）
+(<indent%3D0.4em>If God's going to kill me...I might be a demon... That makes sense. My sister turned into a demon, so it's only natural that I've become a demon, too.)=(<indent%3D0.4em>如果阳神要杀了我...我可能是个恶魔...这是有道理的。我姐姐变成了恶魔，所以我也变成了恶魔是很自然的。）
+(<indent%3D0.4em>I see...)=(<indent%3D0.4em>我明白了...）
+(<indent%3D0.4em>Heehee... I'm...just like Miria... That makes me happy...)=(<indent%3D0.4em>嘿嘿...我是就像Miria一样...这让我很高兴...）
+(<indent%3D0.4em>I save humans...and kill them... I'm God's corrupted knight...and a demon, just like Miria...)=(<indent%3D0.4em>我拯救人类...然后杀了他们...我是阳神堕落的骑士...还有一个恶魔，就像Miria...）
+H-Hey...=嘿嘿...
+(<indent%3D0.4em>Ngh... No...)=(<indent%3D0.4em>嗯...不...）
+(<indent%3D0.4em>I'm...Ricca...from the west mountain... I'm just a normal girl...who grew up in a small village...raised by my gentle human sister...)=(<indent%3D0.4em>我是Ricca...从西山...我只是一个普通的女孩...他在一个小村庄长大...由我温柔的人类妹妹抚养...）
+C-Can I...leave...? Please...?=我能...离开请
 This man below you wants to escape. What do you want to do with him?=你下面这个人想逃跑。你想拿他怎么办？
-Ah... Uh... I'll withdraw... Please...go...=啊。。。UH我会撤回。。。请去
-Hah, haha... I'm saved...=哈哈。。。我得救了。。。
-Huff... I thought I was prepared for anything... Ouch... I even joined a gang... But I've had enough... I'm never doing anything like this again... Ugh...=生气地说我以为我已经准备好了。。。哎哟我甚至加入了一个帮派。。。但我已经受够了。。。我再也不会做这样的事了。。。呃。。。
-U-Um...=嗯。。。
-Ack...! Wh-What is it...!?=啊。。。！这是什么。。。！？
-(<indent%3D0.4em>I want to stay a holy knight...at least until I can save Miria...)=(<indent%3D0.4em>我想成为一名神圣的骑士。。。至少在我能救米莉亚之前……）
-I want to...treat your wounds...=我想。。。治疗你的伤口。。。
+Ah... Uh... I'll withdraw... Please...go...=啊...UH我会撤回...请去
+Hah, haha... I'm saved...=哈哈...我得救了...
+Huff... I thought I was prepared for anything... Ouch... I even joined a gang... But I've had enough... I'm never doing anything like this again... Ugh...=生气地说我以为我已经准备好了...哎哟我甚至加入了一个帮派...但我已经受够了...我再也不会做这样的事了...呃...
+U-Um...=嗯...
+Ack...! Wh-What is it...!?=啊...！这是什么...！？
+(<indent%3D0.4em>I want to stay a holy knight...at least until I can save Miria...)=(<indent%3D0.4em>我想成为一名神圣的骑士...至少在我能救Miria之前...）
+I want to...treat your wounds...=我想...治疗你的伤口...
 This is stupid. Why did you treat the wounds of a man who attacked you? Why did you bother to bury their corpses? If we're going to beat Archlich, we have no time to lose.=这太愚蠢了。你为什么要治疗一个袭击你的人的伤口？你为什么费心埋葬他们的尸体？如果我们要打败阿奇Ricca，我们就没时间浪费了。
-Well, I'll let it pass, since you're God's chosen...=好吧，我会让它过去，因为你是上帝的选择。。。
-Ngh... Aah... Oww... Hot... I have to...wake...up...=嗯。。。啊。。。哦。。。热的我必须。。。醒向上的
-Ugh... Haa... My tummy... It's throbbing...again...=呃。。。哈。。。我的肚子。。。它在抽搐。。。再一次
-Why...? Nngh... The Crest...of Lust... The marking is...hotter than usual... Aaah... Nngh... Haaan... Haaah...=为什么？嗯。。。波峰。。。关于欲望。。。标记是。。。比平常热。。。啊。。。嗯。。。哈安。。。哈。。。
-I have to...pleasure myself... Haaah... Nngh... Before Iris wakes up... Haaah, aaah... I just have to...play with myself, like always...=我必须。。。我很高兴。。。哈。。。嗯。。。之前Iris 醒来。。。啊，啊。。。我必须。。。和我自己玩，像往常一样。。。
+Well, I'll let it pass, since you're God's chosen...=好吧，我会让它过去，因为你是阳神的选择...
+Ngh... Aah... Oww... Hot... I have to...wake...up...=嗯...啊...哦...热的我必须...醒向上的
+Ugh... Haa... My tummy... It's throbbing...again...=呃...哈...我的肚子...它在抽搐...再一次
+Why...? Nngh... The Crest...of Lust... The marking is...hotter than usual... Aaah... Nngh... Haaan... Haaah...=为什么？嗯...波峰...关于欲望...标记是...比平常热...啊...嗯...哈安...哈...
+I have to...pleasure myself... Haaah... Nngh... Before Iris wakes up... Haaah, aaah... I just have to...play with myself, like always...=我必须...我很高兴...哈...嗯...之前Iris 醒来...啊，啊...我必须...和我自己玩，像往常一样...
 Getting closer to the succubus must have reactivated the curse. The seal is on the verge of coming undone.=接近魅魔一定激活了诅咒。封印即将解开。
-Eeek... Ah... Iris... Haa, haa... Nooo... It's not what you... I wasn't...pleasuring myself... I wasn't... Haa... Haa... I'm fine...=哎呀。。。啊。。。Iris... 哈哈哈。。。不。。。这不是你想要的。。。我不是。。。让自己高兴。。。我不是。。。哈。。。哈。。。我很好。。。
-Ugh... Here, let me reseal the curse. Don't move.=呃。。。来，让我重新封印诅咒。别动。
-Nngh... Haa... Haa... The heat... It's going away... Thank you, Iris...=嗯。。。哈。。。哈。。。炎热。。。它正在消失。。。非常感谢。Iris...
-That woman... I can't believe she engraved you with a curse even I can't lift... I still don't know how it keeps reappearing...=那个女人。。。我不敢相信她在你身上刻了一个诅咒，即使我举不起来。。。我还是不知道它是怎么不断出现的。。。
-Ah... Iris... I'm sorry...=啊。。。Iris... 我很抱歉。。。
-(<indent%3D0.4em>She's angry... First, it was this embarrassing curse... Then it was yesterday's fight with the bandits...)=(<indent%3D0.4em>她很生气。。。首先，这是一个令人尴尬的诅咒。。。然后是昨天和强盗的战斗……）
-(<indent%3D0.4em>I thought her mood was finally improving...but I ruined things, all because I didn't listen to her...)=(<indent%3D0.4em>我以为她的情绪终于好转了。。。但我毁了一切，都是因为我不听她的话……）
-(<indent%3D0.4em>But... I did what she told me to... We were attacked, so I fought back. It was justified...right...?)=(<indent%3D0.4em>但是我照她说的做了。。。我们被袭击了，所以我还击了。这是合理的。。。对吧…？）
-(<indent%3D0.4em>Ugh... The curse is hot and throbbing again... Walking and running around...causes a pleasant chafing down there... It feels...strange...)=(<indent%3D0.4em>呃。。。诅咒又热又跳。。。走来走去。。。在下面引起一阵愉快的摩擦。。。感觉。。。奇怪……）
-(<indent%3D0.4em>According to demon Miria, the effects of the curse become stronger the closer I am to monsters...)=(<indent%3D0.4em>根据恶魔米里亚的说法，诅咒的效果会随着我离怪物越近而变得越强……）
-(<indent%3D0.4em>Could there be a goblin baby inside me after all...? It's way past that time of the month for me...)=(<indent%3D0.4em>我的内心到底会不会有一个小妖精。。。？对我来说，这个月的时间已经过去了……）
-(<indent%3D0.4em>Even if I do save Miria, if I give birth to a goblin...the village will probably drive me away... They'll all be disgusted with me...)=(<indent%3D0.4em>即使我救了米莉亚，如果我生了一个哥布林。。。村子可能会把我赶走。。。他们都会厌恶我……）
-(<indent%3D0.4em>If that happens... I don't think...I can go on...)=(<indent%3D0.4em>如果真是这样。。。我不认为。。。我可以继续……）
+Eeek... Ah... Iris... Haa, haa... Nooo... It's not what you... I wasn't...pleasuring myself... I wasn't... Haa... Haa... I'm fine...=哎呀...啊...Iris... 哈哈哈...不...这不是你想要的...我不是...让自己高兴...我不是...哈...哈...我很好...
+Ugh... Here, let me reseal the curse. Don't move.=呃...来，让我重新封印诅咒。别动。
+Nngh... Haa... Haa... The heat... It's going away... Thank you, Iris...=嗯...哈...哈...炎热...它正在消失...非常感谢。Iris...
+That woman... I can't believe she engraved you with a curse even I can't lift... I still don't know how it keeps reappearing...=那个女人...我不敢相信她在你身上刻了一个诅咒，即使我举不起来...我还是不知道它是怎么不断出现的...
+Ah... Iris... I'm sorry...=啊...Iris... 我很抱歉...
+(<indent%3D0.4em>She's angry... First, it was this embarrassing curse... Then it was yesterday's fight with the bandits...)=(<indent%3D0.4em>她很生气...首先，这是一个令人尴尬的诅咒...然后是昨天和强盗的战斗...）
+(<indent%3D0.4em>I thought her mood was finally improving...but I ruined things, all because I didn't listen to her...)=(<indent%3D0.4em>我以为她的情绪终于好转了...但我毁了一切，都是因为我不听她的话...）
+(<indent%3D0.4em>But... I did what she told me to... We were attacked, so I fought back. It was justified...right...?)=(<indent%3D0.4em>但是我照她说的做了...我们被袭击了，所以我还击了。这是合理的...对吧...？）
+(<indent%3D0.4em>Ugh... The curse is hot and throbbing again... Walking and running around...causes a pleasant chafing down there... It feels...strange...)=(<indent%3D0.4em>呃...诅咒又热又跳...走来走去...在下面引起一阵愉快的摩擦...感觉...奇怪...）
+(<indent%3D0.4em>According to demon Miria, the effects of the curse become stronger the closer I am to monsters...)=(<indent%3D0.4em>根据恶魔Miria的说法，诅咒的效果会随着我离怪物越近而变得越强...）
+(<indent%3D0.4em>Could there be a goblin baby inside me after all...? It's way past that time of the month for me...)=(<indent%3D0.4em>我的内心到底会不会有一个小妖精...？对我来说，这个月的时间已经过去了...）
+(<indent%3D0.4em>Even if I do save Miria, if I give birth to a goblin...the village will probably drive me away... They'll all be disgusted with me...)=(<indent%3D0.4em>即使我救了Miria，如果我生了一个哥布林...村子可能会把我赶走...他们都会厌恶我...）
+(<indent%3D0.4em>If that happens... I don't think...I can go on...)=(<indent%3D0.4em>如果真是这样...我不认为...我可以继续...）
 So, are we going to the mining caves or not?=那么，我们到底要不要去采矿洞穴？
-Huh...? Oh... Yeah... Do you think I'm strong enough...to save Miria now...?=呵呵。。。？哦是 啊你觉得我够坚强吗。。。为了救米莉亚现在。。。？
+Huh...? Oh... Yeah... Do you think I'm strong enough...to save Miria now...?=呵呵...？哦是 啊你觉得我够坚强吗...为了救Miria现在...？
 I don't know. I can't say.=我不知道。我不能说。
-But your powers as a holy knight have grown. As long as you don't do anything stupid, you should be fine.=但你作为神圣骑士的力量已经增长。只要你不做傻事，你就应该没事。
-Oh... Okay... I'll be careful...=哦可以我会小心的。。。
-(<indent%3D0.4em>She's still mad... Of course she is... I keep making her mad...and letting her down...)=(<indent%3D0.4em>她还在生气。。。她当然是。。。我一直让她生气。。。让她失望……）
-(<indent%3D0.4em>I'm not worthy to be a holy knight... I don't care about defeating monsters...or saving people...or even fulfilling my duty from God...)=(<indent%3D0.4em>我不配成为一个神圣的骑士。。。我不在乎打败怪物。。。或者救人。。。甚至履行上帝赋予我的职责……）
-(<indent%3D0.4em>All I care about...is turning my sister back to normal...)=(<indent%3D0.4em>我只在乎。。。让我妹妹恢复正常……）
-(<indent%3D0.4em>Aah...)=(<indent%3D0.4em>啊……）
-(<indent%3D0.4em>Eek... No...!)=(<indent%3D0.4em>哎呀。。。不……！）
-(<indent%3D0.4em>Fighting monsters... Outmatched and raped... Archlich... The evil wizard from fairy tales... There's no way I can defeat him...)=(<indent%3D0.4em>与怪物战斗。。。被击败和强奸。。。阿奇Ricca。。。童话中的邪恶巫师。。。我不可能打败他……）
-(<indent%3D0.4em>Save...Miria...? Iris said I'll be fine, but is that true...?)=(<indent%3D0.4em>拯救米莉亚。。。？Iris 说我会没事的，但这是真的吗…？）
-(<indent%3D0.4em>Clean, white gloves, pure as snow... A chaste wedding dress from God...)=(<indent%3D0.4em>干净的白手套，像雪一样纯净。。。来自上帝的纯洁婚纱……）
-(<indent%3D0.4em>Transforming into this form cheers me up a little... My tummy doesn't feel hot anymore, either... I think I can move now... Is this part of God's power, too...?)=(<indent%3D0.4em>转化成这种形式让我高兴了一点。。。我的肚子也不觉得热了。。。我想我现在可以搬家了。。。这也是上帝力量的一部分吗…？）
-(<indent%3D0.4em>Right... I need to stop sulking. I want to save Miria, and when I think about my village and the forest settlement - all those people who lost their homes to the monsters... I can't let them get away with that.)=(<indent%3D0.4em>正当我需要停止生气。我想拯救米里亚，当我想到我的村庄和森林定居点——所有那些在怪物面前失去家园的人。。。我不能让他们逍遥法外。）
-(<indent%3D0.4em>Just wait, Miria... I'll be there soon...)=(<indent%3D0.4em>等等Miria。。。我马上就到……）
-Chapter 11    In the Name of God's Knight=第11章以上帝骑士的名义
+But your powers as a holy knight have grown. As long as you don't do anything stupid, you should be fine.=但你作为圣骑士的力量已经增长。只要你不做傻事，你就应该没事。
+Oh... Okay... I'll be careful...=哦可以我会小心的...
+(<indent%3D0.4em>She's still mad... Of course she is... I keep making her mad...and letting her down...)=(<indent%3D0.4em>她还在生气...她当然是...我一直让她生气...让她失望...）
+(<indent%3D0.4em>I'm not worthy to be a holy knight... I don't care about defeating monsters...or saving people...or even fulfilling my duty from God...)=(<indent%3D0.4em>我不配成为一个神圣的骑士...我不在乎打败怪物...或者救人...甚至履行阳神赋予我的职责...）
+(<indent%3D0.4em>All I care about...is turning my sister back to normal...)=(<indent%3D0.4em>我只在乎...让我妹妹恢复正常...）
+(<indent%3D0.4em>Aah...)=(<indent%3D0.4em>啊...）
+(<indent%3D0.4em>Eek... No...!)=(<indent%3D0.4em>哎呀...不...！）
+(<indent%3D0.4em>Fighting monsters... Outmatched and raped... Archlich... The evil wizard from fairy tales... There's no way I can defeat him...)=(<indent%3D0.4em>与怪物战斗...被击败和强奸...阿奇Ricca...童话中的邪恶巫师...我不可能打败他...）
+(<indent%3D0.4em>Save...Miria...? Iris said I'll be fine, but is that true...?)=(<indent%3D0.4em>拯救Miria...？Iris 说我会没事的，但这是真的吗...？）
+(<indent%3D0.4em>Clean, white gloves, pure as snow... A chaste wedding dress from God...)=(<indent%3D0.4em>干净的白手套，像雪一样纯净...来自阳神的纯洁婚纱...）
+(<indent%3D0.4em>Transforming into this form cheers me up a little... My tummy doesn't feel hot anymore, either... I think I can move now... Is this part of God's power, too...?)=(<indent%3D0.4em>转化成这种形式让我高兴了一点...我的肚子也不觉得热了...我想我现在可以搬家了...这也是阳神力量的一部分吗...？）
+(<indent%3D0.4em>Right... I need to stop sulking. I want to save Miria, and when I think about my village and the forest settlement - all those people who lost their homes to the monsters... I can't let them get away with that.)=(<indent%3D0.4em>正当我需要停止生气。我想拯救Miria，当我想到我的村庄和森林定居点——所有那些在怪物面前失去家园的人...我不能让他们逍遥法外。）
+(<indent%3D0.4em>Just wait, Miria... I'll be there soon...)=(<indent%3D0.4em>等等Miria...我马上就到...）
+Chapter 11    In the Name of God's Knight=第11章以阳神骑士的名义
 Skip event scene?=跳过活动场景？
 ——————————————————————————【主线】第十一话结束————————————————————————————
 
 
 ——————————————————————————【3D】第十一话-首都被催眠的妓女开始————————————————
-The unconscious Ricca\r\nwas captured by the enemy...!=无意识Ricca\n被敌人俘虏了。。。！
-Three days after Ricca was defeated by the bandits at the quarry...=三天后Ricca 在采石场被土匪打败了。。。
-Um... If I do that, will you really return Iris to me?=嗯。。。如果我这么做了，你真的会回来吗Iris 对我来说？
+The unconscious Ricca\r\nwas captured by the enemy...!=无意识Ricca\n被敌人俘虏了...！
+Three days after Ricca was defeated by the bandits at the quarry...=三天后Ricca 在采石场被土匪打败了...
+Um... If I do that, will you really return Iris to me?=嗯...如果我这么做了，你真的会回来吗Iris 对我来说？
 Yup, but only if you're able to earn enough money for us.=是的，但前提是你能为我们挣到足够的钱。
 Hehe, you better serve your "customers" well. Your value can't drop if you've already lost your virginity. Make us some cash before we sell her off.=呵呵，你最好把“顾客”服务好。如果你已经失去童贞，你的价值不会下降。在我们卖掉她之前给我们弄点钱。
-Oww... But... I can't walk around town...wearing something so indecent...=哦。。。但是我不能在城里到处走。。。穿着如此下流的衣服。。。
-Huh? You can't do what we told you to? Gahaha... That's no good.=嗯？你不能照我们说的做？哈哈哈。。。那不好。
-Hehehe... You better hurry, or else we'll have our rookie sell your fairy to the freak show.=嘿嘿。。。你最好快点，否则我们会让菜鸟把你的妖精卖给怪物秀。
-Iris... A-Alright. I just have to find some men...and give them a good time...and then they'll give me money, right?=Iris... 好吧。我只需要找几个男人。。。给他们一段美好的时光。。。然后他们会给我钱，对吗？
-Yup. A girl like you could get thirty...no, fifty silver coins. Now go work your ass off, alright?=是的。像你这样的女孩可以得到30。。。不，五十枚银币。现在快去干活，好吗？
-(<indent%3D0.4em>Having sex in exchange for money... This is so wrong... If Miria was still human and found out about this, she would...)=(<indent%3D0.4em>用性换取金钱。。。这太错了。。。如果米莉亚还是人类并且发现了这件事，她会……）
-(<indent%3D0.4em>But...once I'm let out of these shackles, I can run away and go look for Iris... She'll probably notice me once I'm near her, and we could work together to...)=(<indent%3D0.4em>但是一旦我挣脱了这些枷锁，我就可以逃跑去寻找Iris... 一旦我靠近她，她可能会注意到我，我们可以一起努力……）
+Oww... But... I can't walk around town...wearing something so indecent...=哦...但是我不能在城里到处走...穿着如此下流的衣服...
+Huh? You can't do what we told you to? Gahaha... That's no good.=嗯？你不能照我们说的做？哈哈哈...那不好。
+Hehehe... You better hurry, or else we'll have our rookie sell your fairy to the freak show.=嘿嘿...你最好快点，否则我们会让菜鸟把你的妖精卖给怪物秀。
+Iris... A-Alright. I just have to find some men...and give them a good time...and then they'll give me money, right?=Iris... 好吧。我只需要找几个男人...给他们一段美好的时光...然后他们会给我钱，对吗？
+Yup. A girl like you could get thirty...no, fifty silver coins. Now go work your ass off, alright?=是的。像你这样的女孩可以得到30...不，五十枚银币。现在快去干活，好吗？
+(<indent%3D0.4em>Having sex in exchange for money... This is so wrong... If Miria was still human and found out about this, she would...)=(<indent%3D0.4em>用性换取金钱...这太错了...如果Miria还是人类并且发现了这件事，她会...）
+(<indent%3D0.4em>But...once I'm let out of these shackles, I can run away and go look for Iris... She'll probably notice me once I'm near her, and we could work together to...)=(<indent%3D0.4em>但是一旦我挣脱了这些枷锁，我就可以逃跑去寻找Iris... 一旦我靠近她，她可能会注意到我，我们可以一起努力...）
 Hey, go out there and make some cash already!=嘿，出去赚点钱吧！
-Eek...! Y-Yes, sir! I'll go, so please take these shackles off me. I can't walk out with these on.=哎呀。。。！是的，先生！我要走了，所以请把这些镣铐摘下来。我不能带着这些出去。
+Eek...! Y-Yes, sir! I'll go, so please take these shackles off me. I can't walk out with these on.=哎呀...！是的，先生！我要走了，所以请把这些镣铐摘下来。我不能带着这些出去。
 Yeah, I'll get them off. Stay still.=好的，我去把它们弄下来。别动。
 Wait, hold on.=等等，等等。
 Huh? What's up?=嗯？怎么了？
-She looks real nervous, so I thought I'd give her our usual medicine to help her out...=她看起来很紧张，所以我想我应该给她我们常用的药来帮助她。。。
+She looks real nervous, so I thought I'd give her our usual medicine to help her out...=她看起来很紧张，所以我想我应该给她我们常用的药来帮助她...
 Huh? Medicine?=嗯？医学
 I'm sure you'll be a big seller. Hey, hold her still for me!=我相信你会成为一个大卖家。嘿，帮我扶住她！
-Ah, I get it... Better safe than sorry, huh? Here ya go!=啊，我明白了。。。安全总比抱歉好吧？给你！
+Ah, I get it... Better safe than sorry, huh? Here ya go!=啊，我明白了...安全总比抱歉好吧？给你！
 H-Huh? Huh!?=嗯？呵呵！？
-Take this! It'll make you meek and obedient. Open your mouth...and swallow it like a good girl!=拿着这个！这会让你变得温顺和顺从。张开你的嘴。。。像个好女孩一样吞下去！
-Mmmn... Mmmmgh!=嗯。。。嗯！
-Ten minutes later...=十分钟后。。。
+Take this! It'll make you meek and obedient. Open your mouth...and swallow it like a good girl!=看招这个！这会让你变得温顺和顺从。张开你的嘴...像个好女孩一样吞下去！
+Mmmn... Mmmmgh!=嗯...嗯！
+Ten minutes later...=十分钟后...
 ...so that's the gist of it. Now tell me what you're about to do before I let you go.=...这就是要点。在我放你走之前告诉我你要做什么。
-Yes, sir... I'm going to...find men to do naughty things with...and earn money...=是的，先生。。。我要。。。找男人做淘气的事。。。挣钱。。。
+Yes, sir... I'm going to...find men to do naughty things with...and earn money...=是的，先生...我要...找男人做淘气的事...挣钱...
 Heheh, looks like the medicine is finally kicking in. We shouldn't have to worry about her running away any more.=嘿嘿，看来药终于起作用了。我们不必再担心她逃跑了。
 Yeah, she may not have her weapon, but she's strong enough to put up a good fight.=是的，她可能没有武器，但她足够强壮，可以进行一场激烈的战斗。
 Anyway, is there something weird in this drug or what? I had to use ten times our usual dose to get her to listen to us.=不管怎样，这种药有什么奇怪的地方吗？我得用十个次 我们通常的剂量是为了让她听我们的。
@@ -229,16 +229,16 @@ Ten times? Geez, that sounds like overkill. If it was working like it should, th
 Seriously... But I don't think we have to worry about that.=认真地但我认为我们不必担心这一点。
 Still...=还
 Something's not right about this kid. On top of the weak drug effect, her fairy was super strong, and we couldn't touch her fancy necklace. What's up with her?=这孩子有点不对劲。除了微弱的药物效应，她的妖精非常强壮，我们无法触摸她的花哨项链。她怎么了？
-Um... Master...? Do you have orders for me? I need to go have sex to make money, don't I...?=嗯。。。主人你有我的订单吗？我需要做爱来赚钱，不是吗。。。？
-Oh, hehehe... It took a while, but the drug seems to be working just fine. She should be like this until dawn.=哦，嘿嘿。。。这花了一段时间，但药物似乎效果很好。她应该一直这样直到天亮。
-Alrighty, little girl... Ricca's your name, right? That guy over there is your first customer. Go earn us some cash with your slutty body.=好吧，小女孩。。。Ricca'你叫什么名字？那边那个人是你的第一个顾客。用你淫荡的身体给我们赚点钱。
-Gahaha! If you flirt with your cute little face and show them the naughty mark on your stomach, you can get any man to jump on you.=哈哈哈！如果你和你可爱的小脸调情，让他们看到你肚子上的顽皮印记，你可以让任何男人跳到你身上。
-Yes, sir... I will go show the man my lewd body...and make him have sex with me in exchange for money...=是的，先生。。。我要让那个男人看看我猥亵的身体。。。让他和我做爱换钱。。。
-Aaah... Mister... More... Look at my chest more...=啊。。。先生。。。更多再看看我的胸部。。。
+Um... Master...? Do you have orders for me? I need to go have sex to make money, don't I...?=嗯...主人你有我的订单吗？我需要做爱来赚钱，不是吗...？
+Oh, hehehe... It took a while, but the drug seems to be working just fine. She should be like this until dawn.=哦，嘿嘿...这花了一段时间，但药物似乎效果很好。她应该一直这样直到天亮。
+Alrighty, little girl... Ricca's your name, right? That guy over there is your first customer. Go earn us some cash with your slutty body.=好吧，小女孩...Ricca'你叫什么名字？那边那个人是你的第一个顾客。用你淫荡的身体给我们赚点钱。
+Gahaha! If you flirt with your cute little face and show them the naughty mark on your stomach, you can get any man to jump on you.=哈哈哈！如果你和你可爱的小脸调情，让他们看到你肚子上的淫荡印记，你可以让任何男人跳到你身上。
+Yes, sir... I will go show the man my lewd body...and make him have sex with me in exchange for money...=是的，先生...我要让那个男人看看我猥亵的身体...让他和我做爱换钱...
+Aaah... Mister... More... Look at my chest more...=啊...先生...更多再看看我的胸部...
 Man of the Capital=京师
-Hehe, I can't resist a girl in slutty clothes... Of course I'll look at your tits.=呵呵，我无法抗拒一个穿着淫荡衣服的女孩。。。我当然会看看你的乳头。
-Ah, thank you very much... The way you look at me... It's so dirty... I love it...<color%3D#FF7FCF>♥</color>=啊，非常感谢。。。你看我的眼神。。。太脏了。。。我爱死它了。。。<color%3D#FF7FCF>♥</color>
-Heehee... I'm glad I saved every penny and nickel I had for a month. It's totally worth spending it on a perverted girl like you!=嘿嘿。。。我很高兴我省下了一个月的每一分钱和五分钱。花在像你这样的变态女孩身上是完全值得的！
+Hehe, I can't resist a girl in slutty clothes... Of course I'll look at your tits.=呵呵，我无法抗拒一个穿着淫荡衣服的女孩...我当然会看看你的乳头。
+Ah, thank you very much... The way you look at me... It's so dirty... I love it...<color%3D#FF7FCF>♥</color>=啊，非常感谢...你看我的眼神...太脏了...我爱死它了...<color%3D#FF7FCF>♥</color>
+Heehee... I'm glad I saved every penny and nickel I had for a month. It's totally worth spending it on a perverted girl like you!=嘿嘿...我很高兴我省下了一个月的每一分钱和五分钱。花在像你这样的变态女孩身上是完全值得的！
 Despairing Ricca=绝望的Ricca
 Ricca bought by a noble=Ricca被贵族买走
 Intimate standing creampie=亲密站立体位 中出
@@ -251,156 +251,177 @@ Ricca gets groped 2=Ricca被猥亵 2
 Ricca gets groped=Ricca被猥亵
 Alluring hip shake=诱人的臀部抖动
 Hypnotized back alley\r\nsex worker Ricca=被催眠的后巷\n性工作者Ricca
-Nnn... *Smooch* Mmnn... You're so good at kissing...<color%3D#FF7FCF>♥</color> Nn, aah, and your fingers...are so lewd... Nnnmm... I love them<color%3D#FF7FCF>♥</color>=Nnn*亲吻…嗯。。。你真会接吻。。。<color%3D#FF7FCF>♥</color> 啊，还有你的手指。。。你太淫荡了。。。Nnnmm。。。我爱他们<color%3D#FF7FCF>♥</color>
-*Smooch* Hehehe... You really don't mind me cumming inside you, right? I'm going to cum in you no matter what you say once I put it in.=*接吻，嘿嘿。。。你真的不介意我在你体内卡明，对吧？一旦我把它放进去，不管你说什么，我都会把你放进去。
-Yes... *Smooch* My pussy is all yours, mister... Nnmm... Please... Mnnn... Cum inside me as much as you like.=是的*接吻，我的猫咪都是你的，先生。。。嗯。。。请嗯。。。随你怎么想就怎么想。
+Nnn... *Smooch* Mmnn... You're so good at kissing...<color%3D#FF7FCF>♥</color> Nn, aah, and your fingers...are so lewd... Nnnmm... I love them<color%3D#FF7FCF>♥</color>=Nnn*亲吻...嗯...你真会接吻...<color%3D#FF7FCF>♥</color> 啊，还有你的手指...你太淫荡了...Nnnmm...我爱他们<color%3D#FF7FCF>♥</color>
+*Smooch* Hehehe... You really don't mind me cumming inside you, right? I'm going to cum in you no matter what you say once I put it in.=*接吻，嘿嘿...你真的不介意我在你体内卡明，对吧？一旦我把它放进去，不管你说什么，我都会把你放进去。
+Yes... *Smooch* My pussy is all yours, mister... Nnmm... Please... Mnnn... Cum inside me as much as you like.=是的*接吻，我的小穴都是你的，先生...嗯...请嗯...随你怎么想就怎么想。
 Hehe, then let me fuck you like crazy and pump every drop I've been saving since last month!=呵呵，那就让我疯狂地操你，把上个月以来我一直在攒的每一滴都抽出来！
-Ricca"Ah, aaah...! Your cock... It's so deep inside me...<color%3D#FF7FCF>♥</color>"=Ricca“啊，啊……你的公鸡……它在我内心深处。。。<color%3D#FF7FCF>♥</color>"
-Ricca"Aah, nnh, give me...your cum<color%3D#FF7FCF>♥</color>"=Ricca“啊，嗯，给我……你的信用卡<color%3D#FF7FCF>♥</color>"
+Ricca"Ah, aaah...! Your cock... It's so deep inside me...<color%3D#FF7FCF>♥</color>"=Ricca“啊，啊...你的鸡巴...它在我内心深处...<color%3D#FF7FCF>♥</color>"
+Ricca"Aah, nnh, give me...your cum<color%3D#FF7FCF>♥</color>"=Ricca“啊，嗯，给我...你的信用卡<color%3D#FF7FCF>♥</color>"
 Ricca"Aaah! I can feel it<color%3D#FF7FCF>♥</color> You're cumming inside me! I'm cumming toooo<color%3D#FF7FCF>♥</color>"=Ricca“啊！我能感觉到<color%3D#FF7FCF>♥</color> 你在我的内心作祟！我要高潮了 嘟嘟<color%3D#FF7FCF>♥</color>"
-Here, take it! A hundred silver coins! I'm splurging, so you better give me your best service, Ricca!=来，拿着！一百个银币！我在挥霍所以你最好给我最好的服务，Ricca!
-Haa, haaa... A hundred coins...? Thank you so much...mmhaa...for using me, mister...<color%3D#FF7FCF>♥</color>=哈哈哈。。。一百个硬币。。。？非常感谢你。。。嗯哈。。。谢谢你利用我，先生。。。<color%3D#FF7FCF>♥</color>
-One hour later...=一小时后。。。
+Here, take it! A hundred silver coins! I'm splurging, so you better give me your best service, Ricca!=来，看招！一百个银币！我在挥霍所以你最好给我最好的服务，Ricca!
+Haa, haaa... A hundred coins...? Thank you so much...mmhaa...for using me, mister...<color%3D#FF7FCF>♥</color>=哈哈哈...一百个硬币...？非常感谢你...嗯哈...谢谢你利用我，先生...<color%3D#FF7FCF>♥</color>
+One hour later...=一小时后...
 Man of the Capital B=首府人物B
-Huff, huff, huff!=哈夫，哈夫，哈夫！
-Ah, ah, aaah... Mister... Harder... Thrust your mushroom-headed cock into my pussy<color%3D#FF7FCF>♥</color>=啊，啊，啊。。。先生。。。更努力。。。把你的蘑菇头公鸡塞进我的阴部<color%3D#FF7FCF>♥</color>
+Huff, huff, huff!=呼，呼，呼！
+Ah, ah, aaah... Mister... Harder... Thrust your mushroom-headed cock into my pussy<color%3D#FF7FCF>♥</color>=啊，啊，啊...先生...更努力...把你的蘑菇头鸡巴塞进我的阴部<color%3D#FF7FCF>♥</color>
 Man of the Capital C=首府人物C
-Take that! You like it here, don'cha!? I know you cum every time I hit this spot, you slut!=拿着！你喜欢这里，不是吗！？我知道你每次我碰到这个地方，你这个荡妇！
-Nn, ah, nooo...! If you thrust that deep inside with your long cock...you're going to make me lose my mind...! Aaaaaah!=啊，不。。。！如果你用你的长公鸡把它深深地插进去。。。你会让我失去理智的。。。！啊啊！
+Take that! You like it here, don'cha!? I know you cum every time I hit this spot, you slut!=看招！你喜欢这里，不是吗！？我知道你每次我碰到这个地方，你这个荡妇！
+Nn, ah, nooo...! If you thrust that deep inside with your long cock...you're going to make me lose my mind...! Aaaaaah!=啊，不...！如果你用你的长鸡巴把它深深地插进去...你会让我失去理智的...！啊啊！
 Man of the Capital D=首府人物D
-Huff... Huff... I'm about...to cum...=生气地说生气地说我要。。。加。。。
-Nn... Huff... Hufff... Your smelly, dirty cock... So tiny and desperate... It's so cute...<color%3D#FF7FCF>♥</color>=Nn。。。生气地说哈夫。。。你那又臭又脏的公鸡。。。如此渺小和绝望。。。太可爱了。。。<color%3D#FF7FCF>♥</color>
-One hour later, close to dawn...=一小时后，接近黎明。。。
+Huff... Huff... I'm about...to cum...=生气地说生气地说我要...加...
+Nn... Huff... Hufff... Your smelly, dirty cock... So tiny and desperate... It's so cute...<color%3D#FF7FCF>♥</color>=Nn...生气地说呼...你那又臭又脏的鸡巴...如此渺小和绝望...太可爱了...<color%3D#FF7FCF>♥</color>
+One hour later, close to dawn...=一小时后，接近黎明...
 Nobleman=贵族
 Huff! Huff! What a splendid pussy! Heeheehee! I can feel it coiled around my shaft! It's like it's desperately trying to please me!=生气地说生气地说多么漂亮的女人！嘿嘿！我能感觉到它盘绕在我的轴上！就像它拼命想取悦我一样！
-Nnn, haaa... Ah, aah, aaah...! Your cock's so thick and hard and long... It's the best cock I've had all night<color%3D#FF7FCF>♥</color>=嗯，哈。。。啊，啊，啊。。。！你的公鸡又粗又硬又长。。。这是我整晚吃的最好的公鸡<color%3D#FF7FCF>♥</color>
+Nnn, haaa... Ah, aah, aaah...! Your cock's so thick and hard and long... It's the best cock I've had all night<color%3D#FF7FCF>♥</color>=嗯，哈...啊，啊，啊...！你的鸡巴又粗又硬又长...这是我整晚吃的最好的鸡巴<color%3D#FF7FCF>♥</color>
 Bwahaha! It's almost dawn, and she's still at it! You're a star player, Ricca. The customers keep on coming.=哇哈！天快亮了，她还在忙呢！你是个明星球员，Ricca. 顾客不断地来。
 You said it. Hey, I know that guy. That aristocrat's known for being a huge pervert.=你说对了。嘿，我认识那个人。那个贵族以变态而闻名。
-Ah, nooo, aaaah<color%3D#FF7FCF>♥</color> If you fuck me that hard...you're going to make me cum even more...! Aah, nooo<color%3D#FF7FCF>♥</color>=啊，不，啊<color%3D#FF7FCF>♥</color> 如果你那么狠狠地操我。。。你会让我更。。。！啊，不<color%3D#FF7FCF>♥</color>
-Huff, huff, I'm going to get addicted to your body. I know, how about you become my slave-maid? Heeheehee! I'll even let you bear my child! Heehee!=哈夫，哈夫，我要对你的身体上瘾了。我知道，你当我的女仆怎么样？嘿嘿！我甚至会让你生我的孩子！嘿嘿！
+Ah, nooo, aaaah<color%3D#FF7FCF>♥</color> If you fuck me that hard...you're going to make me cum even more...! Aah, nooo<color%3D#FF7FCF>♥</color>=啊，不，啊<color%3D#FF7FCF>♥</color> 如果你那么狠狠地操我...你会让我更...！啊，不<color%3D#FF7FCF>♥</color>
+Huff, huff, I'm going to get addicted to your body. I know, how about you become my slave-maid? Heeheehee! I'll even let you bear my child! Heehee!=呼，呼，我要对你的身体上瘾了。我知道，你当我的女仆怎么样？嘿嘿！我甚至会让你生我的孩子！嘿嘿！
 Gross... I can hear that noble's snorting from here. Sounds like he's taken a liking to Ricca.=总的我能听到noble在这里打鼾。听起来他喜欢Ricca.
 Gahaha, then we should sell her directly to him instead of giving her to the slave trade. He might turn our offer down, but I doubt he'll snitch us to the soldiers.=哈哈，那我们应该直接把她卖给他，而不是把她交给奴隶贩子。他可能会拒绝我们的提议，但我怀疑他会向士兵告密我们。
-Ah, Aaah... Thank you very much... I'm so happy you like me... Nn, aah... I feel like the happiest girl alive... Nn, nooo<color%3D#FF7FCF>♥</color>=啊，啊。。。非常感谢你。。。我很高兴你喜欢我。。。啊。。。我觉得自己是世上最幸福的女孩。。。不，不<color%3D#FF7FCF>♥</color>
-Ricca"Aaaah, I'm cumming... Your cock is making me cummmmm<color%3D#FF7FCF>♥</color>"=Ricca“啊，我要高潮了... 你的公鸡让我恶心<color%3D#FF7FCF>♥</color>"
+Ah, Aaah... Thank you very much... I'm so happy you like me... Nn, aah... I feel like the happiest girl alive... Nn, nooo<color%3D#FF7FCF>♥</color>=啊，啊...非常感谢你...我很高兴你喜欢我...啊...我觉得自己是世上最幸福的女孩...不，不<color%3D#FF7FCF>♥</color>
+Ricca"Aaaah, I'm cumming... Your cock is making me cummmmm<color%3D#FF7FCF>♥</color>"=Ricca“啊，我要高潮了... 你的鸡巴让我恶心<color%3D#FF7FCF>♥</color>"
 Ricca"I'm cumming, I'm cumming...! Aaaaaaaaah<color%3D#FF7FCF>♥</color><color%3D#FF7FCF>♥</color><color%3D#FF7FCF>♥</color>"=Ricca"我要高潮了, 我要高潮了...! 啊啊啊<color%3D#FF7FCF>♥</color><color%3D#FF7FCF>♥</color><color%3D#FF7FCF>♥</color>"
-Nn... Ugh... Huh? Where...am I...?=Nn。。。呃。。。嗯？哪里我是。。。？
+Nn... Ugh... Huh? Where...am I...?=Nn...呃...嗯？哪里我是...？
 Heehee! There, twenty shiny gold coins. Let me know when you get your hands on another nice girl.=嘿嘿！那儿有二十枚闪闪发光的金币。当你找到另一个好女孩时告诉我。
 You got it. Gahaha! I didn't think she would be this big of a hit. You take good care of your new master, Ricca!=你明白了。哈哈哈！我没想到她会这么受欢迎。你要好好照顾你的新主人，Ricca!
-Take care...? Um, but...I'm a holy knight...and I need to go save my sister... Who are all these men?=当心。。。？嗯，但是。。。我是一个神圣的骑士。。。我要去救我妹妹。。。这些人都是谁？
-Whoops, I guess I did use too much of the drug. She's so loopy, she's still talking about that holy knight crap. It must have screwed with her memories.=哎呀，我想我确实用了太多的药。她太胡闹了，她还在说那个神圣骑士的废话。一定是她的记忆出了问题。
+Take care...? Um, but...I'm a holy knight...and I need to go save my sister... Who are all these men?=当心...？嗯，但是...我是一个神圣的骑士...我要去救我妹妹...这些人都是谁？
+Whoops, I guess I did use too much of the drug. She's so loopy, she's still talking about that holy knight crap. It must have screwed with her memories.=哎呀，我想我确实用了太多的药。她太胡闹了，她还在说那个圣骑士的废话。一定是她的记忆出了问题。
 Gahaha! Then we better explain the situation.=哈哈哈！那我们最好解释一下情况。
 Look here, missy. You just got sold off as a slave to this aristocrat. Don't you remember fucking him earlier?=看这里，小姐。你刚刚被卖为这个贵族的奴隶。你不记得以前和他上床了吗？
-Huh...? Fu...? What are you...=呵呵。。。？福。。。？你是干什么的。。。
-Eeek...! What's this white liquid...? It smells... No way, is it...semen!? Wh-Why... I remember, I was...trying to save Iris...=哎呀。。。！这是什么白色液体。。。？闻起来。。。不可能，是不是。。。精液！？为什么。。。我记得我当时。。。试图拯救Iris...
+Huh...? Fu...? What are you...=呵呵...？福...？你是干什么的...
+Eeek...! What's this white liquid...? It smells... No way, is it...semen!? Wh-Why... I remember, I was...trying to save Iris...=哎呀...！这是什么白色液体...？闻起来...不可能，是不是...精液！？为什么...我记得我当时...试图拯救Iris...
 Uh-oh, the drug's wearing off. Here, use this on her before you take her home. It'll calm her down.=哦，毒品正在消失。在你带她回家之前用这个。这会让她平静下来。
 Thank you. I'll be taking her back to my mansion, then. Bwuheehee! I'll train her to be a slave-maid worthy of serving me!=非常感谢。那我就带她回我家。Bwuheehee！我要把她训练成一个值得为我服务的女仆！
-Eek... I... I was drugged...and then I had sex with so many men... I was moaning and cumming over and over... Ah, aah... There's semen...inside me, too...=哎呀。。。我我被麻醉了。。。然后我和很多男人发生了性关系。。。我一次又一次地呻吟着。。。啊，啊。。。有精液。。。我的内心也是。。。
-Aaaaaah!? No... I've been violated... Nooo... Aaah... It was my first time with a man... This can't be... No... No, it can't...=啊啊！？不我被侵犯了。。。不。。。啊。。。这是我第一次和一个男人在一起。。。这不可能。。。不不，它不能。。。
-Aaah... No... Noo... Nooooooo!=啊。。。不不。。。不！
+Eek... I... I was drugged...and then I had sex with so many men... I was moaning and cumming over and over... Ah, aah... There's semen...inside me, too...=哎呀...我我被麻醉了...然后我和很多男人发生了性关系...我一次又一次地呻吟着...啊，啊...有精液...我的内心也是...
+Aaaaaah!? No... I've been violated... Nooo... Aaah... It was my first time with a man... This can't be... No... No, it can't...=啊啊！？不我被侵犯了...不...啊...这是我第一次和一个男人在一起...这不可能...不不，它不能...
+Aaah... No... Noo... Nooooooo!=啊...不不...不！
 ——————————————————————————【3D】第十一话-首都被催眠的妓女结束————————————————
 
 
-————————————————【3D】第十一话-奴隶女仆奥利维亚开始————————————————————
-View scene\r\n"Slave maid Olivia"?=查看场景\n“奴隶女仆奥利维亚”？
-One week after Ricca was captured by bandits at the quarry...=一周后Ricca 在采石场被土匪抓获。。。
-(<indent%3D0.4em>Nnnff... My body's hot... I ache down there... It's been about a week since Iris went searching for the brooch...)=(<indent%3D0.4em>Nnnff。。。我的身体很热。。。我在下面很疼。。。已经有一周了Iris 去寻找胸针……）
-(<indent%3D0.4em>I know the holy knight's brooch is important, but the bandits were holding a child who was traveling down the main road hostage. I knew Iris was against it, but I had to give them the brooch. What else could I do?)=(<indent%3D0.4em>我知道神圣骑士的胸针很重要，但强盗们挟持了一个沿着大路旅行的孩子作为人质。我知道Iris 他反对，但我必须把胸针给他们。我还能做什么呢？）
-(<indent%3D0.4em>Ah... I recognize these footsteps... He's coming... I have to wake up and get ready...)=(<indent%3D0.4em>啊。。。我认出了这些脚步声。。。他来了。。。我得起床准备……）
-Good morning, Olivia. Did you just wake up too?=早上好，奥利维亚。你也刚刚醒来吗？
-Nnn... Haa, haa... Good morning, Lord Marco...=Nnn。。。哈哈哈。。。早上好，马可勋爵。。。
-Lord Marco=马可勋爵
-(<indent%3D0.4em>Urk... Don't say it like that. It sounds so dirty...)=(<indent%3D0.4em>乌尔克。。。别那样说。听起来太脏了……）
+————————————————【3D】第十一话-奴隶女仆Olivia开始————————————————————
+View scene\r\n"Slave maid Olivia"?=查看场景\n“奴隶女仆Olivia”？
+One week after Ricca was captured by bandits at the quarry...=一周后Ricca 在采石场被土匪抓获...
+(<indent%3D0.4em>Nnnff... My body's hot... I ache down there... It's been about a week since Iris went searching for the brooch...)=(<indent%3D0.4em>Nnnff...我的身体很热...我在下面很疼...已经有一周了Iris 去寻找胸针...）
+(<indent%3D0.4em>I know the holy knight's brooch is important, but the bandits were holding a child who was traveling down the main road hostage. I knew Iris was against it, but I had to give them the brooch. What else could I do?)=(<indent%3D0.4em>我知道圣骑士的胸针很重要，但强盗们挟持了一个沿着大路旅行的孩子作为人质。我知道Iris 他反对，但我必须把胸针给他们。我还能做什么呢？）
+(<indent%3D0.4em>Ah... I recognize these footsteps... He's coming... I have to wake up and get ready...)=(<indent%3D0.4em>啊...我认出了这些脚步声...他来了...我得起床准备...）
+Good morning, Olivia. Did you just wake up too?=早上好，Olivia。你也刚刚醒来吗？
+Nnn... Haa, haa... Good morning, Lord Marco...=Nnn...哈哈哈...早上好，马可阁下...
+Lord Marco=马可阁下
+(<indent%3D0.4em>Urk... Don't say it like that. It sounds so dirty...)=(<indent%3D0.4em>乌尔克...别那样说。听起来太脏了...）
 Bwehehe, this whole room is filled with your slutty scent. You must have been sweating in your sleep.=整个房间都充满了你淫荡的气味。你一定是在睡觉时出汗了。
-(<indent%3D0.4em>It's because of the incense you ordered me to burn before bed... The smell made me play with myself and have naughty dreams in my sleep...)=(<indent%3D0.4em>因为你让我在睡前烧香。。。这股气味让我自娱自乐，在睡梦中做着淘气的梦……）
+(<indent%3D0.4em>It's because of the incense you ordered me to burn before bed... The smell made me play with myself and have naughty dreams in my sleep...)=(<indent%3D0.4em>因为你让我在睡前烧香...这股气味让我自娱自乐，在睡梦中做着淘气的梦...）
 I've prepared another day of training for you to become a full-fledged slave maid. Now listen to what I say closely.=我为你准备了另一天的训练，让你成为一个成熟的女仆。现在仔细听我说。
-Yes, Master... Please train your slave Olivia well...=是的，主人。。。请好好训练你的奴隶奥利维亚。。。
-(<indent%3D0.4em>Sorry I'm using your name, Olivia...)=(<indent%3D0.4em>对不起，我用的是你的名字，奥利维亚……）
-(<indent%3D0.4em>Miria might be a succubus now, but she's able to disguise herself as a human. Iris said that she might come to the capital to look for me.)=(<indent%3D0.4em>米莉亚现在可能是个魅魔，但她能把自己伪装成人类。Iris 说她可能会来首都找我。）
-Go on, Olivia. Greet your Master like you were taught yesterday.=继续，奥利维亚。像昨天教你的那样问候你的主人。
-Ah... Yes... Um... Lord Marco... My master's cock... May I serve you with...my mouth and chest...?=啊。。。对嗯。。。马可勋爵。。。我主人的公鸡。。。我可以为您提供。。。我的嘴和胸部。。。？
-Yes, very well. Heehee, my cock says you may as well.=是的，很好。嘿嘿，我的公鸡说你也可以。
-Yes... Thank you very much... Now, excuse me...=对非常感谢你。。。现在，对不起。。。
-Nmmmph... Schmmm... *Lick*... *Lick*... Mmmph... *Suck*... Mmmch...=嗯。。。笨蛋*舔**舔*。。。嗯*吸*。。。嗯。。。
-Oh... Oooh... Hehehe...=哦哦。。。嘿嘿。。。
-(<indent%3D0.4em>It's twitching... Urk... I can't believe I'm holding the dick of some guy I don't even like between my breasts and licking it... But if I don't do this, he's going to punish me...)=(<indent%3D0.4em>它在抽搐。。。乌尔克。。。我简直不敢相信我竟然把一个我不喜欢的男人的老二夹在胸前舔着。。。但如果我不这么做，他会惩罚我……）
-(<indent%3D0.4em>Looks like he's feeling good... Gross...)=(<indent%3D0.4em>看起来他感觉很好。。。恶心……）
-Huff, huff... That feels good. It's only been a few days since I bought you, but you've already gotten a lot better at serving me. You have the makings of a great slave. Fheehee... Good girl, Olivia.=哈夫，哈夫。。。感觉很好。我才买了你几天，但你在为我服务方面已经做得更好了。你有成为伟大奴隶的气质。Fheehee。。。好姑娘，奥利维亚。
-Mmmch... Nnn... Thank you...very much... Heehee...=嗯。。。Nnn。。。非常感谢。非常地嘿嘿。。。
-(<indent%3D0.4em>He'll get mad at me again if I don't smile... I don't want to get lashed by a whip anymore...)=(<indent%3D0.4em>如果我不笑，他会再次生我的气。。。我不想再被鞭子抽打了……）
-I'll continue sucking you...until you ejaculate... *Smooch*... *Lick*... Mmmsch, *Smooch*, nnnh... *Lick*...=我会继续吮吸你。。。直到你射精*接吻**舔*。。。嗯…亲吻…nnnh*舔*。。。
-(<indent%3D0.4em>Urk... Bitter fluid...is starting to come out from the tip... I should think about something else to distract me from the taste... At any rate, without my holy knight form, I can't run away from him...)=(<indent%3D0.4em>乌尔克。。。苦涩的液体。。。开始从尖端出来。。。我应该想点别的东西来分散我对味道的注意力。。。无论如何，没有我的神圣骑士形态，我无法逃离他……）
-(<indent%3D0.4em>I hate that I have to serve him...but I don't think any succubi will find me here...)=(<indent%3D0.4em>我讨厌我必须为他服务。。。但我不认为任何女巫会在这里找到我……）
-(<indent%3D0.4em>I don't have to hunt and eat monsters, and I can sleep safe and sound every night... I get to take a bath every day, and don't have to do my business in the grass anymore...)=(<indent%3D0.4em>我不必捕猎和吃怪物，而且我每晚都能安然无恙地睡觉。。。我每天都可以洗澡，不必再在草地上做我的事了……）
-(<indent%3D0.4em>I might be living better here...than I was in the mountain village...)=(<indent%3D0.4em>我可能在这里生活得更好。。。比我在山村时……）
-(<indent%3D0.4em>I just need to hold on until Iris finds where the brooch was sold off to. That shouldn't be too hard, since it's relatively safe here...)=(<indent%3D0.4em>我只需要坚持到Iris 找到了胸针被卖到的地方。这应该不会太难，因为这里相对安全……）
-One week after Ricca was sold to the aristocrat...=一周后Ricca 被卖给贵族。。。
-(<indent%3D0.4em>Nn, nnh... My body won't stop feeling hot... Maybe the seal Iris put on my curse is weakening... I should have asked her to put a stronger seal on me before she left...)=(<indent%3D0.4em>Nn，nnh。。。我的身体不会停止发热。。。也许是海豹Iris 戴上我的诅咒正在减弱。。。在她离开之前，我应该让她给我盖上更牢固的封印……）
-Fhee... Good morning, Olivia.=嘿。。。早上好，奥利维亚。
-Nnh... Haa... Good morning... Master...=嗯。。。哈。。。早上好主人
-I worked myself too hard training the new slave I bought, and now my back hurts. Olivia, can I have you ride on top today?=我训练新买的奴隶太辛苦了，现在我的背疼了。奥利维亚，我能让你今天骑在上面吗？
-Yes... Haa, haa... I'll get on top...and pleasure my Master and his amazing cock...=对哈哈哈。。。我会在上面。。。很高兴我的主人和他神奇的公鸡。。。
-Excuse me... Aaaaaaah... It's so big...and hard... Ack... Nnnh, aaah, haaah... Nnn, aan...!=打扰一下啊啊啊。。。太大了。。。而且很难。。。确认。。。嗯，啊，啊。。。恩，安。。。！
-Fheehee... I love how your pussy takes my cock deep inside and entangles itself onto me. It's like it remembers how good my cock feels. Now shake your hips harder.=Fheehee。。。我喜欢你的猫咪把我的公鸡深深地藏在里面，缠在我身上。就像它记得我的公鸡感觉有多好。现在用力摇晃臀部。
-Yes, Master... I'll move faster... Hupp... Aaaah, yaaah, aaa, nnh... Aaah!=是的，主人。。。我会走得更快。。。哈普。。。啊，啊，啊，啊，啊，不。。。啊！
-Oooh, good, good. Keep going...=哦，很好，很好。继续前进。。。
-(<indent%3D0.4em>My body's gotten so naughty...because of the curse and the incense... I'm letting out lewd moans naturally... It's not acting anymore...)=(<indent%3D0.4em>我的身体变得很顽皮。。。因为诅咒和熏香。。。我自然地发出淫秽的呻吟。。。它不再行动了……）
-I thought the slave trader scammed me when I realized you'd already been deflowered, but you turned out to be a very fast learner... Fheehee, you were a great buy!=当我意识到你已经被解职时，我以为奴隶贩子骗了我，但你却学得很快。。。Fheehee，你真是个好买卖！
-Nnn... Aaaan, thank you very much...for your kind words... Aaah... Hearing you say that... Aah... Makes me...very happy... Haaah...=Nnn。。。安安，非常感谢你。。。谢谢你的好话。。。啊。。。听你这么说。。。啊。。。让我。。。非常高兴。。。哈。。。
-Fhee! Huff, huff... Fheeheehee! You're an excellent slave-maid, Olivia.=嘿！哈夫，哈夫。。。嘿嘿！你是个优秀的奴隶女佣，奥利维亚。
-(<indent%3D0.4em>A slave-maid... No, I'm not a slave-maid...)=(<indent%3D0.4em>一个奴隶女佣。。。不，我不是女仆……）
-(<indent%3D0.4em>Ah... No... My mind is going blank... I can't retaliate... I have to stay meek, or else he'll get mad at me...)=(<indent%3D0.4em>啊。。。不我的脑子一片空白。。。我不能报复。。。我必须保持温顺，否则他会生我的气……）
-Nn, aaah... Yes... I am... Olivia is... Aaah, aaaah... Your slave-maid...=啊啊。。。对我是。。。奥利维亚。。。啊，啊。。。你的女仆。。。
-Fheehee, look at you move your hips so frantically... You get sluttier every time we fuck. You're the best slave I've ever bought, Olivia.=Fheehee，看你这么疯狂地移动臀部。。。每次我们做爱你都会变得更淫荡。你是我买的最好的奴隶奥利维亚。
-(<indent%3D0.4em>Marco... Lord...Marco... He's scary when he gets mad...but as long as I follow his orders...he treats me so kindly...)=(<indent%3D0.4em>马可。。。贵族马可。。。他生气的时候很害怕。。。但只要我听从他的命令。。。他对我很好……）
-(<indent%3D0.4em>I feel sick just looking at him...but I'm so happy when he praises me... It makes my body feel even hotter...)=(<indent%3D0.4em>我看着他就觉得恶心。。。但当他称赞我的时候我很高兴。。。它让我的身体感觉更热……）
-(<indent%3D0.4em>My heart is aching... Is this because of the curse and incense too...? I want to feel good... I want to make him feel good...)=(<indent%3D0.4em>我的心在痛。。。这也是因为诅咒和熏香吗。。。？我想要感觉良好。。。我想让他感觉良好……）
-Three weeks after Ricca was sold to the aristocrat...=三周后Ricca 被卖给贵族。。。
-Aaaaaaah...! It hurts...! Master, please... Forgive me...!=啊啊啊。。。！疼。。。！师父，求你了。。。原谅我。。。！
-You broke another valuable vase! You're worth nothing compared to that vase!=你又打碎了一个贵重的花瓶！你比那花瓶一文不值！
-I'm sorry... I'm sorry... I'll never break anything again... So please, forgive me, Master!=我很抱歉。。。我很抱歉。。。我再也不会打破任何东西了。。。所以请原谅我，主人！
-Do you know how many vases you've broken so far, Olivia!? I know an airhead like you is going to keep breaking them! That's why...I'm going to teach you a lesson...with your body!=你知道到目前为止你打碎了多少花瓶吗，奥利维亚！？我知道像你这样的笨蛋会不断打破它们的！这就是为什么。。。我要给你上一课。。。用你的身体！
-Eeeek! It huuuuurts! I'm sorry, Masteeeeer!=哎呀！它呼呼作响！对不起，马斯蒂尔！
-(<indent%3D0.4em>Master... He's so scary... But I'm the one at fault... I keep breaking vases no matter how many times I'm scolded... I deserve to get punished...)=(<indent%3D0.4em>主人他太可怕了。。。但我错了。。。不管我被责骂多少次，我总是打破花瓶。。。我应该受到惩罚……）
-The incense is making you stagger? What a sorry excuse! You're clumsy because you aren't trained well enough as a slave-maid! So let me...discipline you...more!=熏香让你摇摇晃晃？多么遗憾的借口！你笨手笨脚是因为你没有受过足够好的女仆训练！所以让我。。。训练你。。。更多
-Aaaaaah!! I'm sorry, I'm sorry! I'll train harder... I'll be a slave-maid you can be proud of... So please forgive Ricca... Please forgive Olivia, Master!=啊！！对不起，对不起！我会更努力地训练。。。我会成为一个奴隶女佣，你可以为此感到骄傲。。。所以请原谅Ricca... 请原谅奥利维亚，主人！
-(<indent%3D0.4em>Aaah... It hurts... But I can feel the pleasure...within the pain...)=(<indent%3D0.4em>啊。。。很痛。。。但我能感觉到快乐。。。在痛苦中……）
-(<indent%3D0.4em>This is supposed to be punishment...but if Master realizes I'm enjoying it...he's going to punish me more...)=(<indent%3D0.4em>这应该是惩罚。。。但如果主人意识到我很享受。。。他会更严厉地惩罚我……）
-(<indent%3D0.4em>Oww... But once this punishment is over...Master will return to his usual kind self... I'm the one at fault, so I need to take this obediently... I need to get him to forgive me...)=(<indent%3D0.4em>哦。。。但一旦惩罚结束。。。师父会回到他平常善良的自己。。。我是罪魁祸首，所以我需要乖乖地接受这个。。。我需要让他原谅我……）
-One month since Ricca was sold to the aristocrat...=一个月后Ricca 被卖给贵族。。。
-Ahaaah, it feels so good, Lord Marco...! My master's cock feels amazing...<color%3D#FF7FCF>♥</color> Aaah, aaa...!=啊哈，感觉真好，马可勋爵。。。！我主人的公鸡感觉棒极了。。。<color%3D#FF7FCF>♥</color> 啊，啊。。。！
-Oooh, heehee... You've become a wonderful vase for nectar. Your pussy latches onto my cock so tightly like it's begging for my seed. Is it because of the curse on your stomach?=哦，嘿嘿。。。你成了一个盛放花蜜的花瓶。你的猫咪紧紧地抓着我的公鸡，好像在乞求我的种子。是因为你肚子上的诅咒吗？
-(<indent%3D0.4em>These days, my body feels hot and happy when I have sex with Master...even without the incense... I can't hold back my...lewd moans at all...)=(<indent%3D0.4em>这几天，当我和师父做爱时，我的身体感到热而快乐。。。即使没有熏香。。。我忍不住。。。猥亵的呻吟……）
-(<indent%3D0.4em>Lord Marco... An awful aristocrat with a great mansion, who buys slaves and orders them to do filthy things, even though it's against the laws of this land...)=(<indent%3D0.4em>马可勋爵。。。一个拥有豪宅的可怕贵族，他收买奴隶并命令他们做肮脏的事情，尽管这违反了这片土地的法律……）
-Fheeheehee, I still don't regret buying you - you were a great purchase. Take that! And that! I'll fuck your brains out as a reward!=呵呵，我还是不后悔买了你——你买得太好了。拿着！还有那个！我会把你的脑袋挖出来作为奖励！
-Nn, haaa... Thank you...very much... Aaah, aaaah...!=哈。。。非常感谢。非常地啊，啊。。。！
-(<indent%3D0.4em>He's an awful aristocrat...but he's kind to me... He scolds me... He praises me... He makes me feel so, so good...)=(<indent%3D0.4em>他是个可怕的贵族。。。但他对我很好。。。他骂我。。。他赞美我。。。他让我感觉很好……）
-Fheeh heeh... You said the mark on your stomach and your bare pussy are the work of your previous owner, right? That mistress must have been a master of discipline. Fheehee, I wish I could thank her!=嘿嘿。。。你说你肚子上的印记和你裸露的阴部是你前主人的作品，对吧？那个女主人一定是个管教大师。嘿，我希望我能感谢她！
-Aaah, yes... My last owner was a succubus... Was like a succubus... She taught me all sorts of naughty things...so I could serve you like this, Master...!=啊，是的。。。我的上一个主人是一个魅魔。。。就像一个魅魔。。。她教我各种顽皮的东西。。。所以我可以像这样侍奉你，大师。。。！
-Fheeeee! I see, I see, it was all for me, was it? Fheeheeheehee! You're such a tease, Olivia. Here, here! I'll shove my cock deep inside you. Take it!=嘿！我明白了，我明白了，这一切都是为了我，是吗？嘿嘿！奥利维亚，你真会开玩笑。这里，这里！我会把我的公鸡塞进你的内心深处。拿着！
-(<indent%3D0.4em>I can feel his hard cock hitting the entrance of my uterus... It feels so good... He treats his slaves so well...)=(<indent%3D0.4em>我能感觉到他的硬公鸡撞到我子宫的入口。。。感觉真好。。。他对他的奴隶很好……）
-(<indent%3D0.4em>I think I might...be in love with this man...)=(<indent%3D0.4em>我想我可能。。。爱上这个男人……）
-Aaah... Thank you...very much... Olivia loves you...Lord Marco... Olivia loves...your magnificent cock...<color%3D#FF7FCF>♥</color>=啊。。。非常感谢。非常地奥利维亚爱你。。。马可勋爵。。。奥利维亚喜欢。。。你的雄鸡。。。<color%3D#FF7FCF>♥</color>
-(<indent%3D0.4em>I know he's an awful man...but this feels so good and warm... I can't help...but fall in love with him...)=(<indent%3D0.4em>我知道他是个可怕的人。。。但这感觉很好很温暖。。。我没办法。。。但是爱上他……）
-Fheehee... Is that so? You're so cute, Olivia. You're the best slave I've ever bought!=Fheehee。。。是这样吗？你真可爱，奥利维亚。你是我买的最好的奴隶！
-Heeh, take that! And that! I'll turn you into a disheveled mess, just how I like my slaves to be!=嘿，拿着！还有那个！我会把你变成一团乱糟糟的，就像我喜欢我的奴隶一样！
-(<indent%3D0.4em>Aaah... Master... Such kind compliments... He must treat and fuck his other slave girls just as lovingly...)=(<indent%3D0.4em>啊。。。主人这样的赞美。。。他必须像对待其他奴隶女孩一样慈爱地对待和操她们……）
-(<indent%3D0.4em>Sometimes I hear the moans of other girls from the room next door...and it makes me so mad... My heart starts to ache... I want to be the only woman he pleasures...)=(<indent%3D0.4em>有时我听到隔壁房间里其他女孩的呻吟声。。。这让我很生气。。。我的心开始痛。。。我想成为他唯一喜欢的女人……）
-Noooo, haaah... Lord Marco, your cock... Aaaaahh... If you fuck that hard, that deep... Aaaah... I can't handle it... It's too good... Nnnh, too gooood...<color%3D#FF7FCF>♥</color>=不，哈。。。马可大人，你的公鸡。。。啊啊啊。。。如果你操得那么厉害，那么深。。。啊。。。我受不了。。。太好了。。。太好了。。。<color%3D#FF7FCF>♥</color>
-(<indent%3D0.4em>I'm not giving Master to anyone... Not to any other girl, not to Iris, and not to Miria... I don't want to become separated from my master... Even if I get the brooch back...I'm not going to be a holy knight again...)=(<indent%3D0.4em>我不会把师父交给任何人。。。不是对任何其他女孩，不是对Iris, 而不是Miria。。。我不想和我的主人分开。。。即使我拿回胸针。。。我不会再成为神圣骑士了……）
-(<indent%3D0.4em>Because...I'm Master's slutty slave-maid... I belong to Master... I'm not Ricca anymore... I'm Olivia, Lord Marco's female slave...)=(<indent%3D0.4em>因为我是主人的淫荡女仆。。。我属于师父。。。我不是Ricca 不再我是奥利维亚，马可勋爵的女奴……）
-One year after the girl was sold to the aristocrat...=女孩被卖给贵族一年后。。。
-Aah, aaaah... Master... Aaah, aah, haaah...<color%3D#FF7FCF>♥</color>=啊，啊。。。主人啊，啊，啊。。。<color%3D#FF7FCF>♥</color>
-Fheehee... Olivia, you've gotten a lot heavier. So heavy, you don't even budge when I fuck you.=Fheehee。。。奥利维亚，你胖多了。这么重，我操你的时候你都一动不动。
-Noo, please don't say that<color%3D#FF7FCF>♥</color> It's only because you've granted me so much love<color%3D#FF7FCF>♥</color>=不，请不要这么说<color%3D#FF7FCF>♥</color> 只是因为你给了我太多的爱<color%3D#FF7FCF>♥</color>
-Fheeee, fheeheehee, what a cheeky comeback. Here! Here! I'll fuck you more.=嘻嘻，嘻嘻，真是厚颜无耻的复出。在这里在这里我再操你一次。
-Aaah, nooo<color%3D#FF7FCF>♥</color> You're fucking me so hard and so deep... Aaah<color%3D#FF7FCF>♥</color> Your magnificent cock is hitting my weak spots! Aaah, aah, I'm going to cum...<color%3D#FF7FCF>♥</color>=啊，不<color%3D#FF7FCF>♥</color> 你对我的性交如此之深。。。啊<color%3D#FF7FCF>♥</color> 你的雄鸡撞到我的弱点了！啊，啊，我要。。。<color%3D#FF7FCF>♥</color>
-Fheeheehee, you've become such a slut, Olivia. Heeee, heeee. You look completely different from a year ago.=嘿嘿，你真是个荡妇，奥利维亚。嘿，嘿。你看起来和一年前完全不同。
-(<indent%3D0.4em>Aaah... A year ago... Iris... Miria... Neither of them came back...)=(<indent%3D0.4em>啊。。。一年前。。。Iris... 米莉亚。。。他们俩都没回来……）
-(<indent%3D0.4em>I have... Olivia has become so happy... I wanted...to show how happy I am here to everyone...)=(<indent%3D0.4em>我有。。。奥利维亚变得很开心。。。我想。。。向大家展示我有多高兴……）
-Ah, aah, aah, aaah... It's all... All thanks to you...that Olivia is as happy as she is, Master<color%3D#FF7FCF>♥</color>=啊，啊，啊，啊。。。都是。。。多亏了你。。。奥利维亚和她一样快乐，主人<color%3D#FF7FCF>♥</color>
-I see, I see... Fheehee, you're such an adorable slave-maid wife... Take that! Take it, take it!=我明白了，我明白了。。。Fheehee，你真是个可爱的奴隶女佣妻子。。。拿着！拿着，拿着！
-Noo, aah, aaah... Master...<color%3D#FF7FCF>♥</color> Aan, nooo...! If you fuck me that hard, the baby will come out...<color%3D#FF7FCF>♥</color>=不，啊，啊。。。主人<color%3D#FF7FCF>♥</color> 安，不。。。！如果你这么使劲操我，孩子会出来的。。。<color%3D#FF7FCF>♥</color>
-——————————————【3D】第十一话-奴隶女仆奥利维结束————————————————————
+Yes, Master... Please train your slave Olivia well...=是的，主人...请好好训练你的奴隶Olivia...
+(<indent%3D0.4em>Sorry I'm using your name, Olivia...)=(<indent%3D0.4em>对不起，我用的是你的名字，Olivia...）
+(<indent%3D0.4em>Miria might be a succubus now, but she's able to disguise herself as a human. Iris said that she might come to the capital to look for me.)=(<indent%3D0.4em>Miria现在可能是个魅魔，但她能把自己伪装成人类。Iris 说她可能会来首都找我。）
+Go on, Olivia. Greet your Master like you were taught yesterday.=继续，Olivia。像昨天教你的那样问候你的主人。
+Ah... Yes... Um... Lord Marco... My master's cock... May I serve you with...my mouth and chest...?=啊...对嗯...马可阁下...我主人的鸡巴...我可以为您提供...我的嘴和胸部...？
+Yes, very well. Heehee, my cock says you may as well.=是的，很好。嘿嘿，我的鸡巴说你也可以。
+Yes... Thank you very much... Now, excuse me...=对非常感谢你...现在，对不起...
+Nmmmph... Schmmm... *Lick*... *Lick*... Mmmph... *Suck*... Mmmch...=嗯...笨蛋*舔**舔*...嗯*吸*...嗯...
+Oh... Oooh... Hehehe...=哦哦...嘿嘿...
+(<indent%3D0.4em>It's twitching... Urk... I can't believe I'm holding the dick of some guy I don't even like between my breasts and licking it... But if I don't do this, he's going to punish me...)=(<indent%3D0.4em>它在抽搐...乌尔克...我简直不敢相信我竟然把一个我不喜欢的男人的老二夹在胸前舔着...但如果我不这么做，他会惩罚我...）
+(<indent%3D0.4em>Looks like he's feeling good... Gross...)=(<indent%3D0.4em>看起来他感觉很好...恶心...）
+Huff, huff... That feels good. It's only been a few days since I bought you, but you've already gotten a lot better at serving me. You have the makings of a great slave. Fheehee... Good girl, Olivia.=呼，呼...感觉很好。我才买了你几天，但你在为我服务方面已经做得更好了。你有成为伟大奴隶的气质。Fheehee...好姑娘，Olivia。
+Mmmch... Nnn... Thank you...very much... Heehee...=嗯...Nnn...非常感谢。非常地嘿嘿...
+(<indent%3D0.4em>He'll get mad at me again if I don't smile... I don't want to get lashed by a whip anymore...)=(<indent%3D0.4em>如果我不笑，他会再次生我的气...我不想再被鞭子抽打了...）
+I'll continue sucking you...until you ejaculate... *Smooch*... *Lick*... Mmmsch, *Smooch*, nnnh... *Lick*...=我会继续吮吸你...直到你射精*接吻**舔*...嗯...亲吻...nnnh*舔*...
+(<indent%3D0.4em>Urk... Bitter fluid...is starting to come out from the tip... I should think about something else to distract me from the taste... At any rate, without my holy knight form, I can't run away from him...)=(<indent%3D0.4em>乌尔克...苦涩的液体...开始从尖端出来...我应该想点别的东西来分散我对味道的注意力...无论如何，没有我的圣骑士形态，我无法逃离他...）
+(<indent%3D0.4em>I hate that I have to serve him...but I don't think any succubi will find me here...)=(<indent%3D0.4em>我讨厌我必须为他服务...但我不认为任何女巫会在这里找到我...）
+(<indent%3D0.4em>I don't have to hunt and eat monsters, and I can sleep safe and sound every night... I get to take a bath every day, and don't have to do my business in the grass anymore...)=(<indent%3D0.4em>我不必捕猎和吃怪物，而且我每晚都能安然无恙地睡觉...我每天都可以洗澡，不必再在草地上做我的事了...）
+(<indent%3D0.4em>I might be living better here...than I was in the mountain village...)=(<indent%3D0.4em>我可能在这里生活得更好...比我在山村时...）
+(<indent%3D0.4em>I just need to hold on until Iris finds where the brooch was sold off to. That shouldn't be too hard, since it's relatively safe here...)=(<indent%3D0.4em>我只需要坚持到Iris 找到了胸针被卖到的地方。这应该不会太难，因为这里相对安全...）
+========================================以下完毕=======
+One week after Ricca was sold to the aristocrat...=Ricca被卖给贵族一周后...
+(<indent%3D0.4em>Nn, nnh... My body won't stop feeling hot... Maybe the seal Iris put on my curse is weakening... I should have asked her to put a stronger seal on me before she left...)=(<indent%3D0.4em>嗯，嗯...我的身体不会停止发热...也许是Iris 对我诅咒的封印正在减弱...在她离开之前，我应该让她给我封上更牢固的封印的...）
+Fhee... Good morning, Olivia.=呋嚯...早上好，Olivia。
+Nnh... Haa... Good morning... Master...=嗯...哈...早上好...主人...
+I worked myself too hard training the new slave I bought, and now my back hurts. Olivia, can I have you ride on top today?=我训练新买的奴隶太辛苦了，现在我的背疼了。Olivia，我能让你今天骑在上面吗？
+Yes... Haa, haa... I'll get on top...and pleasure my Master and his amazing cock...=对...哈，哈...我会在上面...取悦我的主人和他的神奇鸡巴...
+Excuse me... Aaaaaaah... It's so big...and hard... Ack... Nnnh, aaah, haaah... Nnn, aan...!=打扰一下...啊啊啊...太大了...而且很硬...啊呀...嗯，啊，啊...嗯，啊嗯...！
+Fheehee... I love how your pussy takes my cock deep inside and entangles itself onto me. It's like it remembers how good my cock feels. Now shake your hips harder.=呋嘿嘿...我喜欢你的小穴把我的鸡巴深深地藏在里面，缠在我身上。就像它记得我的鸡巴感觉有多舒服。现在用力摇晃臀部。
+Yes, Master... I'll move faster... Hupp... Aaaah, yaaah, aaa, nnh... Aaah!=是的，主人...我会走得更快...哈噗...啊，啊，呀，啊，啊，嗯...啊！
+Oooh, good, good. Keep going...=哦，很好，很好。继续...
+(<indent%3D0.4em>My body's gotten so naughty...because of the curse and the incense... I'm letting out lewd moans naturally... It's not acting anymore...)=(<indent%3D0.4em>我的身体变得很淫荡...因为诅咒和熏香...我自然地发出淫秽的呻吟...不再演戏了...）
+I thought the slave trader scammed me when I realized you'd already been deflowered, but you turned out to be a very fast learner... Fheehee, you were a great buy!=当我意识到你已经失去了贞洁时，我还以为是奴隶贩子骗了我，但你却学得很快...呋嘿嘿，你真是个好买卖！
+Nnn... Aaaan, thank you very much...for your kind words... Aaah... Hearing you say that... Aah... Makes me...very happy... Haaah...=嗯...嗯啊，非常感谢你...谢谢你的好话...啊...听你这么说...啊...让我...非常高兴...哈...
+Fhee! Huff, huff... Fheeheehee! You're an excellent slave-maid, Olivia.=嘿！呼，呼...呋嘿嘿！你是个优秀的奴隶女仆，Olivia。
+(<indent%3D0.4em>A slave-maid... No, I'm not a slave-maid...)=(<indent%3D0.4em>一个奴隶女仆...不，我不是奴隶女仆...）
+(<indent%3D0.4em>Ah... No... My mind is going blank... I can't retaliate... I have to stay meek, or else he'll get mad at me...)=(<indent%3D0.4em>啊...不...我的脑子一片空白...我不能报复...我必须保持温顺，否则他会生我的气...）
+Nn, aaah... Yes... I am... Olivia is... Aaah, aaaah... Your slave-maid...=啊，啊...对...我是...Olivia是...啊，啊...你的奴隶女仆...
+Fheehee, look at you move your hips so frantically... You get sluttier every time we fuck. You're the best slave I've ever bought, Olivia.=呋嘿嘿，看你这么疯狂地移动臀部...每次我们做爱你都会变得更淫荡。你是我买的最好的奴隶，Olivia。
+(<indent%3D0.4em>Marco... Lord...Marco... He's scary when he gets mad...but as long as I follow his orders...he treats me so kindly...)=(<indent%3D0.4em>马可...马可...阁下...他生气的时候很恐怖...但只要我听从他的命令...他对我很好...）
+(<indent%3D0.4em>I feel sick just looking at him...but I'm so happy when he praises me... It makes my body feel even hotter...)=(<indent%3D0.4em>我看着他就觉得恶心...但她称赞我的时候我就高兴...话语让我的身体更热...）
+(<indent%3D0.4em>My heart is aching... Is this because of the curse and incense too...? I want to feel good... I want to make him feel good...)=(<indent%3D0.4em>我的心在痛...也是因为诅咒和熏香吗...？我想要舒服...我想让他舒服...）
+Three weeks after Ricca was sold to the aristocrat...=Ricca被卖给贵族三周后...
+Aaaaaaah...! It hurts...! Master, please... Forgive me...!=啊啊啊...！疼...！主人，求你了...原谅我...！
+You broke another valuable vase! You're worth nothing compared to that vase!=你又打碎了一个贵重的花瓶！你跟那花瓶比起来一文不值！
+I'm sorry... I'm sorry... I'll never break anything again... So please, forgive me, Master!=我很抱歉...我很抱歉...我再也不会打破任何东西了...所以请原谅我，主人！
+Do you know how many vases you've broken so far, Olivia!? I know an airhead like you is going to keep breaking them! That's why...I'm going to teach you a lesson...with your body!=你知道到目前为止你打碎了多少花瓶吗，Olivia！？我晓得像你这样的笨蛋会不断打破它们的！故而...我要用你的身体，给你上一课...！
+Eeeek! It huuuuurts! I'm sorry, Masteeeeer!=哎呀！疼死了！对不起，主主主人！
+(<indent%3D0.4em>Master... He's so scary... But I'm the one at fault... I keep breaking vases no matter how many times I'm scolded... I deserve to get punished...)=(<indent%3D0.4em>主人...太可怕了...但我犯了错...不管我被责骂多少次，我总是打破花瓶...我应该受到惩罚...）
+The incense is making you stagger? What a sorry excuse! You're clumsy because you aren't trained well enough as a slave-maid! So let me...discipline you...more!=熏香让你摇摇晃晃？多么遗憾的借口！你笨手笨脚是因为你没有受过足够好的女仆训练！所以让我...多练练你...！
+Aaaaaah!! I'm sorry, I'm sorry! I'll train harder... I'll be a slave-maid you can be proud of... So please forgive Ricca... Please forgive Olivia, Master!=啊！！对不起，对不起！我会更努力地训练...我会成为一个让你骄傲的奴隶女仆的...所以请原谅Ricca... 呃，请原谅Olivia，主人！
+(<indent%3D0.4em>Aaah... It hurts... But I can feel the pleasure...within the pain...)=(<indent%3D0.4em>啊...痛...但我能在痛苦中...感觉到快乐...）
+(<indent%3D0.4em>This is supposed to be punishment...but if Master realizes I'm enjoying it...he's going to punish me more...)=(<indent%3D0.4em>这应该是惩罚...但如果主人意识到我很享受...他会更严厉地惩罚我...）
+(<indent%3D0.4em>Oww... But once this punishment is over...Master will return to his usual kind self... I'm the one at fault, so I need to take this obediently... I need to get him to forgive me...)=(<indent%3D0.4em>哦唔...但一旦惩罚结束...主人会回到他平常善良的姿态...我是罪魁祸首，所以我需要乖乖地接受这个...我需要让他原谅我...）
+One month since Ricca was sold to the aristocrat...=Ricca被卖给贵族一个月后...
+Ahaaah, it feels so good, Lord Marco...! My master's cock feels amazing...<color%3D#FF7FCF>♥</color> Aaah, aaa...!=啊哈，真舒服，马可阁下...！我主人的鸡巴棒极了...<color%3D#FF7FCF>♥</color> 啊，啊...！
+Oooh, heehee... You've become a wonderful vase for nectar. Your pussy latches onto my cock so tightly like it's begging for my seed. Is it because of the curse on your stomach?=哦，嘿嘿...你成了一个盛放花蜜的花瓶。你的小穴紧紧地抓着我的鸡巴，好像在乞求我的种子。是因为你肚子上的诅咒吗？
+(<indent%3D0.4em>These days, my body feels hot and happy when I have sex with Master...even without the incense... I can't hold back my...lewd moans at all...)=(<indent%3D0.4em>这几天，当我和主人做爱时，我的身体感到热量与快乐...即使没有熏香...我忍不住...诱惑地呻吟...）
+(<indent%3D0.4em>Lord Marco... An awful aristocrat with a great mansion, who buys slaves and orders them to do filthy things, even though it's against the laws of this land...)=(<indent%3D0.4em>马可阁下...一个拥有豪宅的糟糕贵族，他买奴隶并命令她们做肮脏的事情，尽管这违反了这地方的法律...）
+Fheeheehee, I still don't regret buying you - you were a great purchase. Take that! And that! I'll fuck your brains out as a reward!=呋呵呵，我还是不后悔买了你——买你真划算。看招！来吧！我会把你的脑袋干懵逼作为奖励！
+Nn, haaa... Thank you...very much... Aaah, aaaah...!=哈...非常...感谢...啊，啊...！
+(<indent%3D0.4em>He's an awful aristocrat...but he's kind to me... He scolds me... He praises me... He makes me feel so, so good...)=(<indent%3D0.4em>他是个糟糕的贵族...但他对我很好...他骂我...他赞美我...他让我感觉很舒服...）
+Fheeh heeh... You said the mark on your stomach and your bare pussy are the work of your previous owner, right? That mistress must have been a master of discipline. Fheehee, I wish I could thank her!=呋嘿嘿...你说你肚子上的印记和你裸露的阴部是你前主人的作品，对吧？那个女主人一定是个管教大师。呋嘿，我希望能感谢她！
+Aaah, yes... My last owner was a succubus... Was like a succubus... She taught me all sorts of naughty things...so I could serve you like this, Master...!=啊，是的...我的上一个主人是个魅魔...像一个魅魔...她教我各种色情的东西...所以我可以像这样侍奉你，主人...！
+Fheeeee! I see, I see, it was all for me, was it? Fheeheeheehee! You're such a tease, Olivia. Here, here! I'll shove my cock deep inside you. Take it!=呋嘿！我明白了，我明白了，这一切都是为了我，是吗？嘿嘿！Olivia，你真会开玩笑。这里，这里！我会把我的鸡巴塞进你的深处。看招！
+(<indent%3D0.4em>I can feel his hard cock hitting the entrance of my uterus... It feels so good... He treats his slaves so well...)=(<indent%3D0.4em>我能感觉到他的硬鸡巴撞到我子宫的入口...感觉真舒服...他对他的奴隶真好...）
+(<indent%3D0.4em>I think I might...be in love with this man...)=(<indent%3D0.4em>我想我可能...爱上这个男人...）
+Aaah... Thank you...very much... Olivia loves you...Lord Marco... Olivia loves...your magnificent cock...<color%3D#FF7FCF>♥</color>=啊...非常...感谢。Olivia爱你...马可阁下...Olivia喜欢...你的鸡巴...<color%3D#FF7FCF>♥</color>
+(<indent%3D0.4em>I know he's an awful man...but this feels so good and warm... I can't help...but fall in love with him...)=(<indent%3D0.4em>我知道他是个糟糕的人...但这感觉很舒服很温暖...我没办法...但是爱上他了...）
+Fheehee... Is that so? You're so cute, Olivia. You're the best slave I've ever bought!=呋嘻嘻...是这样吗？你真可爱，Olivia。你是我买的最好的奴隶！
+Heeh, take that! And that! I'll turn you into a disheveled mess, just how I like my slaves to be!=嘿，看招！还有那个！我会把你变得乱糟糟的，就像我喜欢的奴隶一样！
+(<indent%3D0.4em>Aaah... Master... Such kind compliments... He must treat and fuck his other slave girls just as lovingly...)=(<indent%3D0.4em>啊...主人...这样的赞美...他对待其他奴隶女孩肯定也一样慈爱地与之性爱...）
+(<indent%3D0.4em>Sometimes I hear the moans of other girls from the room next door...and it makes me so mad... My heart starts to ache... I want to be the only woman he pleasures...)=(<indent%3D0.4em>有时我听到了隔壁房间里其他女孩的呻吟声...我很生气...我开始心痛...我想成为他唯一喜欢的女人...）
+Noooo, haaah... Lord Marco, your cock... Aaaaahh... If you fuck that hard, that deep... Aaaah... I can't handle it... It's too good... Nnnh, too gooood...<color%3D#FF7FCF>♥</color>=不，哈...马可阁下，你的鸡巴...啊啊啊...如果你操得那么厉害，那么深...啊...我受不了...太爽了...太爽了...<color%3D#FF7FCF>♥</color>
+(<indent%3D0.4em>I'm not giving Master to anyone... Not to any other girl, not to Iris, and not to Miria... I don't want to become separated from my master... Even if I get the brooch back...I'm not going to be a holy knight again...)=(<indent%3D0.4em>我不会把主人交给任何人...不给任何其他女孩，不给Iris, 不给Miria...我不想和我的主人分开...即使我拿回胸针...我也不会再成为圣骑士了...）
+(<indent%3D0.4em>Because...I'm Master's slutty slave-maid... I belong to Master... I'm not Ricca anymore... I'm Olivia, Lord Marco's female slave...)=(<indent%3D0.4em>因为...我是主人的淫荡奴隶女仆...我属于主人...我不再是Ricca 了...我是Olivia，马可阁下的女奴...）
+One year after the girl was sold to the aristocrat...=那个女孩被卖给贵族一年后...
+Aah, aaaah... Master... Aaah, aah, haaah...<color%3D#FF7FCF>♥</color>=啊，啊...主人...啊，啊，哈啊...<color%3D#FF7FCF>♥</color>
+Fheehee... Olivia, you've gotten a lot heavier. So heavy, you don't even budge when I fuck you.=呋嘻嘻嘻...Olivia，你胖多了。这么重，我操你的时候都一动不动。
+Noo, please don't say that<color%3D#FF7FCF>♥</color> It's only because you've granted me so much love<color%3D#FF7FCF>♥</color>=别，请不要这么说<color%3D#FF7FCF>♥</color> 只是因为你给了我太多的爱了嘛<color%3D#FF7FCF>♥</color>
+Fheeee, fheeheehee, what a cheeky comeback. Here! Here! I'll fuck you more.=嘻嘻，嘻嘻，真是厚颜无耻的回复。这里！这里！我再好好操操你。
+Aaah, nooo<color%3D#FF7FCF>♥</color> You're fucking me so hard and so deep... Aaah<color%3D#FF7FCF>♥</color> Your magnificent cock is hitting my weak spots! Aaah, aah, I'm going to cum...<color%3D#FF7FCF>♥</color>=啊，不<color%3D#FF7FCF>♥</color> 你的性交如此之深...啊<color%3D#FF7FCF>♥</color> 你的鸡巴撞到我的弱点了！啊，啊，我要去了...<color%3D#FF7FCF>♥</color>
+Fheeheehee, you've become such a slut, Olivia. Heeee, heeee. You look completely different from a year ago.=呋嘿嘿，你真是个荡妇，Olivia。嘿嘻嘻，嘻嘻。你和一年前完全不同了啊。
+(<indent%3D0.4em>Aaah... A year ago... Iris... Miria... Neither of them came back...)=(<indent%3D0.4em>啊...一年前...Iris... Miria...她们俩都没再回来...）
+(<indent%3D0.4em>I have... Olivia has become so happy... I wanted...to show how happy I am here to everyone...)=(<indent%3D0.4em>我已...Olivia很开心...我想...向大家展示我有多高兴...）
+Ah, aah, aah, aaah... It's all... All thanks to you...that Olivia is as happy as she is, Master<color%3D#FF7FCF>♥</color>=啊，啊，啊，啊...都是...多亏了你...Olivia也很快乐，主人<color%3D#FF7FCF>♥</color>
+I see, I see... Fheehee, you're such an adorable slave-maid wife... Take that! Take it, take it!=我明白了，我明白了...呋嘻嘻，你真是个可爱的奴隶女仆妻子...接着！接着，接着罢！
+Noo, aah, aaah... Master...<color%3D#FF7FCF>♥</color> Aan, nooo...! If you fuck me that hard, the baby will come out...<color%3D#FF7FCF>♥</color>=不，啊，啊...主人<color%3D#FF7FCF>♥</color> 啊嗯，不要...！你这么使劲操我，孩子会出来的...<color%3D#FF7FCF>♥</color>
+——————————————【3D】第十一话-奴隶女仆Olivia结束————————————————————
+——————————————————被强盗绑架————————————
+10 months later=10个月后
+Impregnating creampie=怀孕中出
+Wake up missionary=醒来--男上女下体位
+————————————————奴隶女仆奥利维亚————————————————————
+Training Day 21:\r\nWooden horse punishment=训练第21天：\n木马刑罚
+Servicing cowgirl 2=女上位 2
+Training Day 10:\r\nServicing cowgirl=训练第10天：\n女上位
+Tittyfuck facial=乳交：脸部
+Tittyfuck 2=乳交2
+Training Day 3:\r\nTittyfuck=训练第3天：\n乳交
+Tittyfuck 3=乳交3
+Mouse=老鼠
+Training Day 30:\r\nLovey-dovey sex=培训第30天：\n甜蜜的性爱
+Lovey-dovey sex 2=甜蜜的性爱2
+Training Day 365:\r\nMissionary while holding hands=训练第365天:\n手握手--男上女下体位
+
+=============================
+
+
 
 ———————————————————————————【主线】第十二话开始——————————————————————————————
 
@@ -659,7 +680,9 @@ Aaa... Aaaaagh...<color%3D#FF7FCF>♥</color>=Aaa...啊啊啊...<color%3D#FF7FCF
 (<indent%3D0.4em>Aah... It feels so good... Is it...sucking my magic out...more and more...?)=(<indent%3D0.4em>啊...感觉真好...它是...吸干我的魔法...越来越多…？）
 Aaaah...<color%3D#FF7FCF>♥</color> Aaaaahhnn...! Nooo...<color%3D#FF7FCF>♥</color>=啊...<color%3D#FF7FCF>♥</color> 啊，啊，啊...！不...<color%3D#FF7FCF>♥</color>
 (<indent%3D0.4em>Iris... Hurry up and come save me... I...can't... It feels too good... I'm losing...consciousness...)=(<indent%3D0.4em>Iris... 快点来救我...我不能感觉太好了...我失去了...意识…）
-——————————————————————————————————【3D】第十二话-被绳触手抓住结束——————————————————————
+——————————————————————————————————【3D】第十二话-被绳触手抓住结束———————————————————————————【3D】第十二话-被roper抓住-文本补充开始——————————————————————————
+Bound tentacle rape {{A}}=束缚触手油菜{{A}}
+——————————————————————————【3D】第十二话-被roper抓住-文本补充结束——————————————————————————
 
 ——————————————————————————————————【3D】第十二话-被魅魔惩罚开始——————————————————————————————
 Mmmnngh... Ah... Huh...?=嗯...啊...呵呵...？
@@ -831,6 +854,10 @@ Ricca"Nnnghaaa! Woof, woof...<color%3D#FF7FCF>♥</color>"=Ricca“Nnnghaaa！�
 Ricca"Awooooooooooooo<color%3D#FF7FCF>♥</color>"=Ricca“哦哦哦<color%3D#FF7FCF>♥</color>"
 Succubus Miria"Heehee... How wonderful...♪"=魅魔 Miria“嘿嘿……太棒了...♪"
 ——————————————————————————————————【3D】第十二话-被魅魔惩罚结束——————————————————————————————
+——————————————————————————【3D】第十二话-被魅魔惩罚-文本补充开始——————————————————————————
+Bestiality doggystyle {{A}}=兽交狗趴体位 {{A}}
+——————————————————————————【3D】第十二话-被魅魔惩罚-文本补充结束——————————————————————————
+
 
 ——————————————————————————————————————【主线】第十四话开始————————————————————————————————————
 
@@ -3098,7 +3125,24 @@ Heehee... Irish... Clareeet... I'm...a howy knigh, so... Nngh... I'll do mai bes
 Aaah, Miwia... Ricca will be a good gurl at home... I'm a gud gurl...=啊，米维亚。。。Ricca在家里会是一个很好的导师。。。我是古德古尔。。。
 Aaah... More, more... Please put your cock...in my toilet pussy...<color%3D#FF7FCF>♥</color>=啊。。。更多，更多。。。请把你的公鸡。。。在我的马桶里。。。<color%3D#FF7FCF>♥</color>
 ————————————————————【3D】第十七话-在港口镇被虐待结束——————————————
-
+———————————————【3D】第十七话-在港口镇被虐待-文本补充开始——————————————————
+{{A}}-way rape {{B}}={{A}}方式强奸{{B}}
+Public toilet: {{A}}-way rape=公共厕所：{{A}}方式强奸
+Goblin {{A}}=哥布林 {{A}}
+{{A}}-way creampie={{A}}路中出
+Haaa, haaa... Haaaah...<color%3D#FF7FCF>♥</color> Aaah, yes... Huff, huff... So goooood...<color%3D#FF7FCF>♥</color>=哈哈哈...哈哈...<color%3D#FF7FCF>♥</color> 啊，是的...哈夫，哈夫...太棒了...<color%3D#FF7FCF>♥</color>
+Ricca"Ahaaa... Aaannnh... Yesss, the vibrations feel so good... Aaah, yesss... I love this...<color%3D#FF7FCF>♥</color>"=Ricca“啊哈...啊哈...是的，振动感觉很好...啊哈，是的...我喜欢这个...<color%3D#FF7FCF>♥</color>"
+Ricca"Ah, aaah... I'm cumming... I'm cummiiiiiing...!"=Ricca“啊，啊...我要高潮了... 我是卡米莉...！"
+Ricca"Aaah... I'm shaking... Aaah, yesss... So goooood...<color%3D#FF7FCF>♥</color>"=Ricca“啊...我在发抖...啊，是的...太棒了...<color%3D#FF7FCF>♥</color>"
+Ricca"Nnghhh... Aaah... Nooo... It's shaking..."=Ricca“嗯...啊...不...它在颤抖...”
+Ricca"Owww... Oof... Nngh, this is so..."=Ricca“哦...哦...不，这太...”
+Ricca"Aaah... Aheee...! Aaah, I love the vibrations... Aaaah...<color%3D#FF7FCF>♥</color>"=Ricca“啊...啊...啊！啊，我喜欢这种振动...啊...<color%3D#FF7FCF>♥</color>"
+Ricca"Aaan, aaah... They're looking at me, but..."=Ricca“啊，啊...他们看着我，但是...”
+Ricca"Aaah... Nooo... So hot..."=Ricca“啊...不...好热...”
+Tch, this bitch isn't even trying... You better be thankful to me for feeding you, you perverted slut!=这婊子根本不想...你最好感谢我喂你，你这个变态的荡妇！
+Ricca"Haaaaa.... Plea... Huff, huff... I'm gonna break..."=Ricca“哈aa...恳求...哈夫，哈夫...我要打破...”
+Ricca"Eeeek, ah, ah, aaaah... No more, please, I'm gonna break..."=Ricca“啊，啊，啊，啊...不要了，求你了，我要打破...”
+——————————————————————————【3D】第十七话-在港口镇被虐待-文本补充结束——————————————————————————
 
 
 ——————————————————————【主线】第十八话开始——————————————————————————
@@ -3387,7 +3431,7 @@ Hehe... Thank you. But you better not say that to anyone else. Especially men...
 Huh? Okay...? Wait... Iris, what are you implying!?=嗯？可以等待Iris, 你在暗示什么！？
 I'm joking! Heehee... Although, you probably should be a little more sexually aware.=我在开玩笑！嘿嘿...不过，你可能应该有一点性意识。
 ...Mind your own business.=...管好你自己的事。
-(<indent%3D0.4em>Iris... She used to say she doesn't like joking around... She kinda reminds me...of my friend Olivia who married a man from the royal capital...)=(<indent%3D0.4em>Iris... 她过去常说她不喜欢开玩笑...她让我想起了...我朋友的Olivia 他娶了一个来自皇家首都的男人……）
+(<indent%3D0.4em>Iris... She used to say she doesn't like joking around... She kinda reminds me...of my friend Olivia who married a man from the royal capital...)=(<indent%3D0.4em>Iris... 她过去常说她不喜欢开玩笑...她让我想起了...我朋友的Olivia 他娶了一个来自皇家首都的男人...）
 It's the top of the tower... That's where the powerful evil magic is coming from. Archlich is probably there...!=这是塔顶...这就是强大的邪恶魔法的来源。阿奇Ricca可能在那里...！
 It's so hot... It must be all the steam released from the ground... It's just like Dragon's Valley...=太热了...一定是地下释放的蒸汽...就像龙谷一样...
 But unlike that valley, this place is blowing out heated seawater. Looks like we won't get to take a dip in a hot spring this time.=但和那个山谷不同的是，这个地方正在喷出加热的海水。看来这次我们不能泡温泉了。
@@ -3422,7 +3466,7 @@ Of course. We have to get to Archlich as soon as we can...and you said that the 
 Thanks, I appreciate you hurrying. Could you place the Magic Stones on top of the magic circle, then stand in the center of the circle?=谢谢，谢谢你赶时间。你能把魔法石放在魔法圈的顶端，然后站在魔法圈的中心吗？
 Sure, but...what are you going to do?=当然，但是...你打算怎么办？
 We're going to make a new core for the golem, and we're going to transfer your spirit into the controls.=我们将为傀儡制造一个新的核心，我们将把你的灵魂转移到控制中。
-Huh... Wait, my spirit...!? You don't mean I'm going to end up as the golem...do you!?=呵呵...等等，我的灵魂...！？你不是说我最终会成为傀儡...你…吗！？
+Huh... Wait, my spirit...!? You don't mean I'm going to end up as the golem...do you!?=呵呵...等等，我的灵魂...！？你不是说我最终会成为傀儡...你...吗！？
 Ah, you guessed right. I'm glad I don't have to explain it to you. Heehee! It'll only be for a moment, but you get the rare experience of becoming a golem♪=啊，你猜对了。我很高兴不用向你解释。嘿嘿！这只会持续一小会儿，但你会获得成为傀儡的罕见体验♪
 N-No! That sounds too dangerous! I changed my mind. Let me try throwing my sword at the wall. I think I can climb it!=不！听起来太危险了！我改变了主意。让我试试把剑扔到墙上。我想我能爬上去！
 I doubt you can. Besides, even if you were able to climb the wall, you would be depleted of magic. How would you fight the monsters that are no doubt lurking beyond the gate then?=我怀疑你能。此外，即使你能爬上长城，你的魔法也会耗尽。那么，你将如何与潜伏在大门外的怪物战斗呢？
@@ -3497,18 +3541,18 @@ Scree, scree, screeeee...=吱吱，吱吱，吱吱。。。
 Aah... Not my privates... Huff... Aaah...! I can feel the tip of its tail pushing into me! So it is trying to lay eggs in me...! D-Don't! I don't want bug eggs...!=啊。。。不是我的私处。。。生气地说啊。。。！我能感觉到它的尾巴尖向我推进！所以它想在我体内下蛋。。。！不要！我不要虫卵。。。！
 Eeeeeeeek! I'm gonna fall! Stop! I'll die if I fall! Please, don't drop meeeee!=哎呀！我要摔倒了！停止如果我跌倒，我会死的！求你了，别丢下Meeee！
 Scree! Screeeeeeeee!!!=碎石！尖叫！！！
-(<indent%3D0.4em>Oww, this is so scary... The beetle's furious at me... It's really going to drop me into the fire if I anger it again...)=(<indent%3D0.4em>哦，这太可怕了。。。甲虫对我大发雷霆。。。如果我再惹它生气，它真的会把我扔进火里……）
-Oww... Nngh... Ugh... I'm sorry... *Sniff* Fine... You can rape me... I'll let you lay eggs inside me...=哦。。。嗯。。。呃。。。对不起*嗅嗅……好吧。。。你可以强奸我。。。我会让你在我体内下蛋。。。
-(<indent%3D0.4em>I think it'll put me on the ground after it spawns its eggs in me... Oww... I hate this... But I can't do anything about it... But what if the babies eat their way out of my body when they hatch, just like the raincallers...?)=(<indent%3D0.4em>我想它在我体内产卵后会把我放在地上。。。哦。。。我讨厌这个。。。但我无能为力。。。但是如果婴儿在孵化时吃掉了我的身体，就像雨人一样……？）
+(<indent%3D0.4em>Oww, this is so scary... The beetle's furious at me... It's really going to drop me into the fire if I anger it again...)=(<indent%3D0.4em>哦，这太可怕了。。。甲虫对我大发雷霆。。。如果我再惹它生气，它真的会把我扔进火里...）
+Oww... Nngh... Ugh... I'm sorry... *Sniff* Fine... You can rape me... I'll let you lay eggs inside me...=哦。。。嗯。。。呃。。。对不起*嗅嗅...好吧。。。你可以强奸我。。。我会让你在我体内下蛋。。。
+(<indent%3D0.4em>I think it'll put me on the ground after it spawns its eggs in me... Oww... I hate this... But I can't do anything about it... But what if the babies eat their way out of my body when they hatch, just like the raincallers...?)=(<indent%3D0.4em>我想它在我体内产卵后会把我放在地上。。。哦。。。我讨厌这个。。。但我无能为力。。。但是如果婴儿在孵化时吃掉了我的身体，就像雨人一样...？）
 *Sniff* No... I don't want that... I'm supposed to be a holy knight... I need to defeat Archlich... I can't have bug eggs in my tummy...=*嗅嗅，不。。。我不想那样。。。我应该是一个神圣的骑士。。。我要打败阿奇Ricca。。。我肚子里不能有虫卵。。。
 Aaaagh...! I-I'm gonna fall...! I won't complain anymore... Eek... You can lay eggs in me, just don't drop me...!=啊。。。！我要摔倒了。。。！我不会再抱怨了。。。哎呀。。。你可以在我身上下蛋，只是别把我摔了。。。！
-(<indent%3D0.4em>So hot... I'm losing consciousness... But it still hasn't laid eggs in me...)=(<indent%3D0.4em>太热了。。。我失去知觉了。。。但它仍然没有在我体内产卵……）
-(<indent%3D0.4em>Ugh... I'm dripping with sweat... I'm leaking lots of lewd fluids, too... If it doesn't put me on the ground soon, I'm going to get dehydrated...)=(<indent%3D0.4em>呃。。。我汗流浃背。。。我也漏了很多淫秽的液体。。。如果它不能很快让我躺在地上，我会脱水的……）
+(<indent%3D0.4em>So hot... I'm losing consciousness... But it still hasn't laid eggs in me...)=(<indent%3D0.4em>太热了。。。我失去知觉了。。。但它仍然没有在我体内产卵...）
+(<indent%3D0.4em>Ugh... I'm dripping with sweat... I'm leaking lots of lewd fluids, too... If it doesn't put me on the ground soon, I'm going to get dehydrated...)=(<indent%3D0.4em>呃。。。我汗流浃背。。。我也漏了很多淫秽的液体。。。如果它不能很快让我躺在地上，我会脱水的...）
 Haa, haa... I'm at my limit... Please... Let me down...=哈哈哈。。。我已经到了极限。。。请让我失望。。。
 I'm so hot... Huff, huff... I'm gonna die... I can't...go on... Huff, huff... Let me down...=我很性感。哈夫，哈夫。。。我要死了。。。我不能。。。继续哈夫，哈夫。。。让我失望。。。
 Ah... D-Don't... Don't loosen your grip... That's not... Huff, huff... I'm not saying...don't lay eggs...in me...=啊。。。别。。。别松开你的手。。。那不是。。。哈夫，哈夫。。。我不是说。。。不要下蛋。。。在我身上。。。
-(<indent%3D0.4em>It threatened to drop me again... It's so hot and scary, I hate this... I just want it to lay eggs in me already so it can put me down...)=(<indent%3D0.4em>它威胁要再把我扔下去。。。天气又热又吓人，我讨厌这个。。。我只想让它在我体内产卵，这样它就能把我打倒……）
-(<indent%3D0.4em>Wait, this hell beetle... If it gets mad and threatens to drop me every time I talk...does that mean it understands my words and mood? Then maybe...)=(<indent%3D0.4em>等等，这只该死的甲虫。。。如果每次我说话，它都会生气，威胁要把我甩了。。。这是否意味着它理解我的语言和情绪？那么也许……）
+(<indent%3D0.4em>It threatened to drop me again... It's so hot and scary, I hate this... I just want it to lay eggs in me already so it can put me down...)=(<indent%3D0.4em>它威胁要再把我扔下去。。。天气又热又吓人，我讨厌这个。。。我只想让它在我体内产卵，这样它就能把我打倒...）
+(<indent%3D0.4em>Wait, this hell beetle... If it gets mad and threatens to drop me every time I talk...does that mean it understands my words and mood? Then maybe...)=(<indent%3D0.4em>等等，这只该死的甲虫。。。如果每次我说话，它都会生气，威胁要把我甩了。。。这是否意味着它理解我的语言和情绪？那么也许...）
 I, um... My name's Ricca, and... I like you... I like you a lot... I love you...=一、 嗯。。。我的名字叫Ricca, 和我喜欢你。。。我很喜欢你。。。我爱你。。。
 So could you please flip my body...so I can see your face?=所以你能翻转我的身体吗。。。这样我就能看到你的脸了？
 Scree... Scree...=碎石。。。碎石。。。
@@ -3516,14 +3560,14 @@ Haa... Haa... Thank you...Hell beetle... Please... I promise not to struggle any
 Aah, nngh, aaaah, aaaan! I promise to take good care of them... Haa, haa... So please...lay them inside my tummy... Lay them all inside, aaah... Please...=啊，啊，啊，啊！我保证会好好照顾他们。。。哈哈哈。。。所以请。。。把它们放在我肚子里。。。把它们都放在里面，啊。。。请
 Screeeee... Screeeeeeee♪=尖叫。。。尖叫声♪
 Aaaaah! Your thick tail... It's thrusting in me so hard...! Aaaah, ah, aah, aaaan...<color%3D#FF7FCF>♥</color>=啊啊！你的厚尾巴。。。这对我来说太难了。。。！啊，啊，啊，啊。。。<color%3D#FF7FCF>♥</color>
-(<indent%3D0.4em>*Sniff* I can't believe I'm saying these things to a demonic bug... I hate it...)=(<indent%3D0.4em>*嗅嗅，我不敢相信我在对一只恶魔虫说这些话。。。我讨厌……）
-(<indent%3D0.4em>But it's working... The hell beetle's getting excited from my lewd words... I need to keep saying them... If I want to fulfill my duty, I need to get on the ground first...)=(<indent%3D0.4em>但它起作用了。。。地狱甲虫被我的淫秽言辞激怒了。。。我需要一直说下去。。。如果我想履行我的职责，我需要先脚踏实地……）
+(<indent%3D0.4em>*Sniff* I can't believe I'm saying these things to a demonic bug... I hate it...)=(<indent%3D0.4em>*嗅嗅，我不敢相信我在对一只恶魔虫说这些话。。。我讨厌...）
+(<indent%3D0.4em>But it's working... The hell beetle's getting excited from my lewd words... I need to keep saying them... If I want to fulfill my duty, I need to get on the ground first...)=(<indent%3D0.4em>但它起作用了。。。地狱甲虫被我的淫秽言辞激怒了。。。我需要一直说下去。。。如果我想履行我的职责，我需要先脚踏实地...）
 Move your thick, hard egg tube in me more... Aah, I... I want your eggs, Hell beetle... Haa, haa... I'm gonna hold you tight, so fill my tummy up with eggs, okay?=把你那又厚又硬的蛋管移到我身上。。。啊，我。。。我要你的蛋，地狱甲虫。。。哈哈哈。。。我会抱紧你，让我的肚子装满鸡蛋，好吗？
-(<indent%3D0.4em>Ugh... This is a hell beetle... I only have bad memories about this monster... But I'm embracing it...and flirting with it in such an embarrassing position...)=(<indent%3D0.4em>呃。。。这是地狱甲虫。。。我对这个怪物只有不好的记忆。。。但我接受了。。。在如此尴尬的处境下与它调情……）
+(<indent%3D0.4em>Ugh... This is a hell beetle... I only have bad memories about this monster... But I'm embracing it...and flirting with it in such an embarrassing position...)=(<indent%3D0.4em>呃。。。这是地狱甲虫。。。我对这个怪物只有不好的记忆。。。但我接受了。。。在如此尴尬的处境下与它调情...）
 Huff... Huff... Nngh, aaah... So rough... Ooh! Your tail! It's rubbing against my vagina! It feels amazing♪ Aah! I love you so much! Please give me your eggs<color%3D#FF7FCF>♥</color>=生气地说生气地说啊啊。。。太粗糙了。。。哦！你的尾巴！它在摩擦我的阴道！感觉棒极了♪ 啊！我太爱你了！请把鸡蛋给我<color%3D#FF7FCF>♥</color>
-(<indent%3D0.4em>It sounds so happy... Is it feeling pleasure? Ugh, I'm so hot, my mind is going blank... And saying all these lewd things...is turning me on a little too...)=(<indent%3D0.4em>听起来很开心。。。是不是觉得很快乐？啊，我好热，我的脑子一片空白。。。说这些下流的话。。。有点太让我兴奋了……）
-(<indent%3D0.4em>Ugh... It finally let me down...)=(<indent%3D0.4em>呃。。。终于让我失望了……）
-(<indent%3D0.4em>My tummy's too heavy and I can't move... I didn't think it would lay this many eggs in me...)=(<indent%3D0.4em>我的肚子太重了，我不能动。。。我没想到它会在我体内下这么多蛋……）
+(<indent%3D0.4em>It sounds so happy... Is it feeling pleasure? Ugh, I'm so hot, my mind is going blank... And saying all these lewd things...is turning me on a little too...)=(<indent%3D0.4em>听起来很开心。。。是不是觉得很快乐？啊，我好热，我的脑子一片空白。。。说这些下流的话。。。有点太让我兴奋了...）
+(<indent%3D0.4em>Ugh... It finally let me down...)=(<indent%3D0.4em>呃。。。终于让我失望了...）
+(<indent%3D0.4em>My tummy's too heavy and I can't move... I didn't think it would lay this many eggs in me...)=(<indent%3D0.4em>我的肚子太重了，我不能动。。。我没想到它会在我体内下这么多蛋...）
 Scree, screeee♪ Screeee♪=尖叫，尖叫♪ 尖叫声♪
 Screeee, scree♪=尖叫，尖叫♪
 Ah... Eeek...! The eggs are moving inside me... Haaah... No... Ah... My legs don't have any strength... Are they...draining my magic from inside my womb...?=啊。。。哎呀。。。！鸡蛋在我体内移动。。。哈。。。不啊。。。我的腿没有力气。。。他们是。。。从子宫里吸取我的魔力。。。？
@@ -3537,30 +3581,47 @@ Nngh... Ack... Huff... I can feel the egg...pass through my vagina... Aaah, so g
 Nnnhh... If I put some strength in my tummy... Haa... Haa... The bugs eggs...should come... Ah, haaah... Ah, nngh! Hurry...! I have to...ngh...push them all out...=嗯。。。如果我在肚子里放点力气。。。哈。。。哈。。。虫卵。。。应该来。。。啊哈。。。啊，不！匆忙我必须。。。嗯。。。把他们都赶出去。。。
 S... Scree...!=s碎石。。。！
 Scree... Screeee!=碎石。。。尖叫！
-(<indent%3D0.4em>The eggs drained my magic... Huff, huff... They keep coming out, no matter how many I lay... They keep getting bigger, too... Huff, nngh... My body's feeling pleasure from it... I can't move anymore...)=(<indent%3D0.4em>鸡蛋耗尽了我的魔力。。。哈夫，哈夫。。。不管我躺了多少，他们总是出来。。。它们也在不断变大。。。哈夫。。。我的身体从中感到愉悦。。。我再也不能动了……）
-(<indent%3D0.4em>My head is going blank from the heat... Hurry... I need to lay more eggs...or I won't be able to fight anymore...)=(<indent%3D0.4em>我的头热得发呆。。。匆忙我需要多下蛋。。。否则我就不能再战斗了……）
-(<indent%3D0.4em>But...even if I do get rid of these eggs...I'm still in the middle of this river of flames... How am I going to get out of here by myself...?)=(<indent%3D0.4em>但是即使我真的把这些蛋处理掉。。。我仍然在这火焰之河的中间…我一个人怎么离开这里…？）
-(<indent%3D0.4em>Ah... I laid...so many eggs...I have to crush them...before the larvae hatch...)=(<indent%3D0.4em>啊。。。我把。。。这么多鸡蛋。。。我必须粉碎他们。。。在幼虫孵化之前……）
-(<indent%3D0.4em>I have to mash them up...like the raincaller babies I saw at the ruins... I couldn't do it myself back then...so I had Iris help me...)=(<indent%3D0.4em>我得把它们捣碎。。。就像我在废墟上看到的婴儿。。。那时候我自己做不到。。。所以我有Iris 帮帮我……）
-(<indent%3D0.4em>I was hesitant about it...because they were babies... Even though they were just like the other scary monsters I fought...I couldn't raise my hand against them...)=(<indent%3D0.4em>我对此犹豫不决。。。因为他们是婴儿。。。尽管他们和我打过的其他可怕的怪物一样。。。我无法向他们举手……）
+(<indent%3D0.4em>The eggs drained my magic... Huff, huff... They keep coming out, no matter how many I lay... They keep getting bigger, too... Huff, nngh... My body's feeling pleasure from it... I can't move anymore...)=(<indent%3D0.4em>鸡蛋耗尽了我的魔力。。。哈夫，哈夫。。。不管我躺了多少，他们总是出来。。。它们也在不断变大。。。哈夫。。。我的身体从中感到愉悦。。。我再也不能动了...）
+(<indent%3D0.4em>My head is going blank from the heat... Hurry... I need to lay more eggs...or I won't be able to fight anymore...)=(<indent%3D0.4em>我的头热得发呆。。。匆忙我需要多下蛋。。。否则我就不能再战斗了...）
+(<indent%3D0.4em>But...even if I do get rid of these eggs...I'm still in the middle of this river of flames... How am I going to get out of here by myself...?)=(<indent%3D0.4em>但是即使我真的把这些蛋处理掉。。。我仍然在这火焰之河的中间...我一个人怎么离开这里...？）
+(<indent%3D0.4em>Ah... I laid...so many eggs...I have to crush them...before the larvae hatch...)=(<indent%3D0.4em>啊。。。我把。。。这么多鸡蛋。。。我必须粉碎他们。。。在幼虫孵化之前...）
+(<indent%3D0.4em>I have to mash them up...like the raincaller babies I saw at the ruins... I couldn't do it myself back then...so I had Iris help me...)=(<indent%3D0.4em>我得把它们捣碎。。。就像我在废墟上看到的婴儿。。。那时候我自己做不到。。。所以我有Iris 帮帮我...）
+(<indent%3D0.4em>I was hesitant about it...because they were babies... Even though they were just like the other scary monsters I fought...I couldn't raise my hand against them...)=(<indent%3D0.4em>我对此犹豫不决。。。因为他们是婴儿。。。尽管他们和我打过的其他可怕的怪物一样。。。我无法向他们举手...）
 Nngh... Huff, huff... Hurry... I have to...crush these eggs... They're dangerous...monster eggs...=嗯。。。哈夫，哈夫。。。匆忙我必须。。。压碎这些鸡蛋。。。他们很危险。。。怪物蛋。。。
 Um... Uh...Hell beetle...?=嗯。。。UH地狱甲虫。。。？
-(<indent%3D0.4em>Crush them...with my feet... Throw them into the fire... I need to...destroy them...)=(<indent%3D0.4em>粉碎他们。。。用我的脚。。。把它们扔进火里。。。我需要。。。摧毁他们……）
+(<indent%3D0.4em>Crush them...with my feet... Throw them into the fire... I need to...destroy them...)=(<indent%3D0.4em>粉碎他们。。。用我的脚。。。把它们扔进火里。。。我需要。。。摧毁他们...）
 Sma...sh...=Sma。。。嘘。。。
-(<indent%3D0.4em>I can't... I can't smash them... Once they hatch, they'll all... They'll all be babies... I can't smash babies... That's too cruel... And...)=(<indent%3D0.4em>我不能。。。我打不烂他们。。。一旦孵化，它们都会。。。他们都是婴儿。。。我不能砸婴儿。。。太残忍了。。。还有……）
+(<indent%3D0.4em>I can't... I can't smash them... Once they hatch, they'll all... They'll all be babies... I can't smash babies... That's too cruel... And...)=(<indent%3D0.4em>我不能。。。我打不烂他们。。。一旦孵化，它们都会。。。他们都是婴儿。。。我不能砸婴儿。。。太残忍了。。。还有...）
 Ah... The eggs... They're spreading my womb entrance open... Yesss...<color%3D#FF7FCF>♥</color>=啊。。。鸡蛋。。。他们正在打开我的子宫入口。。。是的。。。<color%3D#FF7FCF>♥</color>
 They're rubbing at my most sensitive spot... Aaah... Huff... Huff... More... Make me feel even better...<color%3D#FF7FCF>♥</color>=他们在我最敏感的地方摩擦。。。啊。。。生气地说生气地说更多让我感觉更好。。。<color%3D#FF7FCF>♥</color>
-(<indent%3D0.4em>Wha...? Make me feel...better...? What am I...saying...? God gave me a mission... I need to...)=(<indent%3D0.4em>什么。。。？让我觉得。。。较好的我是什么。。。说上帝给了我一个使命。。。我需要……）
-(<indent%3D0.4em>Ah... I get it... My body... It's already been completely ruined...)=(<indent%3D0.4em>啊。。。我明白了。。。我的身体。。。它已经完全毁了……）
-(<indent%3D0.4em>I see... This is...the end for me... I thought I was stronger now... I thought I was prepared to fight monsters...)=(<indent%3D0.4em>我懂了。。。这是。。。我的结局。。。我以为我现在更强壮了。。。我以为我已经准备好与怪物战斗了……）
-(<indent%3D0.4em>I was just desperate after Miria died. I only wanted to distract myself from my grief... At the end of it all...all I am is a weak, foolish girl...)=(<indent%3D0.4em>Miria死后我很绝望。我只是想分散我的注意力。。。最后。。。我只是一个软弱、愚蠢的女孩……）
+(<indent%3D0.4em>Wha...? Make me feel...better...? What am I...saying...? God gave me a mission... I need to...)=(<indent%3D0.4em>什么。。。？让我觉得。。。较好的我是什么。。。说上帝给了我一个使命。。。我需要...）
+(<indent%3D0.4em>Ah... I get it... My body... It's already been completely ruined...)=(<indent%3D0.4em>啊。。。我明白了。。。我的身体。。。它已经完全毁了...）
+(<indent%3D0.4em>I see... This is...the end for me... I thought I was stronger now... I thought I was prepared to fight monsters...)=(<indent%3D0.4em>我懂了。。。这是。。。我的结局。。。我以为我现在更强壮了。。。我以为我已经准备好与怪物战斗了...）
+(<indent%3D0.4em>I was just desperate after Miria died. I only wanted to distract myself from my grief... At the end of it all...all I am is a weak, foolish girl...)=(<indent%3D0.4em>Miria死后我很绝望。我只是想分散我的注意力。。。最后。。。我只是一个软弱、愚蠢的女孩...）
 Ahaha... Ahahaha... Heeheehee...=啊哈。。。哈哈哈。。。嘿嘿。。。
 Fine... Then...this is the end... I wanna be...a mother... That's what Miria wanted me to be...after all...=好的然后这就是结局。。。我想成为。。。一位母亲。。。这就是Miria想要我成为的。。。毕竟
-(<indent%3D0.4em>This way... I can atone for all the monsters and babies I killed... For the people I let die... I'll make it up to everyone by becoming a mother to these babies...)=(<indent%3D0.4em>这边我可以为我杀死的怪物和婴儿赎罪。。。为了那些我让他们死去的人。。。我将通过成为这些婴儿的母亲来补偿每个人……）
-(<indent%3D0.4em>Smash... No... I...)=(<indent%3D0.4em>粉碎不我……）
-(<indent%3D0.4em>I'll help these eggs hatch... Make sure that they don't dry up... And raise them until they're able to fly... Make sure they grow up nice and big...)=(<indent%3D0.4em>我会帮这些蛋孵化。。。确保它们不会干涸。。。把它们养大直到它们能飞。。。确保他们长得又好又大……）
+(<indent%3D0.4em>This way... I can atone for all the monsters and babies I killed... For the people I let die... I'll make it up to everyone by becoming a mother to these babies...)=(<indent%3D0.4em>这边我可以为我杀死的怪物和婴儿赎罪。。。为了那些我让他们死去的人。。。我将通过成为这些婴儿的母亲来补偿每个人...）
+(<indent%3D0.4em>Smash... No... I...)=(<indent%3D0.4em>粉碎不我...）
+(<indent%3D0.4em>I'll help these eggs hatch... Make sure that they don't dry up... And raise them until they're able to fly... Make sure they grow up nice and big...)=(<indent%3D0.4em>我会帮这些蛋孵化。。。确保它们不会干涸。。。把它们养大直到它们能飞。。。确保他们长得又好又大...）
 That's why I'm going to feed them my body... It'll heal up quick thanks to the holy knight powers... I can let them nibble on me...a little...=这就是为什么我要把我的身体喂给他们。。。多亏了神圣骑士的力量，伤口会很快愈合。。。我可以让他们咬我。。。一点
 ——————————————【3D】第十九话-Ricca'“空中授精结束——————————————
+——————————————Ricca'“空中授精——————————————
+L+R Button Drag=L+R按钮拖动
+The fate of a girl\r\nwho likes living things 2=喜欢新生命的\n女孩的命运 2
+Ricca's egg-laying=Ricca 产卵
+Mid-air loving hold=半空中爱意拥抱
+Mid-air doggystyle=半空中后入式
+Ovipositor insertion=产卵管插入
+Screeeee, scree!=惊惶嚎叫！
+The fate of a girl\r\nwho likes living things=喜欢新生命的\n女孩的命运
+Egg laying=产卵
+Ricca raped mid-air by an insect=Ricca 被昆虫在空中强奸
+
+
+
+-=====
+
+
 ————————————————————————————————————【主线】第二十话及【NOVEL】iris被折磨开始————————————————————————————————
 
 
@@ -4285,6 +4346,11 @@ Mmmch, sluuurp... A penis... *Kiss*... *Gulp*=嗯哼，咕噜...阴茎*吻**啜�
 (<indent%3D0.4em>I was so close to reaching Archlich...but I just had to open that chest... I'm so stupid... I'm sorry, everyone...)=(<indent%3D0.4em>我差一点就到Archlich了...但我必须打开那个箱子...我太蠢了...对不起，大家……）
 Ricca"Hmmph... Uugh... So dirty... Nooo... Oww..."=Ricca"嗯酸碱度...啊...太脏了...不...哦..."
 ————————————————————————————————【3D】第二十一话-被模仿者欺骗结束——————————————————————————
+
+——————————————————————————【3D】第二十一话-被模仿者欺骗-文本补充开始——————————————————————————
+Ricca has her anus poked=Ricca 她的肛门被戳了吗
+——————————————————————————【3D】第二十一话-被模仿者欺骗-文本补充结束——————————————————————————
+
 
 ————————————————————————————————【主线】第二十二话及【NOVEL】Archlich的补魔开始————————————————————
 
@@ -9728,9 +9794,39 @@ Semen... Give it back... Scatter it back...onto my body... Become part of me!=�
 Haa... Haa... I'm not pushing it out... Urk... Graaaaaagh...!?=哈...哈...我不会喷出去的...呜呜...呱哈啊啊啊...！？
 Stop! Don't shake my body... Aah... M-My butt... No, I can't let it out...!=停下！不要摇晃我的身体...啊...我，我的屁股...不，我不能让那些出去...！
 Ricca"Haa, haa... Nooo... Stop..."=Ricca：“哈，哈...不要啊...停下...”
-
+——————————————————————
+Ricca impregnated with mud=Ricca浸渍泥浆
+Forced sludge excretion=强制污泥排泄
+Sludge cum injection=注入污泥精液
+DP mud tentacle rape=双头泥触手强奸
+Ricca raped by a Mudrot Orc=Ricca被泥腐兽人强奸
 ————————————【H-CG】第九话-泥兽人同化结束——————————
-
+—————————————————————————【3D】第九话-石化与冻结-文本补充开始——————————————————————————
+Hehehe... This girl...has become very weak... Her body... Her voice... Her expression... We can control everything...=嘿嘿...这个女孩...已变得非常虚弱...她的身体...她的声音...她的表情...我们可以控制一切...
+(<indent%3D0.4em>Huh...? Ah... Aaaah... No... Why... My body...is moving on its own...)=(<indent%3D0.4em>呵...？啊...啊...不要... 为什么...我的身体...在自行移动...）
+Heehee... You're right... Her spirit is about to disappear entirely, too...=嘿嘿...你说得对...她的灵魂也将完全消失...
+(<indent%3D0.4em>M-My spirit...? Urk... No... I haven't...disappeared yet... Not yet...)=(<indent%3D0.4em>我，我的灵魂...？呜... 不要... 我还没有...消失...还没有...）
+Teehee... Let's go...give our neighbors...a treat... A treat...!=嘻嘻... 走吧... 给我们的邻居... 犒劳一下... 犒劳一下...！
+Here we go! One, two! One two!=我们开始吧！一，二！一二！
+(<indent%3D0.4em>Eek... My legs... They're walking...! But...to where...?)=(<indent%3D0.4em>哎呀...我的腿...在走...！但是...去哪里...？）
+One, two! One, two...! Oh, I know... Teeheehee...=一，二！一，二...！哦，我知道...嘻嘻嘻...
+Aaah, aaah, aaah... Heehee... What a cute sound! Let's go! One, two! One, two...!=啊，啊，啊...嘿嘿...多么可爱的声音！走吧！一，二！一，二...！
+Heheheh... Silly girl...=嘿嘿嘿...傻女孩...
+Heehee... Looks fun... Give us a turn to do that too, okay...?=嘿嘿...看起来很有趣...也给我们一个机会，好吗...？
+Of course...my sisters!=当然...我的姐妹们！
+(<indent%3D0.4em>Aah... Aaaah...!? I...wasn't trying to speak...but my mouth moved on its own... No...they really did...take over my whole body...!)=(<indent%3D0.4em>啊...啊...！？我...我不想说话...但我的嘴自己动了...不要...她们真的...接管我的整个身体了...！）
+Aaah, aaah, aaahnn! Heehee! Everyone, come fuck me harder! Fuck me more! Pound your cock into my pussy!=啊，啊，啊嗯！嘿嘿！所有人，过来更用力地操我啊！操我！把你的鸡巴插进我的阴部！
+(<indent%3D0.4em>Aaaah... Nooo... I can still feel my body parts...but they're moving on their own... I'm even saying naughty things out loud...)=(<indent%3D0.4em>啊...不...我仍然能感觉到我的身体部位...但它们在独自前行...我甚至把淫秽的话大声说出来...）
+Heehee... That's right... Just like when...we were killed...=嘿嘿...这就对了...就像...我们被杀时的光景...
+Heheh... Every part of our body... Violently destroyed... Even our insides were ripped apart...=嘿嘿...我们身体的每一部分...被暴力摧毁...甚至我们的内脏都被撕裂了...
+Aaahhaaa! Fuck my pussy more! Aaann, aannnh! More, rape me more! Aaahh, yesss! Heehee! I want more of your cock!=啊哈啊！多操我的阴部！嗯啊，啊嗯！更多，多强奸我！啊，好啊！嘿嘿！我还要你的鸡巴！
+(<indent%3D0.4em>Ah, ah, aaahn...! Please... Nnn, ah, stop...! Don't move so violently...!)=(<indent%3D0.4em>啊，啊，啊嗯...！求求啦啊...嗯，啊，停下...！不要动得这么猛...！）
+Yeeesh, aaah! Cock feels so good! I'll warm everyone here with my pussy! So thrust your cocks in me as much as you like! Hahahahaha...!=哇哦好，啊！鸡巴感觉真好！我会用我的小穴温暖这里的每一个人！所以你想怎么插就怎么插！哈哈哈哈哈...！
+(<indent%3D0.4em>Urk, nnn, ah, aaan...! I-I'm... Nn... Eek, ack... *Sniff*... I'm I going to be doing this forever...!? Nyooo... Ah, haaahnn... I don't want to...)=(<indent%3D0.4em>呜, 嗯，啊，啊嗯...！我...我要...嗯...呀，呀...*抽泣*... 我要永远这样做下去...！？别...啊，哈嗯...我不想...）
+Ricca"I can feel your thick cock milk in me...! Aaah, I'm cumming!"=Ricca：“我能感觉到你厚厚的鸡巴牛奶在我体内...！啊，我要高潮了!”
+Ricca(Noo... Aah... Not like this...)=Ricca（不...啊...别像这样...）
+Ricca(Ah, Nooooo...! Stoooop...! Aaaaaaaaah...!)=Ricca（啊，不要...！停下...！啊啊啊啊...！）
+—————————————————————————【3D】第九话-石化与冻结-文本补充结束——————————————————————————
 
 
 ————————————【主线】第十话开始——————————————
@@ -9969,6 +10065,19 @@ Hick... Waaah... *Sniff*... *Sniff*... Waaah...=嘤嘤...哇啊...*抽泣*...*�
 
 
 ——————————————————【CG】第十话-石化和冻结结束————————————————
+—————————————————————————【3D】第十话-奴隶女仆Oliver-文本补充开始——————————————————————————
+Wooden horse punishment {{A}}=木马惩罚 {{A}}
+Pissing orgasm=尿失禁性高潮
+Missionary while holding hands {{A}}=龙翻体位 牵着手 {{A}}
+Ricca"I'm cumming... Aaaah, I'm cumming<color%3D#FF7FCF>♥</color>"=Ricca：“我要高潮了... 啊啊，我要高潮了<color%3D#FF7FCF>♥</color>”
+Ricca"Ah, aaah, that's good... aah aah, that feels good...<color%3D#FF7FCF>♥</color>"=Ricca：“啊，啊，太好了...啊，感觉真舒服...<color%3D#FF7FCF>♥</color>”
+Ricca"I'm cumming... I'm cummiiiing<color%3D#FF7FCF>♥</color>"=Ricca：“我要高潮了... 要去了<color%3D#FF7FCF>♥</color>”
+Ricca"Heehee.. Heh, heeh... Heehee..."=Ricca：“嘿嘿...嘿，嘿...嘿嘿...”
+Ricca"Ah, aah, Master... Aah, aaah, noo..."=Ricca：“啊，啊，主人...啊，啊，不要...”
+Ricca"Haa... Haaa... Haaa... My apologies...Master..."=Ricca：“哈...哈啊...哈... 我道歉...主人...”
+——————————————————————————【3D】第十话-奴隶女仆Oliver-文本补充结束——————————————————————————
+
+
 
 ——————————————————————————【主线】第十三话剧情开始——————————————————————————
 Chapter 14=第 14 章
@@ -10213,23 +10322,15 @@ Eek... Help me...=eek ...救救我......
 Someone... Help meeeeeeeeeeeeeee!=有人......帮我！！！！！！
 ——————————————————————————————————【NOVEL】第十三话-雨滴与泪滴结束————————————————————————————
 
-————————————————————————【技能】文本补充开始——————————————————————————
-Grants a chance to restore HP when hitting an enemy. \r\nChance to restore HP increases proportionate to skill skill level.=在打击敌人时有机会恢复生命。\n恢复生命的几率随着技能等级的增加而增加。
-Increases the number of Magic Stones dropped by slain enemies.=增加被杀死的敌人投掷魔法石的数量。
-When you succeed at a Perfect Guard, pressing the attack button will initiate a counter attack.\r\nThe multiplier of the power of the counter attack to the received attack increases according to the level.=当你在一个完美的防守中成功时，按下攻击按钮将发起反击。\n反击的力量与收到的攻击的乘数会根据等级而增加。
-You don't have enough Magic Stones to learn this skill.=你没有足够的魔法石来学习这个技能。
-Moves to the achievement screen.=移动到成就屏幕。
-Elemental Sword\nHoly Knight Tiara\nHoly Knight Breastplate\nHoly Knight Gauntlets\nHoly Knight Stockings & Garter\nHoly Knight Leggings\nHoly Knight Cloak\nLace Bra\nLace Panties\nHoly Knight Brooch=元素剑\n圣骑士头饰\n圣骑士胸甲\n圣骑士护臂\n圣骑士过膝袜 & 吊袜带\n圣骑士护腿\n圣骑士斗篷\n蕾丝胸罩\n蕾丝内裤\n神圣骑士胸针
-File {{A}} Difficulty: Normal=文件{{A}}难度：正常
-Increases the number of swords thrown with Sword Throw, at the cost of increased MP use. =以增加MP使用为代价，增加掷剑次数。 
-Press & hold the special attack button + the down directional button to deploy orbs of ice around you. Costs MP. \r\nOn activation, temporarily infuses your weapon with the power of ice.=按和 按住特殊攻击按钮+向下方向按钮，在你周围部署冰球。成本议员。\n激活后，将你的武器暂时注入冰的力量。
-Performing a strong attack will unleash a shockwave that damages enemies.=实施强力攻击会释放冲击波，对敌人造成伤害。
-Your attacks can no longer be parried by enemies.=你的攻击不再被敌人招架。
-Grants a chance to restore HP when hitting an enemy. \r\nChance to restore HP increases proportionate to skill skill level.=在打击敌人时有机会恢复生命。\n恢复生命的几率随着技能等级的增加而增加。
-Succeed at guarding with perfect timing to knock back the attacking enemy. Not effective against certain enemies.=在最佳时机成功防守，击退进攻的敌人。对某些敌人无效。
-Reduces cooldown time after using special attacks, proportionate to skill level.=减少使用特殊攻击后的冷却时间，与技能等级成比例。
-When you fall into a hole in the terrain or lava, you can fly back with your magic wings.Decreases consumed HP proportionate to skill level.=awfaegsgjsfgnbhfbg
-————————————————————————【技能】文本补充结束——————————————————————————
+
+------------------------
+
+
+
+
+----------------
+
+
 
 
 ——————————————————————————————————————【断章】米莉亚开始——————————————————————————————
@@ -11473,11 +11574,10 @@ TemplateAllNumberAway=False改为True
 必要性：有些值会不停地变（几千个值），如果不这样做，文本会一直抽搐！！！
 
 ----------------------------------------------------------------
-File 1 Difficulty: Casual=文件 1 难度：休闲
-File 2 Difficulty: Casual=文件 2 难度：休闲
-File 3 Difficulty: Casual=文件 3 难度：休闲
 
-
+File {{A}} Difficulty: Casual=文件 {{A}} 难度：休闲
+File {{A}} Difficulty: Normal=文件 {{A}} 难度：正常
+File {{A}} Difficulty: Hard=文件 {{A}} 难度：困难
 --------------------------------------
 Chapter {{A}}=第 {{A}} 章
 File {{A}}=文件 {{A}}
@@ -12006,42 +12106,7 @@ External cumshot=外部射精
 
 Public toilet: cleaning=公共厕所：清洁
 Cleaning the outside=清洁外部
-————————————————奴隶女仆奥利维亚————————————————————
-Training Day 21:\r\nWooden horse punishment=训练第21天：\n木马刑罚
-Servicing cowgirl 2=女上位 2
-Training Day 10:\r\nServicing cowgirl=训练第10天：\n女上位
-Tittyfuck facial=乳交：脸部
-Tittyfuck 2=乳交2
-Training Day 3:\r\nTittyfuck=训练第3天：\n乳交
-Tittyfuck 3=乳交3
-Mouse=老鼠
-Training Day 30:\r\nLovey-dovey sex=培训第30天：\n甜蜜的性爱
-Lovey-dovey sex 2=甜蜜的性爱2
-Training Day 365:\r\nMissionary while holding hands=训练第365天:\n手握手--男上女下体位
-——————————————Ricca'“空中授精——————————————
-L+R Button Drag=L+R按钮拖动
-The fate of a girl\r\nwho likes living things 2=喜欢新生命的\n女孩的命运 2
-Ricca's egg-laying=Ricca 产卵
-Mid-air loving hold=半空中爱意拥抱
-Mid-air doggystyle=半空中后入式
-Ovipositor insertion=产卵管插入
-Screeeee, scree!=惊惶嚎叫！
-The fate of a girl\r\nwho likes living things=喜欢新生命的\n女孩的命运
-Egg laying=产卵
-Ricca raped mid-air by an insect=Ricca 被昆虫在空中强奸
-——————————————————被强盗绑架————————————
-10 months later=10个月后
-Impregnating creampie=怀孕中出
-Wake up missionary=醒来--男上女下体位
 
-————————————【H-CG】第九话-泥兽人同化开始——————————
-Ricca impregnated with mud=Ricca 充满泥浆
-Forced sludge excretion=强制排泥
-Sludge cum injection=污泥兼注入
-DP mud tentacle rape=DP泥触手油菜
-Ricca raped by a Mudrot Orc=Ricca 被一个泥腐兽人强奸
-
---------------------------
 
 ————图鉴界面————
 
@@ -12056,7 +12121,7 @@ Holy Knight Ricca=圣骑士Ricca
 DICTIONARY=图鉴
 DUMMY=假人
 Miria=Miria
-Highwayman=拦路强盗
+Highwayman=强盗
 Mercury Slime=汞史莱呣
 Muddy Slime=泥史莱呣
 Lava Slime=熔史莱呣
@@ -12068,7 +12133,7 @@ Hell Bat=地狱蝙蝠
 Hell Beetle Larva=地狱甲虫幼虫
 Darkfiend Parasite=暗黑寄生虫
 Spark Beetle=星火甲虫
-Rock Eater=食石者
+Rock Eater=嗜石虫
 Hell Plant=地狱植物
 Raincaller=唤雨虫
 Hell Nudibranch=地狱裸鳃
@@ -12094,13 +12159,13 @@ Hell Serpent=地头蛇
 Gazer=凝视者
 Roper=套绳者
 Lava Golem=熔岩傀儡
-Stone Statue Golem=石像傀儡
+Stone Statue Golem=石像鬼雕塑
 Mimic=模仿
 Ghost Hand=鬼手
-Stone Golem=石傀儡
+Stone Golem=石像鬼
 Goblin Captain=队长哥布林
 Incarnation of Death=死亡的化身
-Succubus Miria=魅魔 Miria
+Succubus Miria=魅魔Miria
 Skeleton Warrior=骷髅战士
 Poseidon=波塞冬
 Steel Golem=钢铁傀儡
@@ -12111,7 +12176,7 @@ Bloodwyrm=血妖
 Archlich=大尸巫
 Archlich (Armor Destroyed)=大尸巫 (装甲被摧毁)
 Darkfiend Dragon=暗黑龙
-Black-Winged Holy Knight=淫翼圣骑士
+Black-Winged Holy Knight=黑翼圣骑士
 GLOSSARY=图鉴
 --------------------------------------
 H Scene Mode & Album Mode=H场景和相册模式
@@ -12159,7 +12224,7 @@ Localized version {{A}}  build:{{B}}=英翻汉化 {{A}} 版本 开发号：{{B}}
 
 手动屏蔽This game is a work of fiction.\r\nAny people, groups, place names or scenarios contained within are entirely fictitious\r\nand have no relation to real or existing things.\r\n\r\nThis game contains material of a sexual and violent nature.\r\nThis game does not justify or endorse any of the acts depicted in this game.\r\nAny attempts to perform any of the crimes depicted in this game will be punishable by law.\r\nDo not attempt to re-enact or recreate any action shown in this game.\r\n\r\n\r\n\r\n=这个游戏是虚构的。\n其中包含的任何人、团体、地名或场景都是完全虚构的\n和真实的事物完全无关\n\r\n此游戏包含性和暴力性质。\n本游戏不证明或认可表现的任何行为。\n任何试图实施本游戏描述的罪行者都将受到法律惩罚。\n请勿尝试再次实施或构建此游戏中表现的任何犯罪行为。\r\n\r\n\r\n\r\n
 
-This game is a work of fiction.\r\nAny people, groups, place names or scenarios contained within are entirely fictitious\r\nand have no relation to real or existing things.\r\n\r\nThis game contains material of a sexual and violent nature.\r\nThis game does not justify or endorse any of the acts depicted in this game.\r\nAny attempts to perform any of the crimes depicted in this game will be punishable by law.\r\nDo not attempt to re-enact or recreate any action shown in this game.\r\n\r\n\r\n\r\n=这个游戏是虚构的。\n其中包含的任何人、团体、地名或场景都是完全虚构的，和真实的事物完全无关\r\n此游戏包含性和暴力性质。\n本游戏不证明或认可表现的任何行为。\n任何试图实施本游戏描述的罪行者都将受到法律惩罚。\n请勿尝试再次实施或构建此游戏中表现的任何犯罪行为。\r\n<color%3D#FF4F2F>您正在使用由RiccaSinicization汉化/管理团队 制作与发布的公开测试版英译中汉化文本\r\n本项目公测版地址：github.com/RiccaSinicization/RICCA-Chinese-file-public-version</color>\r\n<color%3D#7FFF7F>本项目招收翻译人员，更多信息请前往该项目网址获取</color>\r\n为了本项目能够更好的进行，如果您发现了BUG或者润色问题，欢迎前往项目issues区反馈给我们。\r\n当前汉化文本文件处于公测状态，如果您不想使用本项目文件，请关闭XUnity插件。\r\n当前版本：Github发行V2022.03
+This game is a work of fiction.\r\nAny people, groups, place names or scenarios contained within are entirely fictitious\r\nand have no relation to real or existing things.\r\n\r\nThis game contains material of a sexual and violent nature.\r\nThis game does not justify or endorse any of the acts depicted in this game.\r\nAny attempts to perform any of the crimes depicted in this game will be punishable by law.\r\nDo not attempt to re-enact or recreate any action shown in this game.\r\n\r\n\r\n\r\n=这个游戏是虚构的。\n其中包含的任何人、团体、地名或场景都是完全虚构的，和真实的事物完全无关\r\n此游戏包含性和暴力性质。\n本游戏不证明或认可表现的任何行为。\n任何试图实施本游戏描述的罪行者都将受到法律惩罚。\n请勿尝试再次实施或构建此游戏中表现的任何犯罪行为。\r\n<color%3D#FF4F2F>您正在使用由RiccaSinicization汉化/管理团队 制作与发布的公开测试版英译中汉化文本\r\n本项目公测版地址：github.com/RiccaSinicization/RICCA-Chinese-file-public-version</color>\r\n<color%3D#7FFF7F>本项目招收翻译人员，更多信息请前往该项目网址获取</color>\r\n为了本项目能够更好的进行，如果您发现了BUG或者润色问题，欢迎前往项目issues区反馈给我们。\r\n当前汉化文本文件处于公测状态，如果您不想使用本项目文件，请关闭XUnity插件。\r\n当前文件版本：Github发行V2022.04.1
 
 
 ﻿
@@ -12211,6 +12276,12 @@ Extra Stage "Epilogue 2"=额外关卡“尾声2”
 Change BGM in Stage Select=在选择关卡时更换BGM
 Extra Stage "Bonuses"=额外关卡“奖励”
 This achievement has already been obtained.=这项成就已经取得。
+
+Reward received : H Scene Mode & Album Mode have been unlocked=收到奖励：H场景模式和相册模式已解锁
+This entry is not yet unlocked.=此条目尚未解锁。
+Cleared ？？？ after obtaining the Silver Magic Stone=在获得银色魔法石后  通关？？？
+Extra Stage "?????"=额外关卡 “？？？？”
+Cleared ？？？ "？？？？？？"=通关 ？？？ “？？？？？？”
 ===========================================================
 Achievement unlocked : Experienced your first Continue=成就解锁：第一次继续游戏
 Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
@@ -12218,25 +12289,18 @@ Achievement unlocked : Filled all entries in the Character Glossary=成就解锁
 Achievement unlocked : Strengthened all skills to max level=成就解锁：将所有技能提升到最高等级
 Achievement unlocked : Clicked the link to Twitter=成就解锁：点击推特链接
 Achievement unlocked : Clicked the link to the official site=成就解锁：点击官方网站链接
+Achievement unlocked : Launched the game for the first time=成就解锁：首次启动游戏
+Achievement unlocked : Summoned Iris for the first time=成就解锁：首次召唤 Iris
+Achievement unlocked : Defeated your first boss enemy=成就解锁：击败你的首个BOSS敌人
+Achievement unlocked : Broke your first Drain Crystal=成就解锁：打破你的首个导能水晶
+Achievement unlocked : Opened your first Chest=成就解锁：打开你的首个宝箱
 ==================备用如下========
 Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
 Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
 Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
-Achievement unlocked : Experienced your first Game Over=成就解锁：第一次游戏失败
 
-Achievement unlocked : Summoned Iris for the first time=成就解锁：第一次召唤 Iris
-Achievement unlocked : Defeated your first boss enemy=成就解锁：击败你的第一个BOSS敌人
-Achievement unlocked : Broke your first Drain Crystal=成就解锁：打破你的第一个漏极晶体
-Achievement unlocked : Opened your first Chest=成就解锁：打开你的第一个宝箱
+
+
 ----成就部分----【结束】
 
 ﻿
@@ -12502,7 +12566,7 @@ Dash Special Attack=冲刺特殊攻击
 Enhanced Perfect Guard=强化完美格挡
 Frozen Orbs=冰冻宝珠
 Ground Attack UP=地面攻击加强
-Guard Effectiveness UP=防御能力上升
+Guard Effectiveness UP=格挡能力上升
 HP Drain=吸血
 HP UP=HP提升
 Holy Geyser=神圣光柱
@@ -12530,6 +12594,16 @@ Weak Combo Up/Down= 轻击上/下连招
 ——————技能部分
 
 
+Increases the number of Magic Stones dropped by slain enemies.=增加被杀死的敌人投掷魔法石的数量。
+When you succeed at a Perfect Guard, pressing the attack button will initiate a counter attack.\r\nThe multiplier of the power of the counter attack to the received attack increases according to the level.=当你成功完美格挡时，按下攻击按钮将发起反击。\n反击的力量与收到的攻击的相乘倍数会根据等级而增加。
+You don't have enough Magic Stones to learn this skill.=你的魔法石不足以学习这个技能。
+Increases the number of swords thrown with Sword Throw, at the cost of increased MP use. =增加“掷剑”的MP消耗，增加剑的数量。 
+Press & hold the special attack button + the down directional button to deploy orbs of ice around you. Costs MP. \r\nOn activation, temporarily infuses your weapon with the power of ice.=按下、按住特殊攻击按钮+向下方向键，在你周围部署冰球。消耗MP。\n激活后，将你的武器暂时注入冰的力量。
+Performing a strong attack will unleash a shockwave that damages enemies.=强力攻击会释放冲击波，对敌人造成伤害。
+Your attacks can no longer be parried by enemies.=你的攻击无法再被敌人招架。
+Grants a chance to restore HP when hitting an enemy. \r\nChance to restore HP increases proportionate to skill skill level.=在击中敌人时有机率恢复HP。\n几率随技能等级的增加而增加。
+Succeed at guarding with perfect timing to knock back the attacking enemy. Not effective against certain enemies.=在最佳时机成功格挡，击退进攻的敌人。对某些敌人无效。
+Reduces cooldown time after using special attacks, proportionate to skill level.=减少使用特殊攻击后的冷却时间，与技能等级成比例。
 Attacks will no longer be interrupted when colliding with walls or terrain.=当与墙壁或地形相撞时，攻击将不再中断。
 Attacks will no longer be interrupted when colliding with walls or terrain.\r\n<line-height%3D50%>\r\nSkill level: Not yet learned=当与墙壁或地形相撞时，攻击将不再中断。\r\n<line-height%3D50%>\r\n技能等级：尚未学习
 Change Ricca's costume. Will not be reflected in some scenes.=换Ricca的服装。但在某些场景中不会表现。
@@ -12558,7 +12632,7 @@ Increases maximum number of continues available during stages proportionate to s
 Increases maximum number of continues available during stages proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.5=根据技能等级增加各阶段的最大持续时间。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.3/最大Lv.5
 Increases maximum number of continues available during stages proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.4/Max Lv.5=根据技能等级增加各阶段的最大持续时间。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.4/最大Lv.5
 Increases maximum number of continues available during stages proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.5/Max Lv.5=根据技能等级增加各阶段的最大持续时间。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.5/最大Lv.5
-Increases the amount of damage cut while guarding proportionate to skill level.=增加防御时的伤害减免，与技能等级成比例。
+Increases the amount of damage cut while guarding proportionate to skill level.=增加格挡时的伤害减免，与技能等级成比例。
 Increases the number of Magic Stones dropped by slain enemies.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.1/Max Lv.5=增加被杀死的敌人掉落魔法石的数量。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.1/最大Lv.5
 Increases the number of Magic Stones dropped by slain enemies.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.2/Max Lv.5=增加被杀死的敌人掉落魔法石的数量。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.2/最大Lv.5
 Increases the number of Magic Stones dropped by slain enemies.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.5=增加被杀死的敌人掉落魔法石的数量。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.3/最大Lv.5
@@ -12598,7 +12672,7 @@ Level up skill\r\n"Back Step"?=升级技能\n“退后一步”？
 Level up skill\r\n"Blaze Charge"?=升级技能\n“火焰冲锋”？
 Level up skill\r\n"Dash Attack"?=升级技能\n“冲刺攻击”？
 Level up skill\r\n"Ground Attack UP"?=升级技能\n“地面攻击增强”？
-Level up skill\r\n"Guard Effectiveness UP"?=升级技能\n“防御能力上升”？
+Level up skill\r\n"Guard Effectiveness UP"?=升级技能\n“格挡能力上升”？
 Level up skill\r\n"HP UP"?=升级技能\n“HP提升”？
 Level up skill\r\n"Lightning Rush"?=升级技能\n“闪电冲刺”？
 Level up skill\r\n"MP UP"?=升级技能\n“MP提升”？
@@ -12623,12 +12697,12 @@ Press & hold the special attack button while standing still to unleash consecuti
 Press & hold the special attack button while standing still to unleash consecutive attacks accompanied by lightning. On activation, temporarily infuses your weapon with the power of lightning.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.2/Max Lv.3=站立时按住“特殊攻击”按钮，可连续发动闪电攻击。激活后，将你的武器暂时注入闪电的力量。\r\n<line-height%3D50%>\r\n技能等级: 当前Lv.2/最大Lv.3
 Press & hold the special attack button while standing still to unleash consecutive attacks accompanied by lightning. On activation, temporarily infuses your weapon with the power of lightning.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.3=站立时按住“特殊攻击”按钮，可连续发动闪电攻击。激活后，将你的武器暂时注入闪电的力量。\r\n<line-height%3D50%>\r\n技能等级: 当前Lv.3/最大Lv.3
 Press & hold the special attack button while standing still to unleash consecutive attacks accompanied by lightning. \r\nOn activation, temporarily infuses your weapon with the power of lightning.=站立时按住“特殊攻击”按钮，可连续发动闪电攻击。\n激活后，将你的武器暂时注入闪电的力量。
-Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.1/Max Lv.5=按下守卫/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.1/最大Lv.5
-Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.2/Max Lv.5=按下守卫/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.2/最大Lv.5
-Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.5=按下守卫/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.3/最大Lv.5
-Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.4/Max Lv.5=按下守卫/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.4/最大Lv.5
-Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.5/Max Lv.5=按下守卫/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.5/最大Lv.5
-Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.\r\nThe invincibility period increases according to the level.=按下守卫/行走按钮+跳跃，向后跳跃，在此期间你将暂时无敌。\n无敌周期根据等级增加。
+Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.1/Max Lv.5=按下格挡/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.1/最大Lv.5
+Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.2/Max Lv.5=按下格挡/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.2/最大Lv.5
+Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.5=按下格挡/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.3/最大Lv.5
+Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.4/Max Lv.5=按下格挡/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.4/最大Lv.5
+Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.The invincibility period increases according to the level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.5/Max Lv.5=按下格挡/行走键+跳跃键，来向后跳跃，在此期间你将暂时无敌。无敌周期根据等级增加。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.5/最大Lv.5
+Press the guard/walk button + jump to do a backwards jump, during which you will be temporarily invincible.\r\nThe invincibility period increases according to the level.=按下格挡/行走按钮+跳跃，向后跳跃，在此期间你将暂时无敌。\n无敌周期根据等级增加。
 Pressing & holding the attack button after running for a moment will unleash a special dash attack. Type of attack performed depends on the weapon used.\r\n<line-height%3D50%>\r\nSkill level: Not yet learned=跑步后按住“攻击”按钮会发起一次特殊的短跑攻击。攻击类型取决于使用的武器。\r\n<line-height%3D50%>\r\n技能等级：尚未学习
 Pressing & holding the attack button after running for a moment will unleash a special dash attack. \r\nType of attack performed depends on the weapon used.=跑步后按住“攻击”按钮会发起一次特殊的短跑攻击。\n攻击类型取决于使用的武器。
 Pressing the attack button after running for a moment will unleash a dash attack. Maximum number of consecutive hits increases proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Not yet learned=跑步片刻后按下攻击按钮将发起短跑攻击。最大连续命中次数随技能等级成比例增加。\r\n<line-height%3D50%>\r\n技能等级：尚未学习
@@ -12650,12 +12724,13 @@ When performing a strong attack, hits that deal damage below a set threshold wil
 When performing a strong attack, hits that deal damage below a set threshold will no longer stagger you. Increases damage threshold proportionate to skill level and will also prevent stagger to low damage hits outside of strong attacks.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.3=当你进行强力攻击时，在设定的阈值以下造成伤害的命中将不再让你感到震惊。伤害阈值与技能等级成比例，也将减少踉跄减少多种伤害。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.3/最大Lv.3
 When performing a strong attack, hits that deal damage below a set threshold will no longer stagger you. \r\nIncreases damage threshold proportionate to skill level and will also prevent stagger to low damage hits outside of strong attacks.=当你进行强力攻击时，在设定的阈值以下造成伤害的命中将不再让你感到震惊。\n伤害阈值与技能等级成比例，也将减少踉跄减少多种伤害。（强攻击除外）
 When you fall into a hole in the terrain or lava, you can fly back with your magic wings.Decreases consumed HP proportionate to skill level.当你掉进地形或熔岩的洞里时，你可以用魔法翅膀飞回来。消耗的HP降低量与技能等级成比例。
+When you fall into a hole in the terrain or lava, you can fly back with your magic wings.Decreases consumed HP proportionate to skill level.=当你掉进地形或熔岩的洞里时，你可以用魔法翅膀飞回来。消耗的HP降低量与技能等级成比例。
 When you fall into a hole in the terrain or lava, you can fly back with your magic wings.\r\nDecreases consumed HP proportionate to skill level.=当你掉进地形或熔岩的洞里时，你可以用魔法翅膀飞回来。\n消耗的HP降低量与技能等级成比例。
 When you fall into a hole in the terrain or lava, you can fly back with your magic wings.Decreases consumed HP proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.1/Max Lv.3=当你掉进地形或熔岩的洞里时，你可以用魔法翅膀飞回来。消耗的HP降低量与技能等级成比例。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.1/最大Lv.3
 When you fall into a hole in the terrain or lava, you can fly back with your magic wings.Decreases consumed HP proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.2/Max Lv.3=当你掉进地形或熔岩的洞里时，你可以用魔法翅膀飞回来。消耗的HP降低量与技能等级成比例。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.2/最大Lv.3
 When you fall into a hole in the terrain or lava, you can fly back with your magic wings.Decreases consumed HP proportionate to skill level.\r\n<line-height%3D50%>\r\nSkill level: Current Lv.3/Max Lv.3=当你掉进地形或熔岩的洞里时，你可以用魔法翅膀飞回来。消耗的HP降低量与技能等级成比例。\r\n<line-height%3D50%>\r\n技能等级：当前Lv.3/最大Lv.3
 
-When you succeed at a Perfect Guard, pressing the attack button will initiate a counter attack.=当你在一个完美的防守中成功时，按下攻击按钮将发起反击。
+When you succeed at a Perfect Guard, pressing the attack button will initiate a counter attack.=当你成功完美格挡一次，按下攻击按钮将发起反击。
 
 
 ————————服装界面—开始———
@@ -12917,7 +12992,7 @@ A crystal containing condensed holy energy. Contains power of the same nature as
 Damage Crystal=伤害水晶
 A crystal made of concentrated unstable magic. Releasing the magic will harm the nearest person.\r\n<color%3D#FFBFBF>Using it will cause your strength to halve. Won't kill you.</color>=由不稳定的魔法制成的水晶。释放魔法会伤害最近的人。\r\n<color%3D#FFBFBF>使用它会使你的力量减半。不会杀了你的。</color>
 Armor Repair Crystal=护甲修复水晶
-A crystal containing condensed defense magic. \r\nThe holy knight's armor and clothing are protected by a holy blessing, reducing the damage of all manner of physical and magic attacks. \r\n<color%3D#BFFFBF>Using this item will repair your armor and clothing, and restore one level of durability.</color>=含有浓缩防御魔法的水晶。\n神圣骑士的盔甲和衣服受到神圣祝福的保护，减少各种物理和魔法攻击的伤害。 \r\n<color%3D#BFFFBF>使用此物品将修复你的盔甲和衣服，并恢复一级耐久性。</color>
+A crystal containing condensed defense magic. \r\nThe holy knight's armor and clothing are protected by a holy blessing, reducing the damage of all manner of physical and magic attacks. \r\n<color%3D#BFFFBF>Using this item will repair your armor and clothing, and restore one level of durability.</color>=含有浓缩格挡魔法的水晶。\n神圣骑士的盔甲和衣服受到神圣祝福的保护，减少各种物理和魔法攻击的伤害。 \r\n<color%3D#BFFFBF>使用此物品将修复你的盔甲和衣服，并恢复一级耐久性。</color>
 Armor Destruction Crystal=破甲水晶
 A crystal containing condensed destruction magic. \r\n<color%3D#FFBFBF>Using this item will reduce your armor durability by 1 level.</color> Can't be used immediately after armor or clothing is broken.=含有浓缩魔法的水晶。 \r\n<color%3D#FFBFBF>使用此物品将使你的护甲耐久性降低1级。</color> 盔甲或衣物破损后不能立即使用。
 Sun Crystal=太阳水晶
@@ -13012,13 +13087,13 @@ Move Spd. : Super slow=移动速度：超级慢
 Move Spd. : <color%3D#7FFF7F>Very fast</color><color%3D#7FFF7F>↑</color>=移动速度： <color%3D#7FFF7F>非常快</color><color%3D#7FFF7F>↑</color>
 Move Spd. : <color%3D#7FFF7F>Quite fast</color><color%3D#7FFF7F>↑</color>=移动速度： <color%3D#7FFF7F>稍快</color><color%3D#7FFF7F>↑</color>
 Move Spd. : <color%3D#7FFF7F>Fast</color><color%3D#7FFF7F>↑</color>=移动速度： <color%3D#7FFF7F>快</color><color%3D#7FFF7F>↑</color>
----------格挡效率-------------------
+---------防护效果-------------------
 
-Guard Eff. : Very high=格挡效率：非常高
-Guard Eff. : High=格挡效率：高
-Guard Eff. : Medium=格挡效率：中等
-Guard Eff. : Low=格挡效率：低
-Guard Eff. : Very low=格挡效率：非常低
+Guard Eff. : Very high=防护效果：非常高
+Guard Eff. : High=防护效果：高
+Guard Eff. : Medium=防护效果：中等
+Guard Eff. : Low=防护效果：低
+Guard Eff. : Very low=防护效果：非常低
 -----攻速------------------
 
 Attack Spd. : Very fast=攻击速度：非常快
@@ -13045,37 +13120,12 @@ Attack : <color%3D#FF7F7F>Low</color><color%3D#FF7F7F>↓</color>=攻击 : <colo
 
  ----/--/-- {{A}}= ----/--/-- {{A}}
  敗北Hシーン閲覧回数=日语
-1024 x 768=1024 x 768
-1152 x 864=1152 x 864
-1280 x 1024=1280 x 1024
-1280 x 600=1280 x 600
-1280 x 720=1280 x 720
-1280 x 768=1280 x 768
-1280 x 800=1280 x 800
-1280 x 960=1280 x 960
-1360 x 768=1360 x 768
-1366 x 768=1366 x 768
-1400 x 1050=1400 x 1050
-1440 x 900=1440 x 900
-1600 x 1024=1600 x 1024
-1600 x 900=1600 x 900
-1680 x 1050=1680 x 1050
-1920 x 1080=1920 x 1080
 3 Button=3 按钮
-320 x 200=320 x 200
-320 x 240=320 x 240
 3D H scenes=3D H场景
 3D Hシーン=3D H场景
-3D=<color%3D#ECA66A>3D</color>
+3D=3D
 4 Button=4 按钮
-400 x 300=400 x 300
-512 x 384=512 x 384
-640 x 400=640 x 400
-640 x 480=640 x 480
-720 x 480=720 x 480
-720 x 576=720 x 576
-800 x 600=800 x 600
-<b>Pleasure Gauge</b>\r\n When struck by certain attacks, a pink gauge in the top-left of the screen will appear.\r\n While the gauge is on the screen, you won't be able to use special attacks,\r\n and your attack and defense will be lowered.=<b>快乐量表</b>\r\n 当被某些攻击击中时，屏幕左上角会出现一个粉红色的计量器。\n当计量器显示在屏幕上时，你将无法使用特殊攻击，\n你的攻击和防御将会降低。
+<b>Pleasure Gauge</b>\r\n When struck by certain attacks, a pink gauge in the top-left of the screen will appear.\r\n While the gauge is on the screen, you won't be able to use special attacks,\r\n and your attack and defense will be lowered.=<b>快乐量表</b>\r\n 当被某些攻击击中时，屏幕左上角会出现一个粉红色的计量器。\n当计量器显示在屏幕上时，你将无法使用特殊攻击，\n你的攻击和格挡将会降低。
 <size%3D66%>Col.</size>1=<size%3D66%>款式 </size>1
 <size%3D66%>Col.</size>2=<size%3D66%>款式 </size>2
 <size%3D66.6%>This is a development version.</size>\nCONFIDENTIAL\n<size%3D66.6%>FOR INTERNAL USE ONLY</size>=<size%3D66.6%>这是一个开发版本。</size>\n请保密\n<size%3D66.6%>仅供内部使用</size>
@@ -13420,8 +13470,9 @@ Move the slider left or right to adjust 鼻子高度.=左右移动滑块以调�
 Movement + C Key=移动 + C 键
 Movement + V Key=移动 + V 键
 Movement speed=移动速度
-Moves to the character glossary.=移动到图鉴。
-Moves to the settings screen.=移动到设定界面。
+Moves to the achievement screen.=前往成就界面。
+Moves to the character glossary.=前往图鉴界面。
+Moves to the settings screen.=前往设定界面。
 NEXT ACTION\r\n<size%3D75%>AND</size>\r\nVOICE=下一个动作\r\n<size%3D75%>语音
 NEXT=下一个
 NEXT\r\nACTION=下一个\r\n动作
@@ -13449,7 +13500,7 @@ None=无
 Normal=正常
 Nose height=鼻子高度
 Not yet learned=还未学会
-Novel=<color%3D#D45AFA>Novel</color>
+Novel=Novel
 OFF=关
 ON=开
 Off=关
@@ -13629,14 +13680,14 @@ This clothing cannot be displayed when\r\nR-15 Mode is on.=这种衣服不能在
 Title=标题
 Toggle auto mode=切换自动模式
 Toggles facial scars when scarring is turned on.=启用“疤痕”并切换面部疤痕。
-Total Just guards=恰好防御总数
+Total Just guards=恰好格挡总数
 Total Magic Stones collected=总魔法石收集数
 Total best clear time=总最短通关时间
 Total continues=总继续次数
 Total defeat H scenes seen=阅览失败H场景总数
 Total defeated enemies=总击败敌人
 Total game overs=总失败次数
-Total perfect guards=完美防御总数
+Total perfect guards=完美格挡总数
 Turn off metaball liquid effects.=关闭融球液体效果。
 Turn on GPU metaball liquid effects.\r\n*May not work correctly on some GPUs.=启用GPU融球液体效果。\n*在某些GPU上可能无法正常工作。
 Turn table=匀速旋转人物
