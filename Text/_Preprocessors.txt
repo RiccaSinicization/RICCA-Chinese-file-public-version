@@ -1,4 +1,155 @@
-﻿
+
+
+————————章节标题翻译【前置】
+Writhing Sludge=蠕动污泥
+Town of Undead=不死族城镇
+In the Name of God's Knight=代表阳神的骑士
+The Depths of Darkness=黑暗的深处
+Raging Downpour=倾盆大雨
+Village Guardian=乡村守护者
+The Witch and the Village Girl=女巫和乡村女孩
+The Temple of Spiders=蜘蛛神庙
+A Legend Resurrected=传奇不灭
+The Demon God of the Abyss=深渊恶魔之神
+Escalating Hope=越来越多的希望
+The Fairy Tale Of Holy Knight Ricca=童话：圣骑士Ricca
+The Ruler of Demons=恶魔的统治者
+Lost Chapter=遗失的章节
+Ricca Thereafter=Ricca的后来
+Ricca Thereafter (Continued)=Ricca的后来（续）
+Boney-Boney Challenge=Boney-Boney挑战赛
+The Lord of Statues (Part 2)=雕像之王（下）
+The Lord of Statues (Part 1)=雕像之王（上）
+Birth of a Succubus=魅魔的诞生
+The Dwellers of the Dark Forest=黑暗森林的居民
+The Revived Stone Giant=复活的石像鬼
+Red Stone=红魔法石
+The Kidnapped Maiden=被绑架的少女
+The Brooch of Sunlight=阳光胸针
+Emissary of Sunlight=阳光的使者
+Escape=逃跑
+has been unlocked=已解锁
+has been removed=已被移除
+has been recorded in the Character Glossary=已被记录在角色图鉴
+————————界面部分
+Difficulty: Normal=难度：正常
+Difficulty: Hard=难度：困难
+Difficulty: Casual=难度：休闲
+————————其它
+Cleared to =已完成
+Claret=Claret
+I'm cumming=我要高潮了
+holy knight=圣骑士
+Iris=艾瑞丝
+
+Ricca=Ricca
+Succubus=魅魔
+Proceed to stage=游玩关卡
+Olivia=Olivia
+Achievement unlocked=成就解锁
+Localized version=本地化版本
+
+-----------
+cowgirl=骑乘体位
+Cowgirl=骑乘体位
+Tittyfuck=乳交
+Missionary=龙翻体位
+doggystyle=狗趴体位
+creampie=中出
+orgasm=性高潮
+Masturbation=手淫
+Squat of humiliation:=屈辱的深蹲:
+Entry number=录入数目
+Drain Crystal=导能水晶
+Miria=Miria
+slimes=史莱姆
+slime=史莱姆
+Polon=Polon
+Archlich=阿奎雷奇
+Hmm=嗯
+Urk=呜
+...=...
+Sizzle=嘶嘶
+pop=啪
+*Slurp*=*啜食*
+*Slurp*=*咕嘟咕嘟*
+*Sigh*=*唉*
+*Pant*=*喘息*
+*Munch*=*咀嚼*
+*Chew*=*嚼*
+bugs=虫
+N-No=不，不要
+*Gulp*=*啜饮*
+*Gasp*=*喘*
+*Smooch*=*接吻*
+Angle:=角度：
+*Sniff*=抽泣
+Stop=停下
+Shluck=抽插
+Camera=镜头
+camera=镜头
+Default camera=默认镜头
+Focal point:=焦点：
+Remove focus=移除焦点
+Roll: =滚动：
+degrees=度
+Out of focus threshold:=失焦阈值：
+None=无
+No.1=1号
+No.2=2号
+No.3=3号
+No.4=4号
+No.5=5号
+Copy this file from=将此文件自
+</b>\r\n to \r\n<b>=</b>\r\n 到 \r\n<b>
+File {{A}} Difficulty: Casual=文件{{A}} 难度：休闲
+Start a new game?=开始新游戏吗？
+BGM:=BGM：
+Auto rotating camera=自动旋转镜头
+Fixed dominant partner=固定攻方
+POV shot camera=视点镜头
+Look at gaze=凝视
+Fixed face camera=固定面容镜头
+Fixed breast camera=固定乳房镜头
+Fixed crotch camera=固定胯部镜头
+Fixed backside camera=固定背部镜头
+Face=面容
+Hip=臀部
+Crotch=胯部
+Breast=乳房
+torso/=躯干
+torso=躯干
+Slime=史莱姆
+Goblin=哥布林
+&=和
+Stone Golem=石像鬼
+Auto distancing=自动距离
+area=区域
+Auto zoom=自动缩放
+No.=其
+=========副词========
+Low=低
+Fire/Heat=火/热
+Ltng./Acid=雷/酸
+Ice/Water=冰/水
+Medium=中等
+High=高
+Absorb=吸收
+Quite High=稍高
+Quite high=稍高
+Deadly=致命
+Ineffective=无效
+Quite Low=稍低
+Quite low=稍低
+==============
+
+========技能选择==================
+Throw Magic Stone=投掷魔法石
+Tap button=按技能键
+No directional input=不按方向键
+:=：
+
+
 
 
 ——头饰
@@ -178,149 +329,6 @@ Necromancer Staff／A staff once used by a necromancer as a catalyst for casting
 
 ——【以上部分经过初步校对，可能有不妥之处】——
 
-
-
-————————章节标题翻译【前置】
-Writhing Sludge=蠕动污泥
-Town of Undead=不死族城镇
-In the Name of God's Knight=以上帝骑士的名义
-The Depths of Darkness=黑暗的深处
-Raging Downpour=倾盆大雨
-Village Guardian=乡村守护者
-The Witch and the Village Girl=女巫和乡村女孩
-The Temple of Spiders=蜘蛛神庙
-A Legend Resurrected=传奇不灭
-The Demon God of the Abyss=深渊恶魔之神
-Escalating Hope=越来越多的希望
-The Fairy Tale Of Holy Knight Ricca=童话：圣骑士Ricca
-The Ruler of Demons=恶魔的统治者
-Lost Chapter=遗失的章节
-Ricca Thereafter=Ricca的后来
-Ricca Thereafter (Continued)=Ricca的后来（续）
-Boney-Boney Challenge=Boney-Boney挑战赛
-The Lord of Statues (Part 2)=雕像之王（下）
-The Lord of Statues (Part 1)=雕像之王（上）
-Birth of a Succubus=魅魔的诞生
-The Dwellers of the Dark Forest=黑暗森林的居民
-The Revived Stone Giant=复活的石像鬼
-Red Stone=红魔法石
-The Kidnapped Maiden=被绑架的少女
-The Brooch of Sunlight=阳光胸针
-Emissary of Sunlight=阳光的使者
-Escape=逃跑
-has been unlocked=已解锁
-has been removed=已被移除
-
-————————界面部分
-Difficulty: Normal=难度：正常
-Difficulty: Hard=难度：困难
-Difficulty: Casual=难度：休闲
-————————其它
-Cleared to =已完成
-
-I'm cumming=我要高潮了
-holy knight=圣骑士
-Iris=艾瑞丝
-Claret=克莱尔
-Ricca=莉卡
-Succubus=魅魔
-Proceed to stage=游玩关卡
-Olivia=奥利维亚
-
-Localized version=本地化版本
-
------------
-cowgirl=骑乘体位
-Cowgirl=骑乘体位
-Tittyfuck=乳交
-Missionary=龙翻体位
-doggystyle=狗趴体位
-creampie=中出
-orgasm=性高潮
-Masturbation=手淫
-Squat of humiliation:=屈辱的深蹲:
-Entry number=录入数目
-Drain Crystal=导能水晶
-Miria=米莉娅
-slimes=史莱呣
-slime=史莱呣
-Polon=Polon
-Archlich-大尸巫
-Hmm=嗯
-Urk=呜
-...=...
-Sizzle=嘶嘶
-pop=啪
-*Slurp*=*啜食*
-*Slurp*=*咕嘟咕嘟*
-*Sigh*=*唉*
-*Pant*=*喘息*
-*Munch*=*咀嚼*
-*Chew*=*嚼*
-bugs=虫
-N-No=不，不要
-*Gulp*=*啜饮*
-*Gasp*=*喘*
-*Smooch*=*接吻*
-Angle:=角度：
-*Sniff*=抽泣
-Stop=停下
-Shluck=抽插
-Camera=镜头
-camera=镜头
-Default camera=默认镜头
-Focal point:=焦点：
-Remove focus=移除焦点
-Roll: =滚动：
-degrees=度
-Out of focus threshold:=失焦阈值：
-None=无
-No.1=1号
-No.2=2号
-No.3=3号
-No.4=4号
-No.5=5号
-Copy this file from=将此文件自
-</b>\r\n to \r\n<b>=</b>\r\n 到 \r\n<b>
-File {{A}} Difficulty: Casual=文件{{A}} 难度：休闲
-Start a new game?=开始新游戏吗？
-BGM:=BGM：
-Auto rotating camera=自动旋转镜头
-Fixed dominant partner=固定攻方
-POV shot camera=视点镜头
-Look at gaze=凝视
-Fixed face camera=固定面容镜头
-Fixed breast camera=固定乳房镜头
-Fixed crotch camera=固定胯部镜头
-Fixed backside camera=固定背部镜头
-Face=面容
-Hip=臀部
-Crotch=胯部
-Breast=乳房
-torso/=躯干
-torso=躯干
-Slime=史莱呣
-Goblin=哥布林
-&=和
-Stone Golem=石像鬼
-Auto distancing=自动距离
-area=区域
-Auto zoom=自动缩放
-No.=其
-=========副词========
-Low=低
-Fire/Heat=火/热
-Ltng./Acid=雷/酸
-Ice/Water=冰/水
-Medium=中等
-High=高
-Absorb=吸收
-Quite High=稍高
-Quite high=稍高
-Deadly=致命
-Ineffective=无效
-Quite Low=稍低
-Quite low=稍低
 
 
 Z Key / 1 Button=Z键/1按钮
