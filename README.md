@@ -126,13 +126,13 @@ https://www.bilibili.com/video/bv1aF411W7ej
 
 ## 项目贡献者名单 ##
 **文本抓取：**
-jefice，
+jefice，ice-forever，
 
 **翻译&校对：**
-ice-forever，
+，ice-forever
 
 **技术支持：** 
-[bilibili：失去我的我](https://space.bilibili.com/18791397/channel/seriesdetail?sid=2240628)，
+[bilibili：失去我的我](https://space.bilibili.com/18791397/channel/seriesdetail?sid=2240628)，[bilibili：莴菽](https://www.bilibili.com/read/cv15446881)，bilibili：霏雪芊葉
 
 
 
