@@ -24,7 +24,7 @@ alt+T 键可使插件切换原文显示，可方便对照英文和中文并检�
 
 请参阅目录下的[`翻译插件安装与使用.md`](https://github.com/RiccaSinicization/RICCA-Chinese-file-public-version/blob/master/%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.md)获取使用支持。
 
-在本项目的发布页面中，将会提供TMP字体，配置好的配置文件等内容，强烈建议下载并使用；反馈BUG等其它内容前请确保使用了本项目提供的字体和配置文件。
+在本项目的发布页面中，将会提供TMP字体，配置好的配置文件等内容，建议下载并使用；反馈BUG等其它内容前请确保使用了本项目提供的字体和配置文件。
 
 基于解包的去码与汉化插件并不冲突，请自行参考本项目中资料进行去码操作。
 
@@ -61,13 +61,13 @@ alt+T 键可使插件切换原文显示，可方便对照英文和中文并检�
 2. 将pdf格式的说明文件打包的rar文件
 3. Source code (zip）文件为该次发行时使用的仓库文件的压缩包
 
-本项目由极少的游戏玩家进行维护和汉化，水平和产能有限，请在做好心理准备后决定使用本项目的汉化文本。
+本项目由社区进行维护和汉化，水平和产能有限，请在做好心理准备后决定使用本项目的汉化文本。
 
 
 ## 链接汇总 ##
 本项目所属**技术交流群&问题反馈群**：**779529521**
 
-[【去码+汉化】通过解包和修改文件实现的去马赛克教程！](https://github.com/RiccaSinicization/RICCA-Chinese-file-public-version/blob/master/%E3%80%90%E5%8E%BB%E7%A0%81%2B%E6%B1%89%E5%8C%96%E3%80%91%E9%80%9A%E8%BF%87%E8%A7%A3%E5%8C%85%E5%92%8C%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%8E%BB%E9%A9%AC%E8%B5%9B%E5%85%8B%E6%95%99%E7%A8%8B%EF%BC%81.md)
+[基于BepInEx6的插件去码方法](https://github.com/RiccaSinicization/RICCA-Chinese-file-public-version/blob/master/%E5%9F%BA%E4%BA%8EBepInEx6%E7%9A%84%E6%8F%92%E4%BB%B6%E5%8E%BB%E7%A0%81%E6%96%B9%E6%B3%95.md)
 
 [XUnity.AutoTranslator翻译插件安装与使用.md](https://github.com/RiccaSinicization/RICCA-Chinese-file-public-version/blob/master/%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
@@ -80,8 +80,6 @@ alt+T 键可使插件切换原文显示，可方便对照英文和中文并检�
 https://www.bilibili.com/video/BV15U4y1d7ZU
 - 圣骑士莉卡的物语去码文件制作过程视频演示/unity游戏去码的一种方案演示
 https://www.bilibili.com/video/bv1aF411W7ej
-
-
 
 ## 文本统计信息/更新历史 ##
 更新时间：2022/5/2      `内部提交db0fc5d498a60320e2f2185f67bb7350144c7810`
@@ -125,3 +123,19 @@ https://www.bilibili.com/video/bv1aF411W7ej
 需要一提的是，本游戏的英文版目前是由日文版经过机器翻译得到，日文版的文本是最准确的。本项目是为DL英文正版用户服务，与另一个对日文正版游戏进行的汉化工作并不冲突。日文版和英文版是两个游戏，两个汉化工程是正常的。如果您购买的是日文版游戏也欢迎您加入本项目的测试&翻译工作中。
 
 我们将采取适当的措施来保证英文版游戏汉化文本文件公测项目的健康运行（包括添加项目信息，版本号等操作），如果您无法接受请删除项目文件。
+
+## 项目贡献者名单 ##
+**文本抓取：**
+jefice，
+
+**翻译&校对：**
+ice-forever，
+
+**技术支持：** 
+[bilibili：失去我的我](https://space.bilibili.com/18791397/channel/seriesdetail?sid=2240628)，
+
+
+
+
+
+
