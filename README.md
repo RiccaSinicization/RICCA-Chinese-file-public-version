@@ -71,7 +71,7 @@ alt+T 键可使插件切换原文显示，可方便对照英文和中文并检�
 
 [XUnity.AutoTranslator翻译插件安装与使用.md](https://github.com/RiccaSinicization/RICCA-Chinese-file-public-version/blob/master/%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
 
-日文版游戏已知有该UP主进行汉化：[可爱的黑丸](https://www.bilibili.com/video/BV1AR4y1V73Q)
+日文版游戏已知有该UP主进行汉化：[可爱的黑丸](https://space.bilibili.com/12146005)
 
 **视频演示/教程：（项目合作)**
 
